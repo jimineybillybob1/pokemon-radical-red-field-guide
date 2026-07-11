@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#160609">
+  <meta name="description" content="An offline-friendly Radical Red Pokédex and encounter guide.">
+  <title>Radical Red Field Guide</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <button class="brand" data-view="home" aria-label="Go to overview">
+      <span class="brand-ball" aria-hidden="true"></span>
+      <span><strong>Radical Red</strong><small>Field Guide · v4.1</small></span>
+    </button>
+    <label class="global-search"><span>⌕</span><input id="globalSearch" type="search" placeholder="Search Pokémon or locations…"><kbd>/</kbd></label>
+    <button class="progress-pill" data-view="progress"><span id="headerProgress">0%</span><b>My Dex</b></button>
+  </header>
+  <div class="shell">
+    <aside class="sidebar">
+      <nav>
+        <button class="active" data-view="home"><span>⌂</span>Overview</button>
+        <button data-view="pokedex"><span>◉</span>Pokédex</button>
+        <button data-view="locations"><span>⌖</span>Locations</button>
+        <button data-view="progress"><span>✓</span>Progress</button>
+      </nav>
+      <div class="source-card"><small>DATA SOURCES</small><a href="https://dex.radicalred.net/" target="_blank">Radical Red Dex ↗</a><a href="https://radicalred.miraheze.org/wiki/Main_Page" target="_blank">Community Wiki ↗</a><p>Encounter data: Pokémon Locations & Raid Dens v4.1.</p></div>
+    </aside>
+    <main id="mainContent" tabindex="-1"></main>
+  </div>
+  <nav class="mobile-nav"><button data-view="home">⌂<small>Home</small></button><button data-view="pokedex">◉<small>Dex</small></button><button data-view="locations">⌖<small>Places</small></button><button data-view="progress">✓<small>Progress</small></button></nav>
+  <dialog id="detailDialog"><div id="dialogContent"></div></dialog>
+  <div id="toast" aria-live="polite"></div>
+  <script src="data/guide-data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

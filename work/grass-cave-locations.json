@@ -1,0 +1,7114 @@
+[
+  {
+    "name": "Cerulean Cave 1F",
+    "day": [
+      {
+        "pokemon": "Parasect",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Machamp",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Machamp",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Magneton",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Magneton",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Seismitoad",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Seismitoad",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Parasect",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Conkeldurr",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Conkeldurr",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Magneton",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Magneton",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Seismitoad",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Seismitoad",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      }
+    ]
+  },
+  {
+    "name": "Cerulean Cave 2F",
+    "day": [
+      {
+        "pokemon": "Brute Bonnet",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Great Tusk",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Primeape",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Primeape",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Great Tusk",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Audino",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Alakazam",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Alakazam",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Brute Bonnet",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Iron Treads",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Pangoro",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Pangoro",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Iron Treads",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Audino",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Reuniclus",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Reuniclus",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      }
+    ]
+  },
+  {
+    "name": "Cerulean Cave B1F",
+    "day": [
+      {
+        "pokemon": "Iron Treads",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Noivern",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Medicham",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Medicham",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Lopunny",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Iron Treads",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Lopunny",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Gardevoir",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Excadrill",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Excadrill",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Iron Treads",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Noivern",
+        "rarity": 20.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Lopunny",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Iron Treads",
+        "rarity": 10.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Lopunny",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Gardevoir",
+        "rarity": 5.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Excadrill",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Excadrill",
+        "rarity": 4.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      },
+      {
+        "pokemon": "Type: Null",
+        "rarity": 1.0,
+        "level": "68-70"
+      }
+    ]
+  },
+  {
+    "name": "Diglett Cave",
+    "day": [
+      {
+        "pokemon": "Diglett",
+        "rarity": 20.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Nacli",
+        "rarity": 20.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Numel",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Yamask",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Sandshrew",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Geodude",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Trapinch",
+        "rarity": 5.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Silicobra",
+        "rarity": 5.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Bronzor",
+        "rarity": 4.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Machop",
+        "rarity": 4.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Noibat",
+        "rarity": 1.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Noibat",
+        "rarity": 1.0,
+        "level": "7-9"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Diglett-Alola",
+        "rarity": 20.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Nacli",
+        "rarity": 20.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Numel",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Yamask-Galar",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Sandshrew",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Geodude-Alola",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Trapinch",
+        "rarity": 5.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Sandile",
+        "rarity": 5.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Bronzor",
+        "rarity": 4.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Pancham",
+        "rarity": 4.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Noibat",
+        "rarity": 1.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Noibat",
+        "rarity": 1.0,
+        "level": "7-9"
+      }
+    ]
+  },
+  {
+    "name": "Diglett Cave B1F",
+    "day": [
+      {
+        "pokemon": "Diglett",
+        "rarity": 20.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Diglett",
+        "rarity": 20.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Stunfisk",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Silicobra",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Golett",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Sandile",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Drilbur",
+        "rarity": 5.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Gligar",
+        "rarity": 5.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Golett",
+        "rarity": 4.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Dugtrio",
+        "rarity": 4.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Hippopotas",
+        "rarity": 1.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Hippopotas",
+        "rarity": 1.0,
+        "level": "23-25"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Diglett-Alola",
+        "rarity": 20.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Diglett-Alola",
+        "rarity": 20.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Stunfisk-Galar",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Silicobra",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Shellos",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Sandile",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Drilbur",
+        "rarity": 5.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Gligar",
+        "rarity": 5.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Sandygast",
+        "rarity": 4.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Dugtrio-Alola",
+        "rarity": 4.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Hippopotas",
+        "rarity": 1.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Hippopotas",
+        "rarity": 1.0,
+        "level": "23-25"
+      }
+    ]
+  },
+  {
+    "name": "Forest Expansion",
+    "day": [
+      {
+        "pokemon": "Caterpie",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Weedle",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Natu",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Burmy",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Combee",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Kricketot",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Slakoth",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Grubbin",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Bramblin",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Pumpkaboo-Su",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Nymble",
+        "rarity": 1.0,
+        "level": "5-7"
+      },
+      {
+        "pokemon": "Nymble",
+        "rarity": 1.0,
+        "level": "4-6"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Tarountula",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Blipbug",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Chingling",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Burmy-Trash",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Nincada",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Kricketot",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Slakoth",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Rellor",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Bramblin",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Phantump",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Nymble",
+        "rarity": 1.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Nymble",
+        "rarity": 1.0,
+        "level": "4-6"
+      }
+    ]
+  },
+  {
+    "name": "Gouging'S Room",
+    "day": [
+      {
+        "pokemon": "Unown",
+        "rarity": 20.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 20.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Cinderace",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Cinderace",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Typhlosion",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Typhlosion",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Blaziken",
+        "rarity": 5.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Blaziken",
+        "rarity": 5.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Morpeko",
+        "rarity": 4.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Morpeko",
+        "rarity": 4.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 1.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 1.0,
+        "level": "75-77"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Unown",
+        "rarity": 20.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 20.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Infernape",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Infernape",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Typhlosion",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Typhlosion",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Blaziken",
+        "rarity": 5.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Blaziken",
+        "rarity": 5.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Morpeko",
+        "rarity": 4.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Morpeko",
+        "rarity": 4.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 1.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 1.0,
+        "level": "75-77"
+      }
+    ]
+  },
+  {
+    "name": "Mansion 1F",
+    "day": [
+      {
+        "pokemon": "Raticate",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Audino",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Muk",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Muk",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Weezing",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Liepard",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Arcanine",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Arcanine",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Raticate-Alola",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Audino",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Muk-Alola",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Muk-Alola",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Weezing-Galar",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Liepard",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ninetales",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ninetales",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ]
+  },
+  {
+    "name": "Mansion 2F",
+    "day": [
+      {
+        "pokemon": "Gumshoos",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Garbodor",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Weezing",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Swalot",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Heatmor",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Salazzle",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Houndoom",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Houndoom",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Banette",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Banette",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Obstagoon",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Garbodor",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Weezing-Galar",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Swalot",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Heatmor",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Salazzle",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ninetales",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ninetales",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Banette",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Banette",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ]
+  },
+  {
+    "name": "Mansion 3F",
+    "day": [
+      {
+        "pokemon": "Bewear",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Seviper",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ariados",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ariados",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Rapidash",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Skuntank",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Armarouge",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Armarouge",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Krookodile",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Krookodile",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Komala",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Seviper",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ariados",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ariados",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Rapidash-Galar",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Skuntank",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ceruledge",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ceruledge",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Krookodile",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Krookodile",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ]
+  },
+  {
+    "name": "Mansion 4F",
+    "day": [
+      {
+        "pokemon": "Unown",
+        "rarity": 20.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 20.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Meganium",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Meganium",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Quaquaval",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Quaquaval",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Empoleon",
+        "rarity": 5.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Empoleon",
+        "rarity": 5.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 4.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 4.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 1.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 1.0,
+        "level": "75-77"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Unown",
+        "rarity": 20.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 20.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Meowscarada",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Meowscarada",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Quaquaval",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Quaquaval",
+        "rarity": 10.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Empoleon",
+        "rarity": 5.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Empoleon",
+        "rarity": 5.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Froslass",
+        "rarity": 4.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Froslass",
+        "rarity": 4.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 1.0,
+        "level": "75-77"
+      },
+      {
+        "pokemon": "Unown",
+        "rarity": 1.0,
+        "level": "75-77"
+      }
+    ]
+  },
+  {
+    "name": "Mansion B1F",
+    "day": [
+      {
+        "pokemon": "Raticate",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Garbodor",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ariados",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ariados",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Magmar",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Mightyena",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Arcanine",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Arcanine",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Banette",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Banette",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Raticate-Alola",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Garbodor",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ariados",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ariados",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Magmar",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Mightyena",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ninetales",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ninetales",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Banette",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Banette",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Chimecho",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ]
+  },
+  {
+    "name": "Mt Moon 1F",
+    "day": [
+      {
+        "pokemon": "Geodude",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Zubat",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Rockruff",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Timburr",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Woobat",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Chewtle",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Makuhita",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Makuhita",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Tyrogue",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Clefairy",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Elgyem",
+        "rarity": 1.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Throh",
+        "rarity": 1.0,
+        "level": "12-14"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Geodude-Alola",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Zubat",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Rockruff",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Machop",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Noibat",
+        "rarity": 10.0,
+        "level": "10-11"
+      },
+      {
+        "pokemon": "Tympole",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Dunsparce",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Dunsparce",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Tyrogue",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Clefairy",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Elgyem",
+        "rarity": 1.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Sawk",
+        "rarity": 1.0,
+        "level": "12-14"
+      }
+    ]
+  },
+  {
+    "name": "Mt Moon B1F",
+    "day": [
+      {
+        "pokemon": "Paras",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Nacli",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Rolycoly",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Slugma",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Torkoal",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Teddiursa",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Tinkatink",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Baltoy",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Shuppet",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Shuppet",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Tinkatink",
+        "rarity": 1.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Riolu",
+        "rarity": 1.0,
+        "level": "12-14"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Paras",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Nacli",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Roggenrola",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Slugma",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Torkoal",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Teddiursa",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Tinkatink",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Sandile",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Misdreavus",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Misdreavus",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Tinkatink",
+        "rarity": 1.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Riolu",
+        "rarity": 1.0,
+        "level": "12-14"
+      }
+    ]
+  },
+  {
+    "name": "Mt Moon B2F",
+    "day": [
+      {
+        "pokemon": "Varoom",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Zubat",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Pawniard",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Numel",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Cranidos",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Drilbur",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Mudbray",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Smoochum",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Smoochum",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Solrock",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Onix",
+        "rarity": 1.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Onix",
+        "rarity": 1.0,
+        "level": "12-14"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Mawile",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Zubat",
+        "rarity": 20.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Pawniard",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Rolycoly",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Shieldon",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Drilbur",
+        "rarity": 10.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Mudbray",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Munna",
+        "rarity": 5.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Munna",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Lunatone",
+        "rarity": 4.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Onix",
+        "rarity": 1.0,
+        "level": "12-14"
+      },
+      {
+        "pokemon": "Onix",
+        "rarity": 1.0,
+        "level": "12-14"
+      }
+    ]
+  },
+  {
+    "name": "Pewter City",
+    "day": [
+      {
+        "pokemon": "Grimer",
+        "rarity": 20.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Starly",
+        "rarity": 20.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Exeggcute",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Spoink",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Hoppip",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Numel",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Cutiefly",
+        "rarity": 5.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Sinistea",
+        "rarity": 5.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Ekans",
+        "rarity": 4.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Phanpy",
+        "rarity": 4.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Axew",
+        "rarity": 1.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Bonsly",
+        "rarity": 1.0,
+        "level": "7-9"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Grimer-Alola",
+        "rarity": 20.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Starly",
+        "rarity": 20.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Exeggcute",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Espurr",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Skiddo",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Numel",
+        "rarity": 10.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Gastly",
+        "rarity": 5.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Poltchageist",
+        "rarity": 5.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Ekans",
+        "rarity": 4.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Phanpy",
+        "rarity": 4.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Axew",
+        "rarity": 1.0,
+        "level": "7-9"
+      },
+      {
+        "pokemon": "Bonsly",
+        "rarity": 1.0,
+        "level": "7-9"
+      }
+    ]
+  },
+  {
+    "name": "Pkmn Tower 3&5F",
+    "day": [
+      {
+        "pokemon": "Haunter",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cofagrigus",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Dusclops",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Haunter",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Runerigus",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Dusclops",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      }
+    ]
+  },
+  {
+    "name": "Pkmn Tower 4F",
+    "day": [
+      {
+        "pokemon": "Haunter",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cofagrigus",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Dusclops",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Houndstone",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Houndstone",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Haunter",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Runerigus",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Dusclops",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Houndstone",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Houndstone",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      }
+    ]
+  },
+  {
+    "name": "Pkmn Tower 6F",
+    "day": [
+      {
+        "pokemon": "Haunter",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cofagrigus",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Dusclops",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Annihilape",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Annihilape",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Haunter",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Runerigus",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Dusclops",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Annihilape",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Annihilape",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Lampent",
+        "rarity": 1.0,
+        "level": "45-47"
+      }
+    ]
+  },
+  {
+    "name": "Pkmn Tower 7F",
+    "day": [
+      {
+        "pokemon": "Haunter",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cofagrigus",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Dusclops",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Rotom",
+        "rarity": 1.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Rotom",
+        "rarity": 1.0,
+        "level": "45-47"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Haunter",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Runerigus",
+        "rarity": 20.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Dusclops",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Mismagius",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Spiritomb",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Sableye",
+        "rarity": 5.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Polteageist",
+        "rarity": 4.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Rotom",
+        "rarity": 1.0,
+        "level": "45-47"
+      },
+      {
+        "pokemon": "Rotom",
+        "rarity": 1.0,
+        "level": "45-47"
+      }
+    ]
+  },
+  {
+    "name": "Power Plant",
+    "day": [
+      {
+        "pokemon": "Magneton",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electrode",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Zebstrika",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Eelektross",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ampharos",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ampharos",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Dedenne",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Dedenne",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electabuzz",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electabuzz",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electabuzz",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electabuzz",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Magneton",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electrode",
+        "rarity": 20.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Manectric",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Vikavolt",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ampharos",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Ampharos",
+        "rarity": 10.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Togedemaru",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Togedemaru",
+        "rarity": 5.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electabuzz",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electabuzz",
+        "rarity": 4.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electabuzz",
+        "rarity": 1.0,
+        "level": "63-65"
+      },
+      {
+        "pokemon": "Electabuzz",
+        "rarity": 1.0,
+        "level": "63-65"
+      }
+    ]
+  },
+  {
+    "name": "Rock Tunnel 1F",
+    "day": [
+      {
+        "pokemon": "Graveler",
+        "rarity": 20.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Aron",
+        "rarity": 20.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Shuckle",
+        "rarity": 10.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Solrock",
+        "rarity": 10.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Carkol",
+        "rarity": 10.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Carbink",
+        "rarity": 10.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Minior",
+        "rarity": 5.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Ferroseed",
+        "rarity": 5.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Stonjourner",
+        "rarity": 4.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Heatmor",
+        "rarity": 4.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 1.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 1.0,
+        "level": "29-31"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Graveler-Alola",
+        "rarity": 20.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Aron",
+        "rarity": 20.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Dwebble",
+        "rarity": 10.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Lunatone",
+        "rarity": 10.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Onix",
+        "rarity": 10.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Carbink",
+        "rarity": 10.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Minior",
+        "rarity": 5.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Ferroseed",
+        "rarity": 5.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Stonjourner",
+        "rarity": 4.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Heatmor",
+        "rarity": 4.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 1.0,
+        "level": "29-31"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 1.0,
+        "level": "29-31"
+      }
+    ]
+  },
+  {
+    "name": "Rock Tunnel B1F",
+    "day": [
+      {
+        "pokemon": "Sandslash",
+        "rarity": 20.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Boldore",
+        "rarity": 20.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Swinub",
+        "rarity": 10.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Snorunt",
+        "rarity": 10.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Bronzor",
+        "rarity": 10.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Bonsly",
+        "rarity": 10.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Cetoddle",
+        "rarity": 5.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Cetoddle",
+        "rarity": 5.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Cubchoo",
+        "rarity": 4.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Cubchoo",
+        "rarity": 4.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Glimmet",
+        "rarity": 1.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Glimmet",
+        "rarity": 1.0,
+        "level": "30-32"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Bergmite",
+        "rarity": 20.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Rhyhorn",
+        "rarity": 20.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Swinub",
+        "rarity": 10.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Cubone",
+        "rarity": 10.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Nosepass",
+        "rarity": 10.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Cryogonal",
+        "rarity": 10.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Cetoddle",
+        "rarity": 5.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Cetoddle",
+        "rarity": 5.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Sneasel",
+        "rarity": 4.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Sneasel",
+        "rarity": 4.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Glimmet",
+        "rarity": 1.0,
+        "level": "30-32"
+      },
+      {
+        "pokemon": "Glimmet",
+        "rarity": 1.0,
+        "level": "30-32"
+      }
+    ]
+  },
+  {
+    "name": "Route 1",
+    "day": [
+      {
+        "pokemon": "Bidoof",
+        "rarity": 20.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Zigzagoon",
+        "rarity": 20.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Rattata",
+        "rarity": 10.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Mienfoo",
+        "rarity": 10.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Meowth",
+        "rarity": 10.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Yungoos",
+        "rarity": 10.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Pidgey",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Pidgey",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Smoliv",
+        "rarity": 4.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Smoliv",
+        "rarity": 4.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Pansear",
+        "rarity": 1.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Pansear",
+        "rarity": 1.0,
+        "level": "2-4"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Poochyena",
+        "rarity": 20.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Zigzagoon-Galar",
+        "rarity": 20.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Rattata-Alola",
+        "rarity": 10.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Scraggy",
+        "rarity": 10.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Meowth-Galar",
+        "rarity": 10.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Hoothoot",
+        "rarity": 10.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Pidgey",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Pidgey",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Seedot",
+        "rarity": 4.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Seedot",
+        "rarity": 4.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Pansear",
+        "rarity": 1.0,
+        "level": "2-4"
+      },
+      {
+        "pokemon": "Pansear",
+        "rarity": 1.0,
+        "level": "2-4"
+      }
+    ]
+  },
+  {
+    "name": "Route 10",
+    "day": [
+      {
+        "pokemon": "Voltorb",
+        "rarity": 20.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Helioptile",
+        "rarity": 20.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Blitzle",
+        "rarity": 10.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Pincurchin",
+        "rarity": 10.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Plusle",
+        "rarity": 10.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Skitty",
+        "rarity": 10.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Tadbulb",
+        "rarity": 5.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Tadbulb",
+        "rarity": 5.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Magnemite",
+        "rarity": 4.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Magnemite",
+        "rarity": 4.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Sneasel-Hisui",
+        "rarity": 1.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Sneasel-Hisui",
+        "rarity": 1.0,
+        "level": "27-29"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Voltorb-Hisui",
+        "rarity": 20.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Electrike",
+        "rarity": 20.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Blitzle",
+        "rarity": 10.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Pincurchin",
+        "rarity": 10.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Minun",
+        "rarity": 10.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Skitty",
+        "rarity": 10.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Emolga",
+        "rarity": 5.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Emolga",
+        "rarity": 5.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Magnemite",
+        "rarity": 4.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Magnemite",
+        "rarity": 4.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Croagunk",
+        "rarity": 1.0,
+        "level": "27-29"
+      },
+      {
+        "pokemon": "Croagunk",
+        "rarity": 1.0,
+        "level": "27-29"
+      }
+    ]
+  },
+  {
+    "name": "Route 11",
+    "day": [
+      {
+        "pokemon": "Stufful",
+        "rarity": 20.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Ducklett",
+        "rarity": 20.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Drowzee",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Baltoy",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Maractus",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Bunnelby",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Crabrawler",
+        "rarity": 5.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Crabrawler",
+        "rarity": 5.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Flamigo",
+        "rarity": 4.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Flamigo",
+        "rarity": 4.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "rarity": 1.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "rarity": 1.0,
+        "level": "23-25"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Pancham",
+        "rarity": 20.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Ducklett",
+        "rarity": 20.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Drowzee",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Baltoy",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Cacnea",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Bunnelby",
+        "rarity": 10.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Scraggy",
+        "rarity": 5.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Scraggy",
+        "rarity": 5.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Bombirdier",
+        "rarity": 4.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Bombirdier",
+        "rarity": 4.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "rarity": 1.0,
+        "level": "23-25"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "rarity": 1.0,
+        "level": "23-25"
+      }
+    ]
+  },
+  {
+    "name": "Route 12",
+    "day": [
+      {
+        "pokemon": "Sneasel",
+        "rarity": 20.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Dewgong",
+        "rarity": 20.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Walrein",
+        "rarity": 10.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Glalie",
+        "rarity": 10.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Throh",
+        "rarity": 10.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Cetitan",
+        "rarity": 10.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Avalugg",
+        "rarity": 5.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Avalugg",
+        "rarity": 5.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Mr. Mime-Galar",
+        "rarity": 4.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Mr. Mime-Galar",
+        "rarity": 4.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Arctovish",
+        "rarity": 1.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Arctozolt",
+        "rarity": 1.0,
+        "level": "50-52"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Sneasel",
+        "rarity": 20.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Dewgong",
+        "rarity": 20.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Walrein",
+        "rarity": 10.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Froslass",
+        "rarity": 10.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Sawk",
+        "rarity": 10.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Cetitan",
+        "rarity": 10.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Avalugg-Hisui",
+        "rarity": 5.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Avalugg-Hisui",
+        "rarity": 5.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Mr. Mime-Galar",
+        "rarity": 4.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Mr. Mime-Galar",
+        "rarity": 4.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Arctovish",
+        "rarity": 1.0,
+        "level": "50-52"
+      },
+      {
+        "pokemon": "Arctozolt",
+        "rarity": 1.0,
+        "level": "50-52"
+      }
+    ]
+  },
+  {
+    "name": "Route 13",
+    "day": [
+      {
+        "pokemon": "Tangrowth",
+        "rarity": 20.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Exeggutor",
+        "rarity": 20.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Roselia",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Lurantis",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Simisage",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Jumpluff",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Bulbasaur",
+        "rarity": 5.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Bulbasaur",
+        "rarity": 5.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Exeggutor-Alola",
+        "rarity": 4.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Charmander",
+        "rarity": 1.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Charmander",
+        "rarity": 1.0,
+        "level": "48-50"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Talonflame",
+        "rarity": 20.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Pyroar",
+        "rarity": 20.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Arcanine",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Magmar",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Simisear",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Oricorio",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Charmander",
+        "rarity": 5.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Charmander",
+        "rarity": 5.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Turtonator",
+        "rarity": 4.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Duraludon",
+        "rarity": 4.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Centiskorch",
+        "rarity": 1.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Centiskorch",
+        "rarity": 1.0,
+        "level": "48-50"
+      }
+    ]
+  },
+  {
+    "name": "Route 14",
+    "day": [
+      {
+        "pokemon": "Pelipper",
+        "rarity": 20.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Swadloon",
+        "rarity": 20.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Torkoal",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Torkoal",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Whirlipede",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Whirlipede",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Charjabug",
+        "rarity": 5.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Charjabug",
+        "rarity": 5.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 4.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 4.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Golisopod",
+        "rarity": 1.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Golisopod",
+        "rarity": 1.0,
+        "level": "48-50"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Pelipper",
+        "rarity": 20.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Swadloon",
+        "rarity": 20.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Torkoal",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Torkoal",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Palossand",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Palossand",
+        "rarity": 10.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Charjabug",
+        "rarity": 5.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Charjabug",
+        "rarity": 5.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 4.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 4.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Golisopod",
+        "rarity": 1.0,
+        "level": "48-50"
+      },
+      {
+        "pokemon": "Golisopod",
+        "rarity": 1.0,
+        "level": "48-50"
+      }
+    ]
+  },
+  {
+    "name": "Route 15",
+    "day": [
+      {
+        "pokemon": "Amoonguss",
+        "rarity": 20.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ambipom",
+        "rarity": 20.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Tsareena",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Galvantula",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Simipour",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Oricorio",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "rarity": 5.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "rarity": 5.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "rarity": 4.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "rarity": 4.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ditto",
+        "rarity": 1.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ditto",
+        "rarity": 1.0,
+        "level": "49-51"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Amoonguss",
+        "rarity": 20.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ambipom",
+        "rarity": 20.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Tsareena",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Galvantula",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Simipour",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Oricorio",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "rarity": 5.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Sigilyph",
+        "rarity": 5.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "rarity": 4.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ferrothorn",
+        "rarity": 4.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ditto",
+        "rarity": 1.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Ditto",
+        "rarity": 1.0,
+        "level": "49-51"
+      }
+    ]
+  },
+  {
+    "name": "Route 16",
+    "day": [
+      {
+        "pokemon": "Heracross",
+        "rarity": 20.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Yanma",
+        "rarity": 20.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Rhyhorn",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Skorupi",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Cufant",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Togedemaru",
+        "rarity": 5.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Skarmory",
+        "rarity": 5.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Orthworm",
+        "rarity": 4.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Orthworm",
+        "rarity": 4.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Escavalier",
+        "rarity": 1.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Cufant",
+        "rarity": 1.0,
+        "level": "36-38"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Scyther",
+        "rarity": 20.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Forretress",
+        "rarity": 20.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Rhyhorn",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Falinks",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Cufant",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Durant",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Togedemaru",
+        "rarity": 5.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Skarmory",
+        "rarity": 5.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Orthworm",
+        "rarity": 4.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Orthworm",
+        "rarity": 4.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Escavalier",
+        "rarity": 1.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Cufant",
+        "rarity": 1.0,
+        "level": "36-38"
+      }
+    ]
+  },
+  {
+    "name": "Route 17",
+    "day": [
+      {
+        "pokemon": "Weezing",
+        "rarity": 20.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Cyclizar",
+        "rarity": 20.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Muk",
+        "rarity": 10.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Zebstrika",
+        "rarity": 10.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Grumpig",
+        "rarity": 10.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Torkoal",
+        "rarity": 10.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Skarmory",
+        "rarity": 5.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Skarmory",
+        "rarity": 5.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Drampa",
+        "rarity": 4.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Drampa",
+        "rarity": 4.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Dracozolt",
+        "rarity": 1.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Dracozolt",
+        "rarity": 1.0,
+        "level": "46-48"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Weezing-Galar",
+        "rarity": 20.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Cyclizar",
+        "rarity": 20.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Muk-Alola",
+        "rarity": 10.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Zebstrika",
+        "rarity": 10.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Grumpig",
+        "rarity": 10.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Torkoal",
+        "rarity": 10.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Skarmory",
+        "rarity": 5.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Skarmory",
+        "rarity": 5.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Turtonator",
+        "rarity": 4.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Turtonator",
+        "rarity": 4.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Dracozolt",
+        "rarity": 1.0,
+        "level": "46-48"
+      },
+      {
+        "pokemon": "Dracozolt",
+        "rarity": 1.0,
+        "level": "46-48"
+      }
+    ]
+  },
+  {
+    "name": "Route 18",
+    "day": [
+      {
+        "pokemon": "Xatu",
+        "rarity": 20.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Vikavolt",
+        "rarity": 20.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Poliwrath",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Abomasnow",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Altaria",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Parasect",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "rarity": 5.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Toxicroak",
+        "rarity": 5.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Kabutops",
+        "rarity": 4.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Kabutops",
+        "rarity": 4.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Arctovish",
+        "rarity": 1.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Dracovish",
+        "rarity": 1.0,
+        "level": "49-51"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Xatu",
+        "rarity": 20.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Vikavolt",
+        "rarity": 20.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Politoed",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Abomasnow",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Altaria",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 10.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Heliolisk",
+        "rarity": 5.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Heliolisk",
+        "rarity": 5.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Omastar",
+        "rarity": 4.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Omastar",
+        "rarity": 4.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Arctovish",
+        "rarity": 1.0,
+        "level": "49-51"
+      },
+      {
+        "pokemon": "Dracovish",
+        "rarity": 1.0,
+        "level": "49-51"
+      }
+    ]
+  },
+  {
+    "name": "Route 2",
+    "day": [
+      {
+        "pokemon": "Bidoof",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Sentret",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Ponyta",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Phanpy",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Meditite",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Shinx",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Mareep",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Litleo",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Zigzagoon",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Abra",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Pansage",
+        "rarity": 1.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Pansage",
+        "rarity": 1.0,
+        "level": "3-5"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Poochyena",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Sentret",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Ponyta-Galar",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Phanpy",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Meditite",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Shinx",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Mareep",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Houndour",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Zigzagoon-Galar",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Abra",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Pansage",
+        "rarity": 1.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Pansage",
+        "rarity": 1.0,
+        "level": "3-5"
+      }
+    ]
+  },
+  {
+    "name": "Route 21A",
+    "day": [
+      {
+        "pokemon": "Wooper",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Lechonk",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wiglett",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wiglett",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Dwebble",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Snubbull",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wingull",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wingull",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Fidough",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Fidough",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Capsakid",
+        "rarity": 1.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Capsakid",
+        "rarity": 1.0,
+        "level": "4-6"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Wooper-Paldea",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Lechonk",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wiglett",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wiglett",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Dwebble",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Snubbull",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wingull",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wingull",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Maschiff",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Maschiff",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Lotad",
+        "rarity": 1.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Lotad",
+        "rarity": 1.0,
+        "level": "4-6"
+      }
+    ]
+  },
+  {
+    "name": "Route 22",
+    "day": [
+      {
+        "pokemon": "Starly",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Budew",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Mankey",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Morelull",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Snubbull",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Lillipup",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Oddish",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Sandygast",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Bellsprout",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Rockruff",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Panpour",
+        "rarity": 1.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Panpour",
+        "rarity": 1.0,
+        "level": "3-5"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Starly",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Sandshrew-Alola",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Mankey",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Morelull",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Flabébé",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Skwovet",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Applin",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Sandygast",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Paras",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Rockruff",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Panpour",
+        "rarity": 1.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Panpour",
+        "rarity": 1.0,
+        "level": "3-5"
+      }
+    ]
+  },
+  {
+    "name": "Route 23",
+    "day": [
+      {
+        "pokemon": "Primeape",
+        "rarity": 20.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Fearow",
+        "rarity": 20.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Simisage",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Simisear",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Simipour",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Simipour",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Seviper",
+        "rarity": 5.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Seviper",
+        "rarity": 5.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 4.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 4.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Staraptor",
+        "rarity": 1.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Staraptor",
+        "rarity": 1.0,
+        "level": "33-35"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Primeape",
+        "rarity": 20.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Fearow",
+        "rarity": 20.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Simisage",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Simisear",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Simipour",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Simipour",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Seviper",
+        "rarity": 5.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Seviper",
+        "rarity": 5.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 4.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 4.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Staraptor",
+        "rarity": 1.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Staraptor",
+        "rarity": 1.0,
+        "level": "33-35"
+      }
+    ]
+  },
+  {
+    "name": "Route 24",
+    "day": [
+      {
+        "pokemon": "Snubbull",
+        "rarity": 20.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Petilil",
+        "rarity": 20.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Yamper",
+        "rarity": 10.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Charcadet",
+        "rarity": 10.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Elekid",
+        "rarity": 10.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Volbeat",
+        "rarity": 10.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Marill",
+        "rarity": 5.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Farfetch'd",
+        "rarity": 5.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Ralts",
+        "rarity": 4.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Abra",
+        "rarity": 4.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Klawf",
+        "rarity": 1.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Klawf",
+        "rarity": 1.0,
+        "level": "14-16"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Snubbull",
+        "rarity": 20.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Cottonee",
+        "rarity": 20.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Yamper",
+        "rarity": 10.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Charcadet",
+        "rarity": 10.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Magby",
+        "rarity": 10.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Illumise",
+        "rarity": 10.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Buizel",
+        "rarity": 5.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Murkrow",
+        "rarity": 5.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Ralts",
+        "rarity": 4.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Abra",
+        "rarity": 4.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Klawf",
+        "rarity": 1.0,
+        "level": "14-16"
+      },
+      {
+        "pokemon": "Klawf",
+        "rarity": 1.0,
+        "level": "14-16"
+      }
+    ]
+  },
+  {
+    "name": "Route 25",
+    "day": [
+      {
+        "pokemon": "Swablu",
+        "rarity": 20.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Taillow",
+        "rarity": 20.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Pineco",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Tadbulb",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Karrablast",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Doduo",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Aipom",
+        "rarity": 5.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Whismur",
+        "rarity": 5.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Squawkabilly-G",
+        "rarity": 4.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Audino",
+        "rarity": 4.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Zangoose",
+        "rarity": 1.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Zangoose",
+        "rarity": 1.0,
+        "level": "16-18"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Swablu",
+        "rarity": 20.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Taillow",
+        "rarity": 20.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Venonat",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Tadbulb",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Karrablast",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Doduo",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Aipom",
+        "rarity": 5.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Purrloin",
+        "rarity": 5.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Squawkabilly-W",
+        "rarity": 4.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Audino",
+        "rarity": 4.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Seviper",
+        "rarity": 1.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Seviper",
+        "rarity": 1.0,
+        "level": "16-18"
+      }
+    ]
+  },
+  {
+    "name": "Route 3",
+    "day": [
+      {
+        "pokemon": "Fletchling",
+        "rarity": 20.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Ekans",
+        "rarity": 20.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Spearow",
+        "rarity": 10.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Nidoran-M",
+        "rarity": 10.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Nickit",
+        "rarity": 10.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Shroomish",
+        "rarity": 10.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Buneary",
+        "rarity": 5.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Buneary",
+        "rarity": 5.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Litleo",
+        "rarity": 4.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Stunky",
+        "rarity": 4.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Jigglypuff",
+        "rarity": 1.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Meowth-Alola",
+        "rarity": 1.0,
+        "level": "10-12"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Fletchling",
+        "rarity": 20.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Ekans",
+        "rarity": 20.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Spearow",
+        "rarity": 10.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Nidoran-F",
+        "rarity": 10.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Nickit",
+        "rarity": 10.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Skiddo",
+        "rarity": 10.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Shroodle",
+        "rarity": 5.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Shroodle",
+        "rarity": 5.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Litleo",
+        "rarity": 4.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Glameow",
+        "rarity": 4.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Jigglypuff",
+        "rarity": 1.0,
+        "level": "10-12"
+      },
+      {
+        "pokemon": "Meowth-Alola",
+        "rarity": 1.0,
+        "level": "10-12"
+      }
+    ]
+  },
+  {
+    "name": "Route 4",
+    "day": [
+      {
+        "pokemon": "Pidove",
+        "rarity": 20.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Bellsprout",
+        "rarity": 20.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Shinx",
+        "rarity": 10.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Pachirisu",
+        "rarity": 10.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Glameow",
+        "rarity": 10.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Tandemaus",
+        "rarity": 10.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Pumpkaboo",
+        "rarity": 5.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Flabébé",
+        "rarity": 5.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Pumpkaboo-Sm",
+        "rarity": 4.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Pumpkaboo-Sm",
+        "rarity": 4.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Yanma",
+        "rarity": 1.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Rookidee",
+        "rarity": 1.0,
+        "level": "13-15"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Pidove",
+        "rarity": 20.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Oddish",
+        "rarity": 20.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Mareep",
+        "rarity": 10.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Pachirisu",
+        "rarity": 10.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Stunky",
+        "rarity": 10.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Tandemaus",
+        "rarity": 10.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Phantump",
+        "rarity": 5.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Flabébé",
+        "rarity": 5.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Pumpkaboo-La",
+        "rarity": 4.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Pumpkaboo-La",
+        "rarity": 4.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Yanma",
+        "rarity": 1.0,
+        "level": "13-15"
+      },
+      {
+        "pokemon": "Rookidee",
+        "rarity": 1.0,
+        "level": "13-15"
+      }
+    ]
+  },
+  {
+    "name": "Route 5",
+    "day": [
+      {
+        "pokemon": "Meowth",
+        "rarity": 20.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Hatenna",
+        "rarity": 20.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Solosis",
+        "rarity": 10.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Growlithe",
+        "rarity": 10.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Swirlix",
+        "rarity": 10.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Morelull",
+        "rarity": 10.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Vulpix",
+        "rarity": 5.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Solosis",
+        "rarity": 5.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Grimer",
+        "rarity": 4.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Grimer",
+        "rarity": 4.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Drifloon",
+        "rarity": 1.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Drifloon",
+        "rarity": 1.0,
+        "level": "18-20"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Meowth-Galar",
+        "rarity": 20.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Hatenna",
+        "rarity": 20.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Gothita",
+        "rarity": 10.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Vulpix-Alola",
+        "rarity": 10.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Spritzee",
+        "rarity": 10.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Morelull",
+        "rarity": 10.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Growlithe-Hisui",
+        "rarity": 5.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Gothita",
+        "rarity": 5.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Grimer-Alola",
+        "rarity": 4.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Grimer-Alola",
+        "rarity": 4.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Drifloon",
+        "rarity": 1.0,
+        "level": "18-20"
+      },
+      {
+        "pokemon": "Drifloon",
+        "rarity": 1.0,
+        "level": "18-20"
+      }
+    ]
+  },
+  {
+    "name": "Route 6",
+    "day": [
+      {
+        "pokemon": "Sunkern",
+        "rarity": 20.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Cherubi",
+        "rarity": 20.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Gulpin",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Furfrou",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Dedenne",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Lickitung",
+        "rarity": 5.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Lickitung",
+        "rarity": 5.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Flittle",
+        "rarity": 4.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Flittle",
+        "rarity": 4.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Togepi",
+        "rarity": 1.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Togepi",
+        "rarity": 1.0,
+        "level": "16-18"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Bounsweet",
+        "rarity": 20.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Gossifleur",
+        "rarity": 20.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Trubbish",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Furfrou",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Sizzlipede",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Dedenne",
+        "rarity": 10.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Komala",
+        "rarity": 5.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Komala",
+        "rarity": 5.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Meditite",
+        "rarity": 4.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Meditite",
+        "rarity": 4.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Togepi",
+        "rarity": 1.0,
+        "level": "16-18"
+      },
+      {
+        "pokemon": "Togepi",
+        "rarity": 1.0,
+        "level": "16-18"
+      }
+    ]
+  },
+  {
+    "name": "Route 7",
+    "day": [
+      {
+        "pokemon": "Deerling",
+        "rarity": 20.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Inkay",
+        "rarity": 20.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Rufflet",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Rufflet",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Cutiefly",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Applin",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Passimian",
+        "rarity": 5.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Passimian",
+        "rarity": 5.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Mienfoo",
+        "rarity": 4.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Mienfoo",
+        "rarity": 4.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Porygon",
+        "rarity": 1.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Porygon",
+        "rarity": 1.0,
+        "level": "36-38"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Deerling-Winter",
+        "rarity": 20.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Inkay",
+        "rarity": 20.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Vullaby",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Vullaby",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Cutiefly",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Applin",
+        "rarity": 10.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Oranguru",
+        "rarity": 5.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Oranguru",
+        "rarity": 5.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Mienfoo",
+        "rarity": 4.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Mienfoo",
+        "rarity": 4.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Porygon",
+        "rarity": 1.0,
+        "level": "36-38"
+      },
+      {
+        "pokemon": "Porygon",
+        "rarity": 1.0,
+        "level": "36-38"
+      }
+    ]
+  },
+  {
+    "name": "Route 8",
+    "day": [
+      {
+        "pokemon": "Fomantis",
+        "rarity": 20.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Minccino",
+        "rarity": 20.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Vanillite",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Bouffalant",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Bouffalant",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Venipede",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Comfey",
+        "rarity": 5.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Comfey",
+        "rarity": 5.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Girafarig",
+        "rarity": 4.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Girafarig",
+        "rarity": 4.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Miltank",
+        "rarity": 1.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Miltank",
+        "rarity": 1.0,
+        "level": "33-35"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Foongus",
+        "rarity": 20.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Minccino",
+        "rarity": 20.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Vanillite",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Absol",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Absol",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Venipede",
+        "rarity": 10.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Morgrem",
+        "rarity": 5.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Morgrem",
+        "rarity": 5.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Stantler",
+        "rarity": 4.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Stantler",
+        "rarity": 4.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Drampa",
+        "rarity": 1.0,
+        "level": "33-35"
+      },
+      {
+        "pokemon": "Drampa",
+        "rarity": 1.0,
+        "level": "33-35"
+      }
+    ]
+  },
+  {
+    "name": "Route 9",
+    "day": [
+      {
+        "pokemon": "Shelmet",
+        "rarity": 20.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Exeggcute",
+        "rarity": 20.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Darumaka",
+        "rarity": 10.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Dewpider",
+        "rarity": 10.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Indeedee",
+        "rarity": 10.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Rufflet",
+        "rarity": 10.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Mime Jr.",
+        "rarity": 5.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Mime Jr.",
+        "rarity": 5.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Tropius",
+        "rarity": 4.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Tropius",
+        "rarity": 4.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Skorupi",
+        "rarity": 1.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Skorupi",
+        "rarity": 1.0,
+        "level": "25-27"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Shelmet",
+        "rarity": 20.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Exeggcute",
+        "rarity": 20.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Salandit",
+        "rarity": 10.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Dewpider",
+        "rarity": 10.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Indeedee-F",
+        "rarity": 10.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Rufflet",
+        "rarity": 10.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Espurr",
+        "rarity": 5.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Espurr",
+        "rarity": 5.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Tropius",
+        "rarity": 4.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Tropius",
+        "rarity": 4.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Skorupi",
+        "rarity": 1.0,
+        "level": "25-27"
+      },
+      {
+        "pokemon": "Skorupi",
+        "rarity": 1.0,
+        "level": "25-27"
+      }
+    ]
+  },
+  {
+    "name": "Seafoam 1F",
+    "day": [
+      {
+        "pokemon": "Piloswine",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Snorunt",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Beartic",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Beartic",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Slowbro",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Slowbro",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Avalugg",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Avalugg",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Sandslash-Alola",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Snorunt",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Beartic",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Beartic",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Walrein",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Walrein",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Avalugg",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Avalugg",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ]
+  },
+  {
+    "name": "Seafoam B1F",
+    "day": [
+      {
+        "pokemon": "Piloswine",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Darmanitan-Galar",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Vanilluxe",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Vanilluxe",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Slowking",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Slowking",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Cryogonal",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Cryogonal",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Delibird",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Delibird",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Sandslash-Alola",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Darmanitan-Galar",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Vanilluxe",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Vanilluxe",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golduck",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golduck",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Cryogonal",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Cryogonal",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Delibird",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Delibird",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ]
+  },
+  {
+    "name": "Seafoam B2F",
+    "day": [
+      {
+        "pokemon": "Abomasnow",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Snover",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Crawdaunt",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Crawdaunt",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Sneasel",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Sneasel",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Delibird",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Delibird",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Abomasnow",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Snorunt",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Kingler",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Kingler",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Sneasel",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Sneasel",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Delibird",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Delibird",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ]
+  },
+  {
+    "name": "Seafoam B3F",
+    "day": [
+      {
+        "pokemon": "Piloswine",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Darmanitan-Galar",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Dewgong",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Dewgong",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Frosmoth",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Frosmoth",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Sandslash-Alola",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Darmanitan-Galar",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golduck",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golduck",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Frosmoth",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Frosmoth",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ]
+  },
+  {
+    "name": "Seafoam B4F",
+    "day": [
+      {
+        "pokemon": "Piloswine",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Abomasnow",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Dewgong",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Dewgong",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Crawdaunt",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Crawdaunt",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Piloswine",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Abomasnow",
+        "rarity": 20.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Ninetales-Alola",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Dewgong",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Dewgong",
+        "rarity": 10.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Crawdaunt",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Crawdaunt",
+        "rarity": 5.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Golbat",
+        "rarity": 4.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      },
+      {
+        "pokemon": "Jynx",
+        "rarity": 1.0,
+        "level": "62-64"
+      }
+    ]
+  },
+  {
+    "name": "Victory Road 1F",
+    "day": [
+      {
+        "pokemon": "Iron Valiant",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Metagross",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Goodra",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Steelix",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Audino",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Salamence",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Volcarona",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Aegislash",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Marowak",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Salamence",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Metagross",
+        "rarity": 1.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Salamence",
+        "rarity": 1.0,
+        "level": "80-82"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Flutter Mane",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Metagross",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Goodra-Hisui",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Steelix",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Audino",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Salamence",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Volcarona",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Aegislash",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Marowak-Alola",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Salamence",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Metagross",
+        "rarity": 1.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Salamence",
+        "rarity": 1.0,
+        "level": "80-82"
+      }
+    ]
+  },
+  {
+    "name": "Victory Road 2F",
+    "day": [
+      {
+        "pokemon": "Baxcalibur",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Garchomp",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Tyranitar",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Machamp",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Medicham",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Lucario",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Lucario",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Medicham",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Kommo-o",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Kommo-o",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Baxcalibur",
+        "rarity": 1.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Tyranitar",
+        "rarity": 1.0,
+        "level": "80-82"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Baxcalibur",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Garchomp",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Tyranitar",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Machamp",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Medicham",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Lucario",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Lucario",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Medicham",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Kommo-o",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Kommo-o",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Baxcalibur",
+        "rarity": 1.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Tyranitar",
+        "rarity": 1.0,
+        "level": "80-82"
+      }
+    ]
+  },
+  {
+    "name": "Victory Road 3F",
+    "day": [
+      {
+        "pokemon": "Dragonite",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Iron Bundle",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Dragapult",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Mawile",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Mawile",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Toxtricity",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Scizor",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Dragapult",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Iron Bundle",
+        "rarity": 1.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Dragonite",
+        "rarity": 1.0,
+        "level": "80-82"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Dragonite",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Roaring Moon",
+        "rarity": 20.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Dragapult",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Mawile",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Mawile",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Toxtricity",
+        "rarity": 10.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Scizor",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "rarity": 5.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Aerodactyl",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Dragapult",
+        "rarity": 4.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Roaring Moon",
+        "rarity": 1.0,
+        "level": "80-82"
+      },
+      {
+        "pokemon": "Dragonite",
+        "rarity": 1.0,
+        "level": "80-82"
+      }
+    ]
+  },
+  {
+    "name": "Viridian City",
+    "day": [
+      {
+        "pokemon": "Shinx",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Wooloo",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Poochyena",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Spearow",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Patrat",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Cubchoo",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Deerling-Summer",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Greavard",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Pikipek",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Pikipek",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Snover",
+        "rarity": 1.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Snover",
+        "rarity": 1.0,
+        "level": "3-5"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Pawmi",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Mareep",
+        "rarity": 20.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Poochyena",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Spearow",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Patrat",
+        "rarity": 10.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Cubchoo",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Deerling-Autumn",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Shuppet",
+        "rarity": 5.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Wattrel",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Wattrel",
+        "rarity": 4.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Swinub",
+        "rarity": 1.0,
+        "level": "3-5"
+      },
+      {
+        "pokemon": "Swinub",
+        "rarity": 1.0,
+        "level": "3-5"
+      }
+    ]
+  },
+  {
+    "name": "Viridian Forest",
+    "day": [
+      {
+        "pokemon": "Caterpie",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Weedle",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Pikachu",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Burmy-Sandy",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Sewaddle",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Scatterbug",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Ledyba",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Surskit",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Shroomish",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Shroomish",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Joltik",
+        "rarity": 1.0,
+        "level": "5-7"
+      },
+      {
+        "pokemon": "Joltik",
+        "rarity": 1.0,
+        "level": "4-6"
+      }
+    ],
+    "night": [
+      {
+        "pokemon": "Spinarak",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Wurmple",
+        "rarity": 20.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Pikachu",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Burmy-Trash",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Nincada",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Kricketot",
+        "rarity": 10.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Ledyba",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Rellor",
+        "rarity": 5.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Toedscool",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Toedscool",
+        "rarity": 4.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Snom",
+        "rarity": 1.0,
+        "level": "4-6"
+      },
+      {
+        "pokemon": "Snom",
+        "rarity": 1.0,
+        "level": "4-6"
+      }
+    ]
+  }
+]
