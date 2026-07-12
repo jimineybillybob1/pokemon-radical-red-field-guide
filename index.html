@@ -6,6 +6,9 @@
   <meta name="theme-color" content="#160609">
   <meta name="description" content="An offline-friendly Radical Red Pokédex and encounter guide.">
   <title>Radical Red Field Guide</title>
+  <link rel="icon" type="image/png" href="assets/art/radical-red-art.png">
+  <link rel="apple-touch-icon" href="assets/art/radical-red-art.png">
+  <link rel="manifest" href="site.webmanifest">
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="refinements.css">
 </head>
@@ -21,16 +24,16 @@
   <div class="shell">
     <aside class="sidebar">
       <nav>
-        <button class="active" data-view="home"><span>⌂</span>Overview</button>
-        <button data-view="pokedex"><span>◉</span>Pokédex</button>
-        <button data-view="locations"><span>⌖</span>Locations</button>
-        <button data-view="progress"><span>✓</span>Progress</button>
+        <button class="active" data-view="home"><img class="nav-sprite" src="assets/items/exp-candy-xl.png" alt="">Overview</button>
+        <button data-view="pokedex"><img class="nav-sprite" src="assets/items/poke-radar.png" alt="">Pokédex</button>
+        <button data-view="locations"><img class="nav-sprite" src="assets/items/old-sea-map.png" alt="">Locations</button>
+        <button data-view="progress"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="">Progress</button>
       </nav>
       <div class="source-card"><small>DATA SOURCES</small><a href="https://dex.radicalred.net/" target="_blank">Radical Red Dex ↗</a><a href="https://radicalred.miraheze.org/wiki/Main_Page" target="_blank">Community Wiki ↗</a><p>Encounter data: Pokémon Locations & Raid Dens v4.1.</p></div>
     </aside>
     <main id="mainContent" tabindex="-1"></main>
   </div>
-  <nav class="mobile-nav"><button data-view="home">⌂<small>Home</small></button><button data-view="pokedex">◉<small>Dex</small></button><button data-view="locations">⌖<small>Places</small></button><button data-view="progress">✓<small>Progress</small></button></nav>
+  <nav class="mobile-nav"><button data-view="home"><img class="nav-sprite" src="assets/items/exp-candy-xl.png" alt=""><small>Home</small></button><button data-view="pokedex"><img class="nav-sprite" src="assets/items/poke-radar.png" alt=""><small>Dex</small></button><button data-view="locations"><img class="nav-sprite" src="assets/items/old-sea-map.png" alt=""><small>Places</small></button><button data-view="progress"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt=""><small>Progress</small></button></nav>
   <dialog id="detailDialog"><div id="dialogContent"></div></dialog>
   <button id="jumpTop" aria-label="Jump to top">↑</button>
   <div id="toast" aria-live="polite"></div>

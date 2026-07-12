@@ -1,0 +1,23 @@
+{
+  "name": "Radical Red Field Guide",
+  "short_name": "Radical Red",
+  "description": "An offline-friendly Radical Red Pokédex and encounter guide.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#11070a",
+  "theme_color": "#f13f57",
+  "icons": [
+    {
+      "src": "assets/art/radical-red-art.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/art/radical-red-art.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
