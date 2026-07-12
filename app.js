@@ -1,5 +1,7 @@
 (() => {
   const data = window.GUIDE_DATA || { pokemon: [], moves: [], locations: [] };
+  const spriteFallbacks={1014:'assets/pokemon/okidogi.png',1015:'assets/pokemon/munkidori.png',1016:'assets/pokemon/fezandipiti.png',1024:'assets/pokemon/terapagos.png',1025:'assets/pokemon/pecharunt.png'};
+  data.pokemon.forEach(p=>{if(!p.sprite&&spriteFallbacks[p.dexId])p.sprite=spriteFallbacks[p.dexId]});
   const itemData = window.ITEM_GUIDE_DATA || [];
   const syncEndpoint=(window.RADICAL_RED_SYNC_ENDPOINT||'').replace(/\/+$/,'');
   const syncCodePattern=/^[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{4}(?:-[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{4}){2}$/;
