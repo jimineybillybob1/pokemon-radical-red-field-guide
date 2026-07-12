@@ -253,6 +253,8 @@
 
 .team-evolutions--bottom { margin-top:auto!important;padding-top:24px!important }
 
+.evolution-spacer { flex:0 0 24px;width:100%;height:24px;min-height:24px }.team-evolutions--bottom { padding-top:14px!important }
+
 @media (max-width: 900px) {
   .battle-enemies { grid-template-columns:1fr }
   .overview-progress-row { grid-template-columns:1fr }.overview-team>div { grid-template-columns:repeat(3,1fr) }
