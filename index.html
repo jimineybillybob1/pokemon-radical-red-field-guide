@@ -19,7 +19,10 @@
       <img class="brand-logo" src="assets/art/radical-red-logo.png" alt="">
       <span><strong>Radical Red</strong><small>Field Guide · v4.1</small></span>
     </button>
-    <label class="global-search"><span>⌕</span><input id="globalSearch" type="search" placeholder="Search Pokémon or locations…"><kbd>/</kbd></label>
+    <div class="global-search-wrap">
+      <label class="global-search"><span>⌕</span><input id="globalSearch" type="search" placeholder="Search the whole guide…" autocomplete="off" aria-controls="universalResults" aria-expanded="false"><kbd>/</kbd></label>
+      <div id="universalResults" class="universal-results" hidden></div>
+    </div>
     <button class="progress-pill" data-view="progress"><span id="headerProgress">0%</span><b>My Dex</b></button>
   </header>
   <div class="shell">
