@@ -64,14 +64,32 @@ const pokemon = values(source.species).map(entry => {
     stats: entry.stats || [],
     bst: (entry.stats || []).reduce((sum, stat) => sum + stat, 0),
     abilities: abilityList,
+    learnset: {
+      level: (entry.levelupMoves || []).map(([moveId, level]) => ({ moveId, level })).filter(item => moves.has(item.moveId)),
+      tm: (entry.tmMoves || []).map(index => source.tmMoves?.[index]).filter(moveId => moves.has(moveId)),
+      tutor: (entry.tutorMoves || []).map(index => source.tutorMoves?.[index]).filter(moveId => moves.has(moveId)),
+    },
     evolutions: (entry.evolutions || []).map(evo => ({ targetId: evo[2], method: evolutionMethod(evo) })),
     sprite,
   };
 });
 
+const moveData = values(source.moves).map(move => ({
+  id: move.ID,
+  name: move.name,
+  type: types.get(move.type)?.name || 'Unknown',
+  typeColour: types.get(move.type)?.color || '#64748b',
+  category: source.splits?.[move.split] || 'Status',
+  power: move.power || null,
+  accuracy: move.accuracy || null,
+  pp: move.pp || null,
+  priority: move.priority || 0,
+  description: move.description || '',
+}));
+
 const locations = JSON.parse(fs.readFileSync("work/grass-cave-locations.json", "utf8"));
-const output = { meta: { version: "4.1", source: "https://dex.radicalred.net/" }, pokemon, locations };
+const output = { meta: { version: "4.1", source: "https://dex.radicalred.net/" }, pokemon, moves: moveData, locations };
 fs.mkdirSync("data", { recursive: true });
 fs.writeFileSync("data/guide-data.json", JSON.stringify(output));
 fs.writeFileSync("data/guide-data.js", `window.GUIDE_DATA=${JSON.stringify(output)};`);
-console.log(`Built ${pokemon.length} forms and ${locations.length} day/night locations`);
+console.log(`Built ${pokemon.length} forms, ${moveData.length} moves and ${locations.length} day/night locations`);
