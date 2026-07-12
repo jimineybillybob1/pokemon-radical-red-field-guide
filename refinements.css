@@ -251,6 +251,8 @@
 
 .team-card,.favorite-card { height:auto }.empty-team>label { order:1;margin-bottom:12px }.empty-team>.team-empty-ball { order:2 }.empty-team>header { order:0 }
 
+.team-evolutions--bottom { margin-top:auto!important;padding-top:24px!important }
+
 @media (max-width: 900px) {
   .battle-enemies { grid-template-columns:1fr }
   .overview-progress-row { grid-template-columns:1fr }.overview-team>div { grid-template-columns:repeat(3,1fr) }

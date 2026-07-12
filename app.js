@@ -200,6 +200,7 @@
   document.addEventListener('visibilitychange',()=>{if(document.visibilityState==='visible'&&syncEndpoint&&state.syncCode)checkCloud().catch(()=>{})});
   addEventListener('resize',()=>{if(state.view==='team'||state.view==='favorites')alignBuildCards(main)},{passive:true});
   new MutationObserver(enhancePokemonDialog).observe(dialog,{childList:true,subtree:true});
-  document.addEventListener('click',event=>{const source=event.target.closest('#detailDialog [data-caught]');if(!source)return;setTimeout(()=>{const key=source.dataset.caught,caught=state.caught.has(key);main.querySelectorAll(`[data-caught="${key}"]`).forEach(button=>{button.classList.toggle('caught',caught);button.title=caught?'Mark not caught':'Mark caught';button.setAttribute('aria-label',caught?'Caught':'Not caught')})},0)});
+  document.addEventListener('click',event=>{const source=event.target.closest('#detailDialog [data-caught]');if(!source)return;setTimeout(()=>{const key=source.dataset.caught,caught=state.caught.has(key);main.querySelectorAll(`[data-caught="${key}"]`).forEach(button=>{button.classList.toggle('caught',caught);button.title=caught?'Mark not caught':'Mark caught';button.setAttribute('aria-label',caught?'Caught':'Not caught')})},0)},true);
+  dialog.addEventListener('close',()=>{if(state.view==='pokedex'||state.view==='locations')render()});
   if(syncEndpoint&&state.syncCode)checkCloud().catch(()=>{});
 })();
