@@ -379,6 +379,7 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .pokemon-picker-results button:hover { background:var(--panel2) }.pokemon-picker-results img { width:40px;height:40px;object-fit:contain }.pokemon-picker-results strong { display:block;font-size:11px }.pokemon-picker-results .types { margin-top:3px }.pokemon-picker-results .types span { padding:2px 5px;font-size:6px }.pokemon-picker-results>p { margin:0;padding:14px;color:var(--muted);font-size:10px;text-align:center }
 .search-input-shell { position:relative;display:block;width:100%;min-width:0 }
 .global-search .search-input-shell { flex:1 }.location-search>.search-input-shell { flex:1 }.move-controls>.search-input-shell { min-width:0 }
+@media(min-width:701px){.move-controls{grid-template-columns:minmax(260px,1fr) repeat(3,160px)}}
 .search-input-shell>input[type="search"] { width:100%;padding-right:40px!important }
 .search-input-shell>input[type="search"]::-webkit-search-cancel-button { display:none }
 .search-clear-button { position:absolute;right:6px;top:50%;z-index:4;width:30px!important;height:30px!important;min-width:30px!important;margin:0!important;padding:0!important;transform:translateY(-50%);border:1px solid var(--line)!important;border-radius:8px!important;background:color-mix(in srgb,var(--panel) 82%,transparent)!important;color:var(--muted)!important;font-size:18px!important;font-weight:500!important;line-height:1!important;cursor:pointer;touch-action:manipulation }
