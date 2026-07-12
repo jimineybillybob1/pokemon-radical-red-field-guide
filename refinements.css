@@ -385,3 +385,6 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .search-clear-button:hover,.search-clear-button:focus-visible { border-color:var(--red)!important;color:var(--text)!important;outline:0 }
 .item-controls>.search-input-shell input { height:43px;padding-left:12px;border:1px solid var(--line);border-radius:10px;background:var(--panel2);color:var(--text);outline:none }.item-controls>.search-input-shell input:focus { border-color:var(--red) }
 @media(max-width:700px){.move-controls>.search-input-shell{grid-column:1/-1}}@media(max-width:560px){.move-controls>.search-input-shell{grid-column:auto}}
+.physical-coverage>div { grid-template-columns:repeat(10,minmax(0,1fr)) }
+@media(max-width:1200px){.physical-coverage>div{grid-template-columns:repeat(5,minmax(0,1fr))}}
+@media(max-width:560px){.physical-coverage>div{grid-template-columns:repeat(4,minmax(0,1fr))}}
