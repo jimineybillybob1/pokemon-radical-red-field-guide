@@ -219,5 +219,6 @@
   new MutationObserver(enhancePokemonDialog).observe(dialog,{childList:true,subtree:true});
   document.addEventListener('click',event=>{const source=event.target.closest('#detailDialog [data-caught]');if(!source)return;setTimeout(()=>{const key=source.dataset.caught,caught=state.caught.has(key);main.querySelectorAll(`[data-caught="${key}"]`).forEach(button=>{button.classList.toggle('caught',caught);button.title=caught?'Mark not caught':'Mark caught';button.setAttribute('aria-label',caught?'Caught':'Not caught')})},0)},true);
   dialog.addEventListener('close',()=>{dialog.classList.remove('map-dialog');if(state.view==='pokedex'||state.view==='locations')render()});
+  dialog.addEventListener('click',event=>{if(!event.target.closest('[data-map-action]'))return;const image=dialog.querySelector('.atlas-map-stage>img');if(!image)return;requestAnimationFrame(()=>requestAnimationFrame(()=>{image.style.transform='translateZ(0)';requestAnimationFrame(()=>image.style.transform='')}))});
   if(syncEndpoint&&state.syncCode)checkCloud().catch(()=>{});
 })();
