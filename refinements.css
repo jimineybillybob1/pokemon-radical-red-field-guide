@@ -388,3 +388,10 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .physical-coverage>div { grid-template-columns:repeat(10,minmax(0,1fr)) }
 @media(max-width:1200px){.physical-coverage>div{grid-template-columns:repeat(5,minmax(0,1fr))}}
 @media(max-width:560px){.physical-coverage>div{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.rank-badges { display:flex;align-items:center;flex-wrap:wrap;gap:5px;min-height:25px;margin:8px 0 }
+.rank-badge { display:inline-flex;align-items:center;gap:4px;padding:4px 7px;border:1px solid color-mix(in srgb,var(--rank-colour) 55%,var(--line));border-radius:99px;background:color-mix(in srgb,var(--rank-colour) 14%,var(--panel2));color:color-mix(in srgb,var(--rank-colour) 82%,white);font-size:8px;font-weight:850;letter-spacing:.04em;white-space:nowrap }
+.rank-badge b { font-size:11px;line-height:1 }.rank-badge.potential { background:transparent;border-style:dashed }.rank-arrow { color:var(--muted);font-size:9px }
+.rank-s { --rank-colour:#f3bd43 }.rank-a { --rank-colour:#67d58e }.rank-b { --rank-colour:#5fb8ff }.rank-c { --rank-colour:#bd83ff }.rank-d { --rank-colour:#ff9264 }.rank-e { --rank-colour:#9a8d91 }
+.poke-card>.rank-badges { margin:8px 0 4px }.detail-hero .rank-badges { margin-top:10px }.overview-team .rank-badges { justify-content:center;margin:7px 0 0 }.overview-team .rank-badge { padding:3px 5px;font-size:6px }.overview-team .rank-badge b { font-size:8px }
+.legendary-profile .rank-badges { margin-top:8px }.battle-enemy>.rank-badges,.battle-recommendation>.rank-badges,.favorite-card>.rank-badges { margin:8px 0 12px }
+@media(max-width:560px){.rank-badge{padding:3px 5px;font-size:7px}.rank-badge b{font-size:9px}.rank-badges{gap:3px}}
