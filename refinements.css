@@ -395,3 +395,6 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .poke-card>.rank-badges { margin:8px 0 4px }.detail-hero .rank-badges { margin-top:10px }.overview-team .rank-badges { justify-content:center;margin:7px 0 0 }.overview-team .rank-badge { padding:3px 5px;font-size:6px }.overview-team .rank-badge b { font-size:8px }
 .legendary-profile .rank-badges { margin-top:8px }.battle-enemy>.rank-badges,.battle-recommendation>.rank-badges,.favorite-card>.rank-badges { margin:8px 0 12px }
 @media(max-width:560px){.rank-badge{padding:3px 5px;font-size:7px}.rank-badge b{font-size:9px}.rank-badges{gap:3px}}
+.team-card .pokemon-picker-input { font-size:15px!important }
+.encounter-bst { margin-top:2px;color:var(--gold)!important;font-size:8px!important;font-weight:900 }
+.encounter .rank-badges { gap:3px;min-height:0;margin:4px 0 0 }.encounter .rank-badge { padding:2px 5px;font-size:6px }.encounter .rank-badge b { font-size:8px }.encounter .rank-arrow { font-size:7px }
