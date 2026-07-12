@@ -18,16 +18,6 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Machamp",
-        "rarity": 10.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Magneton",
-        "rarity": 10.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Magneton",
         "rarity": 10.0,
         "level": "68-70"
@@ -38,23 +28,8 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Seismitoad",
-        "rarity": 5.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Duraludon",
         "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Duraludon",
-        "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Type: Null",
-        "rarity": 1.0,
         "level": "68-70"
       },
       {
@@ -80,16 +55,6 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Conkeldurr",
-        "rarity": 10.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Magneton",
-        "rarity": 10.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Magneton",
         "rarity": 10.0,
         "level": "68-70"
@@ -100,23 +65,8 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Seismitoad",
-        "rarity": 5.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Duraludon",
         "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Duraludon",
-        "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Type: Null",
-        "rarity": 1.0,
         "level": "68-70"
       },
       {
@@ -145,11 +95,6 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Primeape",
-        "rarity": 10.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Great Tusk",
         "rarity": 10.0,
         "level": "68-70"
@@ -165,23 +110,8 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Alakazam",
-        "rarity": 5.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Duraludon",
         "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Duraludon",
-        "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Type: Null",
-        "rarity": 1.0,
         "level": "68-70"
       },
       {
@@ -207,11 +137,6 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Pangoro",
-        "rarity": 10.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Iron Treads",
         "rarity": 10.0,
         "level": "68-70"
@@ -227,23 +152,8 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Reuniclus",
-        "rarity": 5.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Duraludon",
         "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Duraludon",
-        "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Type: Null",
-        "rarity": 1.0,
         "level": "68-70"
       },
       {
@@ -272,11 +182,6 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Medicham",
-        "rarity": 10.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Lopunny",
         "rarity": 10.0,
         "level": "68-70"
@@ -299,16 +204,6 @@
       {
         "pokemon": "Excadrill",
         "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Excadrill",
-        "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Type: Null",
-        "rarity": 1.0,
         "level": "68-70"
       },
       {
@@ -334,11 +229,6 @@
         "level": "68-70"
       },
       {
-        "pokemon": "Toxicroak",
-        "rarity": 10.0,
-        "level": "68-70"
-      },
-      {
         "pokemon": "Lopunny",
         "rarity": 10.0,
         "level": "68-70"
@@ -361,16 +251,6 @@
       {
         "pokemon": "Excadrill",
         "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Excadrill",
-        "rarity": 4.0,
-        "level": "68-70"
-      },
-      {
-        "pokemon": "Type: Null",
-        "rarity": 1.0,
         "level": "68-70"
       },
       {
@@ -437,11 +317,6 @@
         "pokemon": "Noibat",
         "rarity": 1.0,
         "level": "7-9"
-      },
-      {
-        "pokemon": "Noibat",
-        "rarity": 1.0,
-        "level": "7-9"
       }
     ],
     "night": [
@@ -499,22 +374,12 @@
         "pokemon": "Noibat",
         "rarity": 1.0,
         "level": "7-9"
-      },
-      {
-        "pokemon": "Noibat",
-        "rarity": 1.0,
-        "level": "7-9"
       }
     ]
   },
   {
     "name": "Diglett Cave B1F",
     "day": [
-      {
-        "pokemon": "Diglett",
-        "rarity": 20.0,
-        "level": "23-25"
-      },
       {
         "pokemon": "Diglett",
         "rarity": 20.0,
@@ -564,19 +429,9 @@
         "pokemon": "Hippopotas",
         "rarity": 1.0,
         "level": "23-25"
-      },
-      {
-        "pokemon": "Hippopotas",
-        "rarity": 1.0,
-        "level": "23-25"
       }
     ],
     "night": [
-      {
-        "pokemon": "Diglett-Alola",
-        "rarity": 20.0,
-        "level": "23-25"
-      },
       {
         "pokemon": "Diglett-Alola",
         "rarity": 20.0,
@@ -620,11 +475,6 @@
       {
         "pokemon": "Dugtrio-Alola",
         "rarity": 4.0,
-        "level": "23-25"
-      },
-      {
-        "pokemon": "Hippopotas",
-        "rarity": 1.0,
         "level": "23-25"
       },
       {
@@ -753,11 +603,6 @@
         "pokemon": "Nymble",
         "rarity": 1.0,
         "level": "4-6"
-      },
-      {
-        "pokemon": "Nymble",
-        "rarity": 1.0,
-        "level": "4-6"
       }
     ]
   },
@@ -770,24 +615,9 @@
         "level": "75-77"
       },
       {
-        "pokemon": "Unown",
-        "rarity": 20.0,
-        "level": "75-77"
-      },
-      {
         "pokemon": "Cinderace",
         "rarity": 10.0,
         "level": "75-77"
-      },
-      {
-        "pokemon": "Cinderace",
-        "rarity": 10.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Typhlosion",
-        "rarity": 10.0,
-        "level": "63-65"
       },
       {
         "pokemon": "Typhlosion",
@@ -800,23 +630,8 @@
         "level": "75-77"
       },
       {
-        "pokemon": "Blaziken",
-        "rarity": 5.0,
-        "level": "75-77"
-      },
-      {
         "pokemon": "Morpeko",
         "rarity": 4.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Morpeko",
-        "rarity": 4.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Unown",
-        "rarity": 1.0,
         "level": "75-77"
       },
       {
@@ -832,22 +647,7 @@
         "level": "75-77"
       },
       {
-        "pokemon": "Unown",
-        "rarity": 20.0,
-        "level": "75-77"
-      },
-      {
         "pokemon": "Infernape",
-        "rarity": 10.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Infernape",
-        "rarity": 10.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Typhlosion",
         "rarity": 10.0,
         "level": "75-77"
       },
@@ -862,23 +662,8 @@
         "level": "75-77"
       },
       {
-        "pokemon": "Blaziken",
-        "rarity": 5.0,
-        "level": "75-77"
-      },
-      {
         "pokemon": "Morpeko",
         "rarity": 4.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Morpeko",
-        "rarity": 4.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Unown",
-        "rarity": 1.0,
         "level": "75-77"
       },
       {
@@ -907,11 +692,6 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Muk",
-        "rarity": 10.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Weezing",
         "rarity": 10.0,
         "level": "63-65"
@@ -927,23 +707,8 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Arcanine",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Sableye",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Sableye",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Chimecho",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -969,11 +734,6 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Muk-Alola",
-        "rarity": 10.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Weezing-Galar",
         "rarity": 10.0,
         "level": "63-65"
@@ -989,23 +749,8 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ninetales",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Sableye",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Sableye",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Chimecho",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -1054,23 +799,8 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Houndoom",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Banette",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Banette",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Chimecho",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -1116,23 +846,8 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ninetales",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Banette",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Banette",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Chimecho",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -1161,11 +876,6 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ariados",
-        "rarity": 10.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Rapidash",
         "rarity": 10.0,
         "level": "63-65"
@@ -1181,23 +891,8 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Armarouge",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Krookodile",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Krookodile",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Chimecho",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -1223,11 +918,6 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ariados",
-        "rarity": 10.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Rapidash-Galar",
         "rarity": 10.0,
         "level": "63-65"
@@ -1243,23 +933,8 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ceruledge",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Krookodile",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Krookodile",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Chimecho",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -1278,22 +953,7 @@
         "level": "75-77"
       },
       {
-        "pokemon": "Unown",
-        "rarity": 20.0,
-        "level": "75-77"
-      },
-      {
         "pokemon": "Meganium",
-        "rarity": 10.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Meganium",
-        "rarity": 10.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Quaquaval",
         "rarity": 10.0,
         "level": "75-77"
       },
@@ -1308,23 +968,8 @@
         "level": "75-77"
       },
       {
-        "pokemon": "Empoleon",
-        "rarity": 5.0,
-        "level": "75-77"
-      },
-      {
         "pokemon": "Mismagius",
         "rarity": 4.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Mismagius",
-        "rarity": 4.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Unown",
-        "rarity": 1.0,
         "level": "75-77"
       },
       {
@@ -1340,22 +985,7 @@
         "level": "75-77"
       },
       {
-        "pokemon": "Unown",
-        "rarity": 20.0,
-        "level": "75-77"
-      },
-      {
         "pokemon": "Meowscarada",
-        "rarity": 10.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Meowscarada",
-        "rarity": 10.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Quaquaval",
         "rarity": 10.0,
         "level": "75-77"
       },
@@ -1370,23 +1000,8 @@
         "level": "75-77"
       },
       {
-        "pokemon": "Empoleon",
-        "rarity": 5.0,
-        "level": "75-77"
-      },
-      {
         "pokemon": "Froslass",
         "rarity": 4.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Froslass",
-        "rarity": 4.0,
-        "level": "75-77"
-      },
-      {
-        "pokemon": "Unown",
-        "rarity": 1.0,
         "level": "75-77"
       },
       {
@@ -1415,11 +1030,6 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ariados",
-        "rarity": 10.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Magmar",
         "rarity": 10.0,
         "level": "63-65"
@@ -1435,23 +1045,8 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Arcanine",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Banette",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Banette",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Chimecho",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -1477,11 +1072,6 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ariados",
-        "rarity": 10.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Magmar",
         "rarity": 10.0,
         "level": "63-65"
@@ -1497,23 +1087,8 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ninetales",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Banette",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Banette",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Chimecho",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -1554,11 +1129,6 @@
       {
         "pokemon": "Chewtle",
         "rarity": 10.0,
-        "level": "12-14"
-      },
-      {
-        "pokemon": "Makuhita",
-        "rarity": 5.0,
         "level": "12-14"
       },
       {
@@ -1616,11 +1186,6 @@
       {
         "pokemon": "Tympole",
         "rarity": 10.0,
-        "level": "12-14"
-      },
-      {
-        "pokemon": "Dunsparce",
-        "rarity": 5.0,
         "level": "12-14"
       },
       {
@@ -1699,11 +1264,6 @@
         "level": "12-14"
       },
       {
-        "pokemon": "Shuppet",
-        "rarity": 4.0,
-        "level": "12-14"
-      },
-      {
         "pokemon": "Tinkatink",
         "rarity": 1.0,
         "level": "12-14"
@@ -1753,11 +1313,6 @@
       {
         "pokemon": "Sandile",
         "rarity": 5.0,
-        "level": "12-14"
-      },
-      {
-        "pokemon": "Misdreavus",
-        "rarity": 4.0,
         "level": "12-14"
       },
       {
@@ -1834,11 +1389,6 @@
         "pokemon": "Onix",
         "rarity": 1.0,
         "level": "12-14"
-      },
-      {
-        "pokemon": "Onix",
-        "rarity": 1.0,
-        "level": "12-14"
       }
     ],
     "night": [
@@ -1890,11 +1440,6 @@
       {
         "pokemon": "Lunatone",
         "rarity": 4.0,
-        "level": "12-14"
-      },
-      {
-        "pokemon": "Onix",
-        "rarity": 1.0,
         "level": "12-14"
       },
       {
@@ -2055,11 +1600,6 @@
         "level": "45-47"
       },
       {
-        "pokemon": "Mismagius",
-        "rarity": 10.0,
-        "level": "45-47"
-      },
-      {
         "pokemon": "Cubone",
         "rarity": 10.0,
         "level": "45-47"
@@ -2077,16 +1617,6 @@
       {
         "pokemon": "Polteageist",
         "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Polteageist",
-        "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Lampent",
-        "rarity": 1.0,
         "level": "45-47"
       },
       {
@@ -2117,11 +1647,6 @@
         "level": "45-47"
       },
       {
-        "pokemon": "Mismagius",
-        "rarity": 10.0,
-        "level": "45-47"
-      },
-      {
         "pokemon": "Cubone",
         "rarity": 10.0,
         "level": "45-47"
@@ -2139,16 +1664,6 @@
       {
         "pokemon": "Polteageist",
         "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Polteageist",
-        "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Lampent",
-        "rarity": 1.0,
         "level": "45-47"
       },
       {
@@ -2182,11 +1697,6 @@
         "level": "45-47"
       },
       {
-        "pokemon": "Mismagius",
-        "rarity": 10.0,
-        "level": "45-47"
-      },
-      {
         "pokemon": "Cubone",
         "rarity": 10.0,
         "level": "45-47"
@@ -2204,16 +1714,6 @@
       {
         "pokemon": "Houndstone",
         "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Houndstone",
-        "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Lampent",
-        "rarity": 1.0,
         "level": "45-47"
       },
       {
@@ -2244,11 +1744,6 @@
         "level": "45-47"
       },
       {
-        "pokemon": "Mismagius",
-        "rarity": 10.0,
-        "level": "45-47"
-      },
-      {
         "pokemon": "Cubone",
         "rarity": 10.0,
         "level": "45-47"
@@ -2266,16 +1761,6 @@
       {
         "pokemon": "Houndstone",
         "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Houndstone",
-        "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Lampent",
-        "rarity": 1.0,
         "level": "45-47"
       },
       {
@@ -2309,11 +1794,6 @@
         "level": "45-47"
       },
       {
-        "pokemon": "Annihilape",
-        "rarity": 10.0,
-        "level": "45-47"
-      },
-      {
         "pokemon": "Cubone",
         "rarity": 10.0,
         "level": "45-47"
@@ -2331,16 +1811,6 @@
       {
         "pokemon": "Polteageist",
         "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Polteageist",
-        "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Lampent",
-        "rarity": 1.0,
         "level": "45-47"
       },
       {
@@ -2371,11 +1841,6 @@
         "level": "45-47"
       },
       {
-        "pokemon": "Annihilape",
-        "rarity": 10.0,
-        "level": "45-47"
-      },
-      {
         "pokemon": "Cubone",
         "rarity": 10.0,
         "level": "45-47"
@@ -2393,16 +1858,6 @@
       {
         "pokemon": "Polteageist",
         "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Polteageist",
-        "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Lampent",
-        "rarity": 1.0,
         "level": "45-47"
       },
       {
@@ -2436,11 +1891,6 @@
         "level": "45-47"
       },
       {
-        "pokemon": "Mismagius",
-        "rarity": 10.0,
-        "level": "45-47"
-      },
-      {
         "pokemon": "Cubone",
         "rarity": 10.0,
         "level": "45-47"
@@ -2458,16 +1908,6 @@
       {
         "pokemon": "Polteageist",
         "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Polteageist",
-        "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Rotom",
-        "rarity": 1.0,
         "level": "45-47"
       },
       {
@@ -2498,11 +1938,6 @@
         "level": "45-47"
       },
       {
-        "pokemon": "Mismagius",
-        "rarity": 10.0,
-        "level": "45-47"
-      },
-      {
         "pokemon": "Cubone",
         "rarity": 10.0,
         "level": "45-47"
@@ -2520,16 +1955,6 @@
       {
         "pokemon": "Polteageist",
         "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Polteageist",
-        "rarity": 4.0,
-        "level": "45-47"
-      },
-      {
-        "pokemon": "Rotom",
-        "rarity": 1.0,
         "level": "45-47"
       },
       {
@@ -2568,16 +1993,6 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ampharos",
-        "rarity": 10.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Dedenne",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Dedenne",
         "rarity": 5.0,
         "level": "63-65"
@@ -2585,16 +2000,6 @@
       {
         "pokemon": "Electabuzz",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Electabuzz",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Electabuzz",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -2630,16 +2035,6 @@
         "level": "63-65"
       },
       {
-        "pokemon": "Ampharos",
-        "rarity": 10.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Togedemaru",
-        "rarity": 5.0,
-        "level": "63-65"
-      },
-      {
         "pokemon": "Togedemaru",
         "rarity": 5.0,
         "level": "63-65"
@@ -2647,16 +2042,6 @@
       {
         "pokemon": "Electabuzz",
         "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Electabuzz",
-        "rarity": 4.0,
-        "level": "63-65"
-      },
-      {
-        "pokemon": "Electabuzz",
-        "rarity": 1.0,
         "level": "63-65"
       },
       {
@@ -2723,11 +2108,6 @@
         "pokemon": "Durant",
         "rarity": 1.0,
         "level": "29-31"
-      },
-      {
-        "pokemon": "Durant",
-        "rarity": 1.0,
-        "level": "29-31"
       }
     ],
     "night": [
@@ -2785,11 +2165,6 @@
         "pokemon": "Durant",
         "rarity": 1.0,
         "level": "29-31"
-      },
-      {
-        "pokemon": "Durant",
-        "rarity": 1.0,
-        "level": "29-31"
       }
     ]
   },
@@ -2832,23 +2207,8 @@
         "level": "30-32"
       },
       {
-        "pokemon": "Cetoddle",
-        "rarity": 5.0,
-        "level": "30-32"
-      },
-      {
         "pokemon": "Cubchoo",
         "rarity": 4.0,
-        "level": "30-32"
-      },
-      {
-        "pokemon": "Cubchoo",
-        "rarity": 4.0,
-        "level": "30-32"
-      },
-      {
-        "pokemon": "Glimmet",
-        "rarity": 1.0,
         "level": "30-32"
       },
       {
@@ -2894,23 +2254,8 @@
         "level": "30-32"
       },
       {
-        "pokemon": "Cetoddle",
-        "rarity": 5.0,
-        "level": "30-32"
-      },
-      {
         "pokemon": "Sneasel",
         "rarity": 4.0,
-        "level": "30-32"
-      },
-      {
-        "pokemon": "Sneasel",
-        "rarity": 4.0,
-        "level": "30-32"
-      },
-      {
-        "pokemon": "Glimmet",
-        "rarity": 1.0,
         "level": "30-32"
       },
       {
@@ -2959,23 +2304,8 @@
         "level": "3-5"
       },
       {
-        "pokemon": "Pidgey",
-        "rarity": 5.0,
-        "level": "3-5"
-      },
-      {
         "pokemon": "Smoliv",
         "rarity": 4.0,
-        "level": "2-4"
-      },
-      {
-        "pokemon": "Smoliv",
-        "rarity": 4.0,
-        "level": "2-4"
-      },
-      {
-        "pokemon": "Pansear",
-        "rarity": 1.0,
         "level": "2-4"
       },
       {
@@ -3021,23 +2351,8 @@
         "level": "3-5"
       },
       {
-        "pokemon": "Pidgey",
-        "rarity": 5.0,
-        "level": "3-5"
-      },
-      {
         "pokemon": "Seedot",
         "rarity": 4.0,
-        "level": "2-4"
-      },
-      {
-        "pokemon": "Seedot",
-        "rarity": 4.0,
-        "level": "2-4"
-      },
-      {
-        "pokemon": "Pansear",
-        "rarity": 1.0,
         "level": "2-4"
       },
       {
@@ -3086,23 +2401,8 @@
         "level": "27-29"
       },
       {
-        "pokemon": "Tadbulb",
-        "rarity": 5.0,
-        "level": "27-29"
-      },
-      {
         "pokemon": "Magnemite",
         "rarity": 4.0,
-        "level": "27-29"
-      },
-      {
-        "pokemon": "Magnemite",
-        "rarity": 4.0,
-        "level": "27-29"
-      },
-      {
-        "pokemon": "Sneasel-Hisui",
-        "rarity": 1.0,
         "level": "27-29"
       },
       {
@@ -3148,23 +2448,8 @@
         "level": "27-29"
       },
       {
-        "pokemon": "Emolga",
-        "rarity": 5.0,
-        "level": "27-29"
-      },
-      {
         "pokemon": "Magnemite",
         "rarity": 4.0,
-        "level": "27-29"
-      },
-      {
-        "pokemon": "Magnemite",
-        "rarity": 4.0,
-        "level": "27-29"
-      },
-      {
-        "pokemon": "Croagunk",
-        "rarity": 1.0,
         "level": "27-29"
       },
       {
@@ -3213,23 +2498,8 @@
         "level": "23-25"
       },
       {
-        "pokemon": "Crabrawler",
-        "rarity": 5.0,
-        "level": "23-25"
-      },
-      {
         "pokemon": "Flamigo",
         "rarity": 4.0,
-        "level": "23-25"
-      },
-      {
-        "pokemon": "Flamigo",
-        "rarity": 4.0,
-        "level": "23-25"
-      },
-      {
-        "pokemon": "Sigilyph",
-        "rarity": 1.0,
         "level": "23-25"
       },
       {
@@ -3275,23 +2545,8 @@
         "level": "23-25"
       },
       {
-        "pokemon": "Scraggy",
-        "rarity": 5.0,
-        "level": "23-25"
-      },
-      {
         "pokemon": "Bombirdier",
         "rarity": 4.0,
-        "level": "23-25"
-      },
-      {
-        "pokemon": "Bombirdier",
-        "rarity": 4.0,
-        "level": "23-25"
-      },
-      {
-        "pokemon": "Sigilyph",
-        "rarity": 1.0,
         "level": "23-25"
       },
       {
@@ -3337,16 +2592,6 @@
       {
         "pokemon": "Avalugg",
         "rarity": 5.0,
-        "level": "50-52"
-      },
-      {
-        "pokemon": "Avalugg",
-        "rarity": 5.0,
-        "level": "50-52"
-      },
-      {
-        "pokemon": "Mr. Mime-Galar",
-        "rarity": 4.0,
         "level": "50-52"
       },
       {
@@ -3399,16 +2644,6 @@
       {
         "pokemon": "Avalugg-Hisui",
         "rarity": 5.0,
-        "level": "50-52"
-      },
-      {
-        "pokemon": "Avalugg-Hisui",
-        "rarity": 5.0,
-        "level": "50-52"
-      },
-      {
-        "pokemon": "Mr. Mime-Galar",
-        "rarity": 4.0,
         "level": "50-52"
       },
       {
@@ -3467,11 +2702,6 @@
         "level": "48-50"
       },
       {
-        "pokemon": "Bulbasaur",
-        "rarity": 5.0,
-        "level": "48-50"
-      },
-      {
         "pokemon": "Exeggutor-Alola",
         "rarity": 4.0,
         "level": "48-50"
@@ -3479,11 +2709,6 @@
       {
         "pokemon": "Duraludon",
         "rarity": 4.0,
-        "level": "48-50"
-      },
-      {
-        "pokemon": "Charmander",
-        "rarity": 1.0,
         "level": "48-50"
       },
       {
@@ -3529,11 +2754,6 @@
         "level": "48-50"
       },
       {
-        "pokemon": "Charmander",
-        "rarity": 5.0,
-        "level": "48-50"
-      },
-      {
         "pokemon": "Turtonator",
         "rarity": 4.0,
         "level": "48-50"
@@ -3541,11 +2761,6 @@
       {
         "pokemon": "Duraludon",
         "rarity": 4.0,
-        "level": "48-50"
-      },
-      {
-        "pokemon": "Centiskorch",
-        "rarity": 1.0,
         "level": "48-50"
       },
       {
@@ -3574,16 +2789,6 @@
         "level": "48-50"
       },
       {
-        "pokemon": "Torkoal",
-        "rarity": 10.0,
-        "level": "48-50"
-      },
-      {
-        "pokemon": "Whirlipede",
-        "rarity": 10.0,
-        "level": "48-50"
-      },
-      {
         "pokemon": "Whirlipede",
         "rarity": 10.0,
         "level": "48-50"
@@ -3594,23 +2799,8 @@
         "level": "48-50"
       },
       {
-        "pokemon": "Charjabug",
-        "rarity": 5.0,
-        "level": "48-50"
-      },
-      {
         "pokemon": "Durant",
         "rarity": 4.0,
-        "level": "48-50"
-      },
-      {
-        "pokemon": "Durant",
-        "rarity": 4.0,
-        "level": "48-50"
-      },
-      {
-        "pokemon": "Golisopod",
-        "rarity": 1.0,
         "level": "48-50"
       },
       {
@@ -3636,16 +2826,6 @@
         "level": "48-50"
       },
       {
-        "pokemon": "Torkoal",
-        "rarity": 10.0,
-        "level": "48-50"
-      },
-      {
-        "pokemon": "Palossand",
-        "rarity": 10.0,
-        "level": "48-50"
-      },
-      {
         "pokemon": "Palossand",
         "rarity": 10.0,
         "level": "48-50"
@@ -3656,23 +2836,8 @@
         "level": "48-50"
       },
       {
-        "pokemon": "Charjabug",
-        "rarity": 5.0,
-        "level": "48-50"
-      },
-      {
         "pokemon": "Durant",
         "rarity": 4.0,
-        "level": "48-50"
-      },
-      {
-        "pokemon": "Durant",
-        "rarity": 4.0,
-        "level": "48-50"
-      },
-      {
-        "pokemon": "Golisopod",
-        "rarity": 1.0,
         "level": "48-50"
       },
       {
@@ -3721,23 +2886,8 @@
         "level": "49-51"
       },
       {
-        "pokemon": "Sigilyph",
-        "rarity": 5.0,
-        "level": "49-51"
-      },
-      {
         "pokemon": "Ferrothorn",
         "rarity": 4.0,
-        "level": "49-51"
-      },
-      {
-        "pokemon": "Ferrothorn",
-        "rarity": 4.0,
-        "level": "49-51"
-      },
-      {
-        "pokemon": "Ditto",
-        "rarity": 1.0,
         "level": "49-51"
       },
       {
@@ -3783,23 +2933,8 @@
         "level": "49-51"
       },
       {
-        "pokemon": "Sigilyph",
-        "rarity": 5.0,
-        "level": "49-51"
-      },
-      {
         "pokemon": "Ferrothorn",
         "rarity": 4.0,
-        "level": "49-51"
-      },
-      {
-        "pokemon": "Ferrothorn",
-        "rarity": 4.0,
-        "level": "49-51"
-      },
-      {
-        "pokemon": "Ditto",
-        "rarity": 1.0,
         "level": "49-51"
       },
       {
@@ -3850,11 +2985,6 @@
       {
         "pokemon": "Skarmory",
         "rarity": 5.0,
-        "level": "36-38"
-      },
-      {
-        "pokemon": "Orthworm",
-        "rarity": 4.0,
         "level": "36-38"
       },
       {
@@ -3920,11 +3050,6 @@
         "level": "36-38"
       },
       {
-        "pokemon": "Orthworm",
-        "rarity": 4.0,
-        "level": "36-38"
-      },
-      {
         "pokemon": "Escavalier",
         "rarity": 1.0,
         "level": "36-38"
@@ -3975,23 +3100,8 @@
         "level": "46-48"
       },
       {
-        "pokemon": "Skarmory",
-        "rarity": 5.0,
-        "level": "46-48"
-      },
-      {
         "pokemon": "Drampa",
         "rarity": 4.0,
-        "level": "46-48"
-      },
-      {
-        "pokemon": "Drampa",
-        "rarity": 4.0,
-        "level": "46-48"
-      },
-      {
-        "pokemon": "Dracozolt",
-        "rarity": 1.0,
         "level": "46-48"
       },
       {
@@ -4037,23 +3147,8 @@
         "level": "46-48"
       },
       {
-        "pokemon": "Skarmory",
-        "rarity": 5.0,
-        "level": "46-48"
-      },
-      {
         "pokemon": "Turtonator",
         "rarity": 4.0,
-        "level": "46-48"
-      },
-      {
-        "pokemon": "Turtonator",
-        "rarity": 4.0,
-        "level": "46-48"
-      },
-      {
-        "pokemon": "Dracozolt",
-        "rarity": 1.0,
         "level": "46-48"
       },
       {
@@ -4099,16 +3194,6 @@
       {
         "pokemon": "Toxicroak",
         "rarity": 5.0,
-        "level": "49-51"
-      },
-      {
-        "pokemon": "Toxicroak",
-        "rarity": 5.0,
-        "level": "49-51"
-      },
-      {
-        "pokemon": "Kabutops",
-        "rarity": 4.0,
         "level": "49-51"
       },
       {
@@ -4161,16 +3246,6 @@
       {
         "pokemon": "Heliolisk",
         "rarity": 5.0,
-        "level": "49-51"
-      },
-      {
-        "pokemon": "Heliolisk",
-        "rarity": 5.0,
-        "level": "49-51"
-      },
-      {
-        "pokemon": "Omastar",
-        "rarity": 4.0,
         "level": "49-51"
       },
       {
@@ -4247,11 +3322,6 @@
         "pokemon": "Pansage",
         "rarity": 1.0,
         "level": "3-5"
-      },
-      {
-        "pokemon": "Pansage",
-        "rarity": 1.0,
-        "level": "3-5"
       }
     ],
     "night": [
@@ -4309,11 +3379,6 @@
         "pokemon": "Pansage",
         "rarity": 1.0,
         "level": "3-5"
-      },
-      {
-        "pokemon": "Pansage",
-        "rarity": 1.0,
-        "level": "3-5"
       }
     ]
   },
@@ -4328,11 +3393,6 @@
       {
         "pokemon": "Lechonk",
         "rarity": 20.0,
-        "level": "4-6"
-      },
-      {
-        "pokemon": "Wiglett",
-        "rarity": 10.0,
         "level": "4-6"
       },
       {
@@ -4356,23 +3416,8 @@
         "level": "4-6"
       },
       {
-        "pokemon": "Wingull",
-        "rarity": 5.0,
-        "level": "4-6"
-      },
-      {
         "pokemon": "Fidough",
         "rarity": 4.0,
-        "level": "4-6"
-      },
-      {
-        "pokemon": "Fidough",
-        "rarity": 4.0,
-        "level": "4-6"
-      },
-      {
-        "pokemon": "Capsakid",
-        "rarity": 1.0,
         "level": "4-6"
       },
       {
@@ -4398,11 +3443,6 @@
         "level": "4-6"
       },
       {
-        "pokemon": "Wiglett",
-        "rarity": 10.0,
-        "level": "4-6"
-      },
-      {
         "pokemon": "Dwebble",
         "rarity": 10.0,
         "level": "4-6"
@@ -4418,23 +3458,8 @@
         "level": "4-6"
       },
       {
-        "pokemon": "Wingull",
-        "rarity": 5.0,
-        "level": "4-6"
-      },
-      {
         "pokemon": "Maschiff",
         "rarity": 4.0,
-        "level": "4-6"
-      },
-      {
-        "pokemon": "Maschiff",
-        "rarity": 4.0,
-        "level": "4-6"
-      },
-      {
-        "pokemon": "Lotad",
-        "rarity": 1.0,
         "level": "4-6"
       },
       {
@@ -4501,11 +3526,6 @@
         "pokemon": "Panpour",
         "rarity": 1.0,
         "level": "3-5"
-      },
-      {
-        "pokemon": "Panpour",
-        "rarity": 1.0,
-        "level": "3-5"
       }
     ],
     "night": [
@@ -4563,11 +3583,6 @@
         "pokemon": "Panpour",
         "rarity": 1.0,
         "level": "3-5"
-      },
-      {
-        "pokemon": "Panpour",
-        "rarity": 1.0,
-        "level": "3-5"
       }
     ]
   },
@@ -4600,16 +3615,6 @@
         "level": "33-35"
       },
       {
-        "pokemon": "Simipour",
-        "rarity": 10.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Seviper",
-        "rarity": 5.0,
-        "level": "33-35"
-      },
-      {
         "pokemon": "Seviper",
         "rarity": 5.0,
         "level": "33-35"
@@ -4617,16 +3622,6 @@
       {
         "pokemon": "Golbat",
         "rarity": 4.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Golbat",
-        "rarity": 4.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Staraptor",
-        "rarity": 1.0,
         "level": "33-35"
       },
       {
@@ -4662,16 +3657,6 @@
         "level": "33-35"
       },
       {
-        "pokemon": "Simipour",
-        "rarity": 10.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Seviper",
-        "rarity": 5.0,
-        "level": "33-35"
-      },
-      {
         "pokemon": "Seviper",
         "rarity": 5.0,
         "level": "33-35"
@@ -4679,16 +3664,6 @@
       {
         "pokemon": "Golbat",
         "rarity": 4.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Golbat",
-        "rarity": 4.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Staraptor",
-        "rarity": 1.0,
         "level": "33-35"
       },
       {
@@ -4755,11 +3730,6 @@
         "pokemon": "Klawf",
         "rarity": 1.0,
         "level": "14-16"
-      },
-      {
-        "pokemon": "Klawf",
-        "rarity": 1.0,
-        "level": "14-16"
       }
     ],
     "night": [
@@ -4811,11 +3781,6 @@
       {
         "pokemon": "Abra",
         "rarity": 4.0,
-        "level": "14-16"
-      },
-      {
-        "pokemon": "Klawf",
-        "rarity": 1.0,
         "level": "14-16"
       },
       {
@@ -4882,11 +3847,6 @@
         "pokemon": "Zangoose",
         "rarity": 1.0,
         "level": "16-18"
-      },
-      {
-        "pokemon": "Zangoose",
-        "rarity": 1.0,
-        "level": "16-18"
       }
     ],
     "night": [
@@ -4944,11 +3904,6 @@
         "pokemon": "Seviper",
         "rarity": 1.0,
         "level": "16-18"
-      },
-      {
-        "pokemon": "Seviper",
-        "rarity": 1.0,
-        "level": "16-18"
       }
     ]
   },
@@ -4983,11 +3938,6 @@
       {
         "pokemon": "Shroomish",
         "rarity": 10.0,
-        "level": "10-12"
-      },
-      {
-        "pokemon": "Buneary",
-        "rarity": 5.0,
         "level": "10-12"
       },
       {
@@ -5045,11 +3995,6 @@
       {
         "pokemon": "Skiddo",
         "rarity": 10.0,
-        "level": "10-12"
-      },
-      {
-        "pokemon": "Shroodle",
-        "rarity": 5.0,
         "level": "10-12"
       },
       {
@@ -5128,11 +4073,6 @@
         "level": "13-15"
       },
       {
-        "pokemon": "Pumpkaboo-Sm",
-        "rarity": 4.0,
-        "level": "13-15"
-      },
-      {
         "pokemon": "Yanma",
         "rarity": 1.0,
         "level": "13-15"
@@ -5182,11 +4122,6 @@
       {
         "pokemon": "Flabébé",
         "rarity": 5.0,
-        "level": "13-15"
-      },
-      {
-        "pokemon": "Pumpkaboo-La",
-        "rarity": 4.0,
         "level": "13-15"
       },
       {
@@ -5255,16 +4190,6 @@
         "level": "18-20"
       },
       {
-        "pokemon": "Grimer",
-        "rarity": 4.0,
-        "level": "18-20"
-      },
-      {
-        "pokemon": "Drifloon",
-        "rarity": 1.0,
-        "level": "18-20"
-      },
-      {
         "pokemon": "Drifloon",
         "rarity": 1.0,
         "level": "18-20"
@@ -5317,16 +4242,6 @@
         "level": "18-20"
       },
       {
-        "pokemon": "Grimer-Alola",
-        "rarity": 4.0,
-        "level": "18-20"
-      },
-      {
-        "pokemon": "Drifloon",
-        "rarity": 1.0,
-        "level": "18-20"
-      },
-      {
         "pokemon": "Drifloon",
         "rarity": 1.0,
         "level": "18-20"
@@ -5372,23 +4287,8 @@
         "level": "16-18"
       },
       {
-        "pokemon": "Lickitung",
-        "rarity": 5.0,
-        "level": "16-18"
-      },
-      {
         "pokemon": "Flittle",
         "rarity": 4.0,
-        "level": "16-18"
-      },
-      {
-        "pokemon": "Flittle",
-        "rarity": 4.0,
-        "level": "16-18"
-      },
-      {
-        "pokemon": "Togepi",
-        "rarity": 1.0,
         "level": "16-18"
       },
       {
@@ -5434,23 +4334,8 @@
         "level": "16-18"
       },
       {
-        "pokemon": "Komala",
-        "rarity": 5.0,
-        "level": "16-18"
-      },
-      {
         "pokemon": "Meditite",
         "rarity": 4.0,
-        "level": "16-18"
-      },
-      {
-        "pokemon": "Meditite",
-        "rarity": 4.0,
-        "level": "16-18"
-      },
-      {
-        "pokemon": "Togepi",
-        "rarity": 1.0,
         "level": "16-18"
       },
       {
@@ -5479,11 +4364,6 @@
         "level": "36-38"
       },
       {
-        "pokemon": "Rufflet",
-        "rarity": 10.0,
-        "level": "36-38"
-      },
-      {
         "pokemon": "Cutiefly",
         "rarity": 10.0,
         "level": "36-38"
@@ -5499,23 +4379,8 @@
         "level": "36-38"
       },
       {
-        "pokemon": "Passimian",
-        "rarity": 5.0,
-        "level": "36-38"
-      },
-      {
         "pokemon": "Mienfoo",
         "rarity": 4.0,
-        "level": "36-38"
-      },
-      {
-        "pokemon": "Mienfoo",
-        "rarity": 4.0,
-        "level": "36-38"
-      },
-      {
-        "pokemon": "Porygon",
-        "rarity": 1.0,
         "level": "36-38"
       },
       {
@@ -5541,11 +4406,6 @@
         "level": "36-38"
       },
       {
-        "pokemon": "Vullaby",
-        "rarity": 10.0,
-        "level": "36-38"
-      },
-      {
         "pokemon": "Cutiefly",
         "rarity": 10.0,
         "level": "36-38"
@@ -5561,23 +4421,8 @@
         "level": "36-38"
       },
       {
-        "pokemon": "Oranguru",
-        "rarity": 5.0,
-        "level": "36-38"
-      },
-      {
         "pokemon": "Mienfoo",
         "rarity": 4.0,
-        "level": "36-38"
-      },
-      {
-        "pokemon": "Mienfoo",
-        "rarity": 4.0,
-        "level": "36-38"
-      },
-      {
-        "pokemon": "Porygon",
-        "rarity": 1.0,
         "level": "36-38"
       },
       {
@@ -5611,11 +4456,6 @@
         "level": "33-35"
       },
       {
-        "pokemon": "Bouffalant",
-        "rarity": 10.0,
-        "level": "33-35"
-      },
-      {
         "pokemon": "Venipede",
         "rarity": 10.0,
         "level": "33-35"
@@ -5626,23 +4466,8 @@
         "level": "33-35"
       },
       {
-        "pokemon": "Comfey",
-        "rarity": 5.0,
-        "level": "33-35"
-      },
-      {
         "pokemon": "Girafarig",
         "rarity": 4.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Girafarig",
-        "rarity": 4.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Miltank",
-        "rarity": 1.0,
         "level": "33-35"
       },
       {
@@ -5673,11 +4498,6 @@
         "level": "33-35"
       },
       {
-        "pokemon": "Absol",
-        "rarity": 10.0,
-        "level": "33-35"
-      },
-      {
         "pokemon": "Venipede",
         "rarity": 10.0,
         "level": "33-35"
@@ -5688,23 +4508,8 @@
         "level": "33-35"
       },
       {
-        "pokemon": "Morgrem",
-        "rarity": 5.0,
-        "level": "33-35"
-      },
-      {
         "pokemon": "Stantler",
         "rarity": 4.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Stantler",
-        "rarity": 4.0,
-        "level": "33-35"
-      },
-      {
-        "pokemon": "Drampa",
-        "rarity": 1.0,
         "level": "33-35"
       },
       {
@@ -5753,23 +4558,8 @@
         "level": "25-27"
       },
       {
-        "pokemon": "Mime Jr.",
-        "rarity": 5.0,
-        "level": "25-27"
-      },
-      {
         "pokemon": "Tropius",
         "rarity": 4.0,
-        "level": "25-27"
-      },
-      {
-        "pokemon": "Tropius",
-        "rarity": 4.0,
-        "level": "25-27"
-      },
-      {
-        "pokemon": "Skorupi",
-        "rarity": 1.0,
         "level": "25-27"
       },
       {
@@ -5815,23 +4605,8 @@
         "level": "25-27"
       },
       {
-        "pokemon": "Espurr",
-        "rarity": 5.0,
-        "level": "25-27"
-      },
-      {
         "pokemon": "Tropius",
         "rarity": 4.0,
-        "level": "25-27"
-      },
-      {
-        "pokemon": "Tropius",
-        "rarity": 4.0,
-        "level": "25-27"
-      },
-      {
-        "pokemon": "Skorupi",
-        "rarity": 1.0,
         "level": "25-27"
       },
       {
@@ -5860,16 +4635,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Beartic",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Slowbro",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Slowbro",
         "rarity": 10.0,
         "level": "62-64"
@@ -5880,23 +4645,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Golbat",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Avalugg",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Avalugg",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Jynx",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -5922,16 +4672,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Beartic",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Walrein",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Walrein",
         "rarity": 10.0,
         "level": "62-64"
@@ -5942,23 +4682,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Golbat",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Avalugg",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Avalugg",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Jynx",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -5987,16 +4712,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Vanilluxe",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Slowking",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Slowking",
         "rarity": 10.0,
         "level": "62-64"
@@ -6007,23 +4722,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Golbat",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Cryogonal",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Cryogonal",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Delibird",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -6049,16 +4749,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Vanilluxe",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Golduck",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Golduck",
         "rarity": 10.0,
         "level": "62-64"
@@ -6069,23 +4759,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Golbat",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Cryogonal",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Cryogonal",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Delibird",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -6114,16 +4789,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Ninetales-Alola",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Crawdaunt",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Crawdaunt",
         "rarity": 10.0,
         "level": "62-64"
@@ -6134,23 +4799,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Golbat",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Sneasel",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Sneasel",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Delibird",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -6176,16 +4826,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Ninetales-Alola",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Kingler",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Kingler",
         "rarity": 10.0,
         "level": "62-64"
@@ -6196,23 +4836,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Golbat",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Sneasel",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Sneasel",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Delibird",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -6241,16 +4866,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Ninetales-Alola",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Dewgong",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Dewgong",
         "rarity": 10.0,
         "level": "62-64"
@@ -6261,23 +4876,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Golbat",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Frosmoth",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Frosmoth",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Jynx",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -6303,16 +4903,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Ninetales-Alola",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Golduck",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Golduck",
         "rarity": 10.0,
         "level": "62-64"
@@ -6323,23 +4913,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Golbat",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Frosmoth",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Frosmoth",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Jynx",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -6368,16 +4943,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Ninetales-Alola",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Dewgong",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Dewgong",
         "rarity": 10.0,
         "level": "62-64"
@@ -6388,23 +4953,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Crawdaunt",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Golbat",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Golbat",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Jynx",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -6430,16 +4980,6 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Ninetales-Alola",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Dewgong",
-        "rarity": 10.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Dewgong",
         "rarity": 10.0,
         "level": "62-64"
@@ -6450,23 +4990,8 @@
         "level": "62-64"
       },
       {
-        "pokemon": "Crawdaunt",
-        "rarity": 5.0,
-        "level": "62-64"
-      },
-      {
         "pokemon": "Golbat",
         "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Golbat",
-        "rarity": 4.0,
-        "level": "62-64"
-      },
-      {
-        "pokemon": "Jynx",
-        "rarity": 1.0,
         "level": "62-64"
       },
       {
@@ -6652,11 +5177,6 @@
         "level": "80-82"
       },
       {
-        "pokemon": "Kommo-o",
-        "rarity": 4.0,
-        "level": "80-82"
-      },
-      {
         "pokemon": "Baxcalibur",
         "rarity": 1.0,
         "level": "80-82"
@@ -6714,11 +5234,6 @@
         "level": "80-82"
       },
       {
-        "pokemon": "Kommo-o",
-        "rarity": 4.0,
-        "level": "80-82"
-      },
-      {
         "pokemon": "Baxcalibur",
         "rarity": 1.0,
         "level": "80-82"
@@ -6745,11 +5260,6 @@
       },
       {
         "pokemon": "Dragapult",
-        "rarity": 10.0,
-        "level": "80-82"
-      },
-      {
-        "pokemon": "Mawile",
         "rarity": 10.0,
         "level": "80-82"
       },
@@ -6807,11 +5317,6 @@
       },
       {
         "pokemon": "Dragapult",
-        "rarity": 10.0,
-        "level": "80-82"
-      },
-      {
-        "pokemon": "Mawile",
         "rarity": 10.0,
         "level": "80-82"
       },
@@ -6906,16 +5411,6 @@
         "level": "3-5"
       },
       {
-        "pokemon": "Pikipek",
-        "rarity": 4.0,
-        "level": "3-5"
-      },
-      {
-        "pokemon": "Snover",
-        "rarity": 1.0,
-        "level": "3-5"
-      },
-      {
         "pokemon": "Snover",
         "rarity": 1.0,
         "level": "3-5"
@@ -6968,16 +5463,6 @@
         "level": "3-5"
       },
       {
-        "pokemon": "Wattrel",
-        "rarity": 4.0,
-        "level": "3-5"
-      },
-      {
-        "pokemon": "Swinub",
-        "rarity": 1.0,
-        "level": "3-5"
-      },
-      {
         "pokemon": "Swinub",
         "rarity": 1.0,
         "level": "3-5"
@@ -7025,11 +5510,6 @@
       {
         "pokemon": "Surskit",
         "rarity": 5.0,
-        "level": "4-6"
-      },
-      {
-        "pokemon": "Shroomish",
-        "rarity": 4.0,
         "level": "4-6"
       },
       {
@@ -7092,16 +5572,6 @@
       {
         "pokemon": "Toedscool",
         "rarity": 4.0,
-        "level": "4-6"
-      },
-      {
-        "pokemon": "Toedscool",
-        "rarity": 4.0,
-        "level": "4-6"
-      },
-      {
-        "pokemon": "Snom",
-        "rarity": 1.0,
         "level": "4-6"
       },
       {

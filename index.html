@@ -7,11 +7,12 @@
   <meta name="description" content="An offline-friendly Radical Red Pokédex and encounter guide.">
   <title>Radical Red Field Guide</title>
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="refinements.css">
 </head>
 <body>
   <header class="topbar">
     <button class="brand" data-view="home" aria-label="Go to overview">
-      <span class="brand-ball" aria-hidden="true"></span>
+      <img class="brand-logo" src="assets/art/radical-red-logo.png" alt="">
       <span><strong>Radical Red</strong><small>Field Guide · v4.1</small></span>
     </button>
     <label class="global-search"><span>⌕</span><input id="globalSearch" type="search" placeholder="Search Pokémon or locations…"><kbd>/</kbd></label>
@@ -31,6 +32,7 @@
   </div>
   <nav class="mobile-nav"><button data-view="home">⌂<small>Home</small></button><button data-view="pokedex">◉<small>Dex</small></button><button data-view="locations">⌖<small>Places</small></button><button data-view="progress">✓<small>Progress</small></button></nav>
   <dialog id="detailDialog"><div id="dialogContent"></div></dialog>
+  <button id="jumpTop" aria-label="Jump to top">↑</button>
   <div id="toast" aria-live="polite"></div>
   <script src="data/guide-data.js"></script>
   <script src="app.js"></script>

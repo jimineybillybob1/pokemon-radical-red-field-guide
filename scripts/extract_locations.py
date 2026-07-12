@@ -22,17 +22,26 @@ def encounter_block(sheet, start_col, header_row, first_row, last_row, period):
     if not isinstance(name, str) or not name.strip():
         return None
     encounters = []
+    seen = set()
     for row in range(first_row, last_row + 1):
         rarity = sheet.cell(row, start_col).value
         pokemon = sheet.cell(row, start_col + 2).value
         level = sheet.cell(row, start_col + 3).value
         if not pokemon:
             continue
-        encounters.append({
+        encounter = {
             "pokemon": str(pokemon).strip(),
             "rarity": round(float(rarity) * 100, 2) if isinstance(rarity, (int, float)) else None,
             "level": level_text(level),
-        })
+        }
+        # The workbook sometimes repeats the same encounter slot twice. Keep
+        # distinct rates/levels, and deduplicate only within this location and
+        # time-of-day table so day and night remain independent.
+        identity = (encounter["pokemon"].casefold(), encounter["rarity"], encounter["level"])
+        if identity in seen:
+            continue
+        seen.add(identity)
+        encounters.append(encounter)
     return {"name": name.strip().title(), "period": period, "encounters": encounters}
 
 

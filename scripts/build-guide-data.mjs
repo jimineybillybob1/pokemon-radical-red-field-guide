@@ -7,6 +7,44 @@ const values = value => Array.isArray(value) ? value : Object.values(value || {}
 const byId = value => new Map(values(value).map(item => [item.ID, item]));
 const types = byId(source.types);
 const abilities = byId(source.abilities);
+const items = byId(source.items);
+const moves = byId(source.moves);
+
+function evolutionMethod(evo) {
+  const [method, value, , extra] = evo;
+  const item = items.get(value)?.name || `item ${value}`;
+  const move = moves.get(value)?.name || `move ${value}`;
+  const type = types.get(value)?.name || `type ${value}`;
+  const partyType = types.get(extra)?.name || `type ${extra}`;
+  const methods = {
+    1: 'Level up with high friendship',
+    2: 'Level up with high friendship during the day',
+    3: 'Level up with high friendship at night',
+    4: `Reach level ${value}`,
+    7: `Use ${item}${value === 101 ? (extra === 254 ? ' (female)' : ' (male)') : ''}`,
+    8: `Reach level ${value} with Attack higher than Defense`,
+    9: `Reach level ${value} with Attack equal to Defense`,
+    10: `Reach level ${value} with Attack lower than Defense`,
+    11: `Reach level ${value} (50% branch)`,
+    12: `Reach level ${value} (50% branch)`,
+    13: `Reach level ${value}`,
+    14: 'Evolve Nincada with an open party slot and a Poké Ball',
+    16: `Reach level ${value} while it is raining`,
+    17: `Level up with high friendship while knowing a ${type}-type move`,
+    18: `Reach level ${value} with a ${partyType}-type Pokémon in the party`,
+    20: `Reach level ${value} (male)`,
+    21: `Reach level ${value} (female)`,
+    22: `Reach level ${value} at night`,
+    23: `Reach level ${value} during the day`,
+    26: `Level up while knowing ${move}`,
+    27: `Level up with ${source.species?.[value]?.name || `Pokémon ${value}`} in the party`,
+    28: `Reach level ${value} ${extra === 1041 ? 'during the day' : extra === 5144 ? 'at night' : 'at dusk'}`,
+    30: `Reach level ${value} with an energetic nature`,
+    31: `Reach level ${value} with a composed nature`,
+    254: extra === 2 ? `Know ${move}` : `Use ${item}`,
+  };
+  return methods[method] || `Special evolution method ${method}`;
+}
 
 const pokemon = values(source.species).map(entry => {
   const sprite = source.sprites?.[entry.ID] || source.sprites?.[entry.ID - 1] || "";
@@ -26,6 +64,7 @@ const pokemon = values(source.species).map(entry => {
     stats: entry.stats || [],
     bst: (entry.stats || []).reduce((sum, stat) => sum + stat, 0),
     abilities: abilityList,
+    evolutions: (entry.evolutions || []).map(evo => ({ targetId: evo[2], method: evolutionMethod(evo) })),
     sprite,
   };
 });
