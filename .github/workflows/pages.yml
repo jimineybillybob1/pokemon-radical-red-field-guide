@@ -25,6 +25,11 @@ jobs:
         uses: actions/checkout@v4
       - name: Configure Pages
         uses: actions/configure-pages@v5
+      - name: Configure optional cloud sync endpoint
+        env:
+          RADICAL_RED_SYNC_ENDPOINT: ${{ vars.RADICAL_RED_SYNC_ENDPOINT }}
+        run: |
+          node -e "require('fs').writeFileSync('sync-config.js', 'window.RADICAL_RED_SYNC_ENDPOINT = ' + JSON.stringify(process.env.RADICAL_RED_SYNC_ENDPOINT || '') + ';\n')"
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:

@@ -1,0 +1,1 @@
+window.RADICAL_RED_SYNC_ENDPOINT = "";

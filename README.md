@@ -25,4 +25,10 @@ node scripts\build-guide-data.mjs
 
 - https://dex.radicalred.net/
 - https://radicalred.miraheze.org/wiki/Main_Page
+
+## Encrypted Save & Sync
+
+Export/import works without configuration. Cross-device sync encrypts caught progress in the browser and sends only encrypted data to the same generic sync service used by the other field guides. Radical Red uses its own domain-separated storage IDs, so saves from different guides cannot collide. The private `XXXX-XXXX-XXXX` code is the recovery key; keep it private and safe. Cloud saves expire after 400 days without a new upload.
+
+The GitHub Actions variable `RADICAL_RED_SYNC_ENDPOINT` supplies the service URL when Pages deploys. No additional Cloudflare setup is currently required. If the guide moves to a custom domain, that origin must be added to the Worker's `ALLOWED_ORIGINS` setting.
 - Pokémon Locations & Raid Dens v4.1 - Radical Red.xlsx
