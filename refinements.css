@@ -23,9 +23,9 @@
 }
 .hero h1 { margin-top: 8px; }
 
-.topbar { grid-template-columns: 210px minmax(280px, 620px) 1fr; }
-.shell { grid-template-columns: 200px 1fr; }
-.sidebar { padding: 25px 12px; }
+.topbar { grid-template-columns: 180px minmax(280px, 620px) 1fr; }
+.shell { grid-template-columns: 168px 1fr; }
+.sidebar { padding: 25px 9px; }
 .sidebar nav button { padding-left: 11px; padding-right: 11px; }
 
 .controls { padding: 16px; }
@@ -186,7 +186,7 @@
 .pokemon-location-list strong { font-size: 12px; }
 .pokemon-location-list small { margin-top: 2px; color: var(--muted); font-size: 9px; }
 .pokemon-location-list button > b { color: var(--red); font-size: 11px; }
-.location-quick-filters { display: flex; gap: 7px; margin: -6px 0 18px; padding: 4px 1px 10px; overflow-x: auto; scrollbar-width: thin; }
+.location-quick-filters { display: flex; flex-wrap: wrap; gap: 7px; margin: -6px 0 18px; padding: 4px 1px 10px; overflow: visible; }
 .location-quick-filters button { flex: 0 0 auto; padding: 7px 11px; border: 1px solid var(--line); border-radius: 99px; background: var(--panel); color: var(--muted); font-size: 10px; cursor: pointer; }
 .location-quick-filters button:hover, .location-quick-filters button.active { border-color: var(--red); background: color-mix(in srgb, var(--red) 17%, var(--panel)); color: var(--text); }
 .encounter.interactive { cursor: pointer; transition: background .16s ease, box-shadow .16s ease; }
@@ -197,7 +197,7 @@
 
 /* Slim Radical Red neon edge used across the guide's interactive artifacts. */
 .poke-card,.controls,.location-panel,.metric-card,.metrics article,.feature-grid button,.source-card,.progress-hero,.caught-list button,.detail-dialog,dialog,.global-search,.progress-pill,.location-search input,.location-quick-filters button {
-  box-shadow: 0 0 0 1px rgba(241,63,87,.07), 0 0 12px rgba(241,63,87,.055);
+  box-shadow: 0 0 0 1px rgba(255,48,78,.28), 0 0 13px rgba(255,34,68,.19);
 }
 .load-sentinel { grid-column: 1 / -1; display: flex; align-items: center; justify-content: center; gap: 5px; min-height: 80px; color: var(--muted); }
 .load-sentinel span { width: 7px; height: 7px; border-radius: 50%; background: var(--red); animation: loadPulse 1s infinite alternate; }
