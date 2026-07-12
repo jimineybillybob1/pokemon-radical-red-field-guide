@@ -362,3 +362,5 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
   .move-detail-stats { grid-template-columns: 1fr 1fr; }
   .save-summary,.save-grid { grid-template-columns:1fr }
 }
+.team-card-info { margin-left:auto!important;padding:5px 9px!important;border:1px solid color-mix(in srgb,var(--red) 55%,var(--line))!important;border-radius:8px!important;background:color-mix(in srgb,var(--red) 10%,var(--panel2))!important;color:var(--text)!important;font-weight:900 }
+.team-card-info+.team-save-build { margin-left:0!important }
