@@ -240,12 +240,15 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .pokemon-locations { margin-top: 24px; }
 .pokemon-locations > p { color: var(--muted); font-size: 11px; }
 .pokemon-location-list { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-.pokemon-location-list button { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 11px 12px; border: 1px solid var(--line); border-radius: 11px; background: var(--panel2); text-align: left; cursor: pointer; }
+.pokemon-location-list button,.pokemon-location-list article { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin:0;padding: 11px 12px; border: 1px solid var(--line); border-radius: 11px; background: var(--panel2); color:var(--text);text-align: left; }
+.pokemon-location-list button { cursor:pointer }
 .pokemon-location-list button:hover { border-color: var(--red); }
 .pokemon-location-list strong, .pokemon-location-list small { display: block; }
 .pokemon-location-list strong { font-size: 12px; }
 .pokemon-location-list small { margin-top: 2px; color: var(--muted); font-size: 9px; }
-.pokemon-location-list button > b { color: var(--red); font-size: 11px; }
+.pokemon-location-list button > b,.pokemon-location-list article>b { color: var(--red); font-size: 11px; }
+.pokemon-location-list .legendary-location-entry { grid-column:1/-1;border-color:color-mix(in srgb,var(--red) 35%,var(--line));background:linear-gradient(110deg,color-mix(in srgb,var(--red) 8%,var(--panel2)),var(--panel2)) }
+.pokemon-location-list .legendary-location-entry small { line-height:1.5 }
 .move-controls { display: grid; grid-template-columns: minmax(260px,1fr) 160px 160px; gap: 9px; margin-bottom: 20px; padding: 14px; border: 1px solid var(--line); border-radius: 17px; background: var(--panel); box-shadow: 0 0 0 1px rgba(255,48,78,.28),0 0 13px rgba(255,34,68,.19); }
 .move-controls input,.move-controls select { height: 42px; min-width: 0; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--panel2); color: var(--text); outline: none; }
 .move-grid { display: grid; grid-template-columns: repeat(auto-fill,minmax(235px,1fr)); gap: 11px; }
