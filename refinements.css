@@ -88,8 +88,10 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .sidebar { padding: 25px 9px; }
 .sidebar nav button { padding-left: 11px; padding-right: 11px; }
 .nav-sprite { width: 25px; height: 25px; object-fit: contain; image-rendering: pixelated; filter: drop-shadow(0 2px 3px rgba(0,0,0,.35)); }
-.sidebar nav button { display: flex; align-items: center; gap: 9px; }
+.sidebar nav button { display:flex;align-items:center;justify-content:flex-start;gap:9px;width:100%;min-width:0;text-align:left }
 .sidebar nav button .nav-sprite { flex: 0 0 25px; }
+.source-card { width:100%;max-width:100%;min-width:0;padding:13px;overflow:hidden }
+.source-card a,.source-card p { overflow-wrap:anywhere;word-break:normal }
 .mobile-nav .nav-sprite { width: 24px; height: 24px; margin: auto; }
 
 .controls { padding: 16px; }
@@ -362,5 +364,5 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
   .move-detail-stats { grid-template-columns: 1fr 1fr; }
   .save-summary,.save-grid { grid-template-columns:1fr }
 }
-.team-card-info { margin-left:auto!important;padding:5px 9px!important;border:1px solid color-mix(in srgb,var(--red) 55%,var(--line))!important;border-radius:8px!important;background:color-mix(in srgb,var(--red) 10%,var(--panel2))!important;color:var(--text)!important;font-weight:900 }
+.team-card-info { margin-left:auto!important;margin-right:7px!important;padding:5px 9px!important;border:1px solid color-mix(in srgb,var(--red) 55%,var(--line))!important;border-radius:8px!important;background:color-mix(in srgb,var(--red) 10%,var(--panel2))!important;color:var(--text)!important;font-weight:900 }
 .team-card-info+.team-save-build { margin-left:0!important }
