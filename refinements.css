@@ -369,3 +369,8 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .team-card-info+.team-save-build { margin-left:0!important }
 .team-grid { grid-template-columns:repeat(3,minmax(0,1fr)) }
 @media(max-width:900px){.team-grid{grid-template-columns:1fr}}
+.team-card label:has(.pokemon-picker-input),.favorite-card label:has(.pokemon-picker-input),.battle-enemy label:has(.pokemon-picker-input) { position:relative }
+.team-card:has(.pokemon-picker-results),.favorite-card:has(.pokemon-picker-results),.battle-enemy:has(.pokemon-picker-results) { position:relative;z-index:25;overflow:visible }
+.pokemon-picker-results { position:absolute;left:0;right:0;top:calc(100% + 5px);z-index:120;max-height:310px;overflow:auto;padding:6px;border:1px solid var(--line);border-radius:12px;background:color-mix(in srgb,var(--panel) 97%,transparent);box-shadow:0 16px 38px rgba(0,0,0,.5),0 0 14px rgba(255,34,68,.18);backdrop-filter:blur(16px) }
+.pokemon-picker-results button { display:grid;grid-template-columns:42px 1fr;align-items:center;gap:9px;width:100%;min-height:48px;padding:5px 8px;border:0;border-radius:8px;background:transparent;color:var(--text);text-align:left;cursor:pointer }
+.pokemon-picker-results button:hover { background:var(--panel2) }.pokemon-picker-results img { width:40px;height:40px;object-fit:contain }.pokemon-picker-results strong { display:block;font-size:11px }.pokemon-picker-results .types { margin-top:3px }.pokemon-picker-results .types span { padding:2px 5px;font-size:6px }.pokemon-picker-results>p { margin:0;padding:14px;color:var(--muted);font-size:10px;text-align:center }
