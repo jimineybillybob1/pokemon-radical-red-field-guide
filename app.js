@@ -1,7 +1,8 @@
 (() => {
   const data = window.GUIDE_DATA || { pokemon: [], moves: [], locations: [] };
-  const spriteFallbacks={1011:'assets/pokemon/dipplin.png',1014:'assets/pokemon/okidogi.png',1015:'assets/pokemon/munkidori.png',1016:'assets/pokemon/fezandipiti.png',1019:'assets/pokemon/hydrapple.png',1024:'assets/pokemon/terapagos.png',1025:'assets/pokemon/pecharunt.png'};
-  data.pokemon.forEach(p=>{if(!p.sprite&&spriteFallbacks[p.dexId])p.sprite=spriteFallbacks[p.dexId]});
+  const spriteFallbacks={1011:'assets/pokemon/dipplin.png',1012:'assets/pokemon/poltchageist.png',1013:'assets/pokemon/sinistcha.png',1014:'assets/pokemon/okidogi.png',1015:'assets/pokemon/munkidori.png',1016:'assets/pokemon/fezandipiti.png',1018:'assets/pokemon/archaludon.png',1019:'assets/pokemon/hydrapple.png',1020:'assets/pokemon/gouging-fire.png',1021:'assets/pokemon/raging-bolt.png',1022:'assets/pokemon/iron-boulder.png',1023:'assets/pokemon/iron-crown.png',1024:'assets/pokemon/terapagos.png',1025:'assets/pokemon/pecharunt.png',2001:'assets/pokemon/chillet.png'};
+  const formSpriteFallbacks={'Ogerpon':'assets/pokemon/ogerpon.png','Ogerpon-Wellspring':'assets/pokemon/ogerpon-wellspring.png','Ogerpon-Hearthflame':'assets/pokemon/ogerpon-hearthflame.png','Ogerpon-Cornerstone':'assets/pokemon/ogerpon-cornerstone.png'};
+  data.pokemon.forEach(p=>{if(!p.sprite)p.sprite=formSpriteFallbacks[p.key]||spriteFallbacks[p.dexId]||''});
   const itemData = window.ITEM_GUIDE_DATA || [];
   const syncEndpoint=(window.RADICAL_RED_SYNC_ENDPOINT||'').replace(/\/+$/,'');
   const syncCodePattern=/^[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{4}(?:-[ABCDEFGHJKLMNPQRSTUVWXYZ23456789]{4}){2}$/;
