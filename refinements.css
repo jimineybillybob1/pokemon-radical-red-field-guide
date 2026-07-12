@@ -247,6 +247,8 @@
 
 .team-grid { align-items:stretch }.team-card,.favorite-card { height:100% }.team-card:not(.empty-team),.favorite-card { display:flex;flex-direction:column }.team-evolutions--bottom { margin-top:auto;padding-top:12px }.favorite-add { margin-top:auto;padding-top:12px }.build-move-info--empty { display:grid;place-items:center;opacity:.55 }.build-move-info--empty p { margin:0 }.held-item-actions { display:grid;gap:5px }.held-item-actions .clear-held-item { border-color:rgba(255,80,105,.35);color:#ff8292;font-size:15px;line-height:1 }.held-item-empty { opacity:.58 }
 
+.team-evolutions--bottom { margin-top:24px!important;padding-top:16px!important }
+
 @media (max-width: 900px) {
   .battle-enemies { grid-template-columns:1fr }
   .overview-progress-row { grid-template-columns:1fr }.overview-team>div { grid-template-columns:repeat(3,1fr) }
