@@ -1,0 +1,27 @@
+(() => {
+  const entries=[];
+  const add=(names,category,location,method,codes={})=>String(names).split('|').forEach(name=>entries.push({name,category,location,method,code:codes[name]||''}));
+  add('Cobalion','Fixed encounter','Mt. Moon','Use Rock Smash to reach the lower western area of Mt. Moon, where Cobalion waits.');
+  add('Articuno','Fixed encounter','Seafoam Islands','Reach Articuno through the Seafoam Islands using Surf and Strength.');
+  add('Articuno-Galar','Fixed encounter','Seafoam Islands','Catch Articuno, wait one real-world day, then return to the same location.');
+  add('Heatran','Fixed encounter','Mt. Ember','Defeat Ariana and Archer, then climb Mt. Ember with Strength. Heatran replaces the usual Moltres encounter here.');
+  add('Keldeo','Fixed encounter','Seafoam Islands','Enter Seafoam Islands, take the first ladder down and head right.');
+  add('Kubfu','Gift','Cerulean Cave','Use Rock Smash to reach the martial artist and defeat him. Return the following day to battle again for another Kubfu.');
+  add('Kyogre','Fixed encounter','Seafoam Islands','Obtain the Z-Ring, navigate deep into Seafoam Islands with Rock Smash and Surf, win Bryce’s Sandshrew race, then Surf to Kyogre.');
+  add('Magearna','Fixed encounter','Power Plant / Rock Tunnel','Take the western Power Plant exit into the new Rock Tunnel section. Magearna is in its upper-left area.');
+  add('Marshadow','Fixed encounter','Pokémon Tower','Win Morty’s rematch, obtain the Z-Ring on One Island, then visit the top floor of Pokémon Tower.');
+  add('Mew','Gift','Berry Forest','Catch Mewtwo first, take it as your follower to Berry Forest on Three Island, then defeat the old man after the event.');
+  add('Mewtwo','Fixed encounter','Cerulean Cave','Defeat the Elite Four, then reach Mewtwo in Cerulean Cave using Surf.');
+  add('Moltres','Fixed encounter','Safari Zone','Use Surf in the new area west of Area 4 and travel north to Moltres.');
+  add('Moltres-Galar','Fixed encounter','Safari Zone','Catch Moltres, wait one real-world day, then return to its Safari Zone location.');
+  add('Terrakion','Fixed encounter','Rock Tunnel','Bring Flash and Rock Smash and travel several floors down through Rock Tunnel.');
+  add('Virizion','Fixed encounter','Viridian Forest','Use Rock Smash to enter the far-western section of Viridian Forest.');
+  add('Zapdos','Fixed encounter','Power Plant','Reach the upper part of the Power Plant, as in the original Kanto games.');
+  add('Zapdos-Galar','Fixed encounter','Power Plant','Catch Zapdos, wait one real-world day, then return to the same Power Plant location.');
+  add('Chien-Pao|Chi-Yu|Enamorus|Landorus|Latias|Latios|Terapagos|Thundurus|Ting-Lu|Tornadus|Wo-Chien','Roaming','Kanto','Collect all eight Gym Badges, then approach the Indigo Plateau route from Viridian City. Professor Oak’s aide unlocks roaming legendaries; use the Town Map to track the current area.');
+  const raids={'Cerulean Cave':'Blacephalon|Celesteela|Buzzwole|Guzzlord|Kartana|Nihilego|Pheromosa|Poipole|Stakataka|Xurkitree','Pokémon Mansion':'Hoopa|Regidrago|Spectrier|Tapu Lele','Power Plant':'Regieleki|Tapu Koko|Zeraora','Route 2':'Entei|Raikou|Suicune','Route 10':'Azelf|Mesprit|Uxie','Route 13':'Cresselia|Victini|Volcanion','Route 16':'Diancie|Pecharunt|Zygarde-19','Route 25':'Calyrex|Celebi|Necrozma','Safari Zone':'Fezandipiti|Munkidori|Okidogi','Seafoam Islands':'Glastrier|Kyurem|Manaphy|Tapu Fini','Victory Road':'Genesect|Jirachi|Meloetta|Zygarde','Viridian Forest':'Shaymin|Tapu Bulu|Zarude'};
+  Object.entries(raids).forEach(([location,names])=>add(names,'Raid Den',location,`Challenge the Raid Den at ${location}. Its legendary is selected from this den’s documented pool; defeat it in the 2-vs-1 raid and choose to catch it.`));
+  const codes={'Calyrex-Ice':'86ZvZG1Bm','Calyrex-Shadow':'pGIk3xteX4Am','Darkrai':'s75piYi','Deoxys':'ELGzsFeJATlE','Dialga':'Y2YWRRZPdw','Giratina':'h77XuRIDLXea','Groudon':'af7trmwb','Ho-Oh':'RXIIqgh29','Koraidon':'ghS57gu','Lugia':'qNubjEQuZki','Miraidon':'divysuSN','Palkia':'FHbrO5xLF3Vy','Rayquaza':'xZnwrncs','Reshiram':'nvfArRPTYXcr','Xerneas':'ZcqLcEfUDp5Z','Yveltal':'sW0rdPjYsrjx','Zacian':'enR6C8knHyO','Zamazenta':'xo6HsTl5Uym1','Zekrom':'02UXRthxIDrp'};
+  Object.keys(codes).forEach(name=>add(name,'Mystery Code','Pokémon Center','Speak to the Pokémon Center nurse and choose Mystery Code. Some gifts require defeating the Elite Four and Champion first.',codes));
+  window.LEGENDARY_GUIDE_DATA=entries;
+})();
