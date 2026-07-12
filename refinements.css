@@ -367,3 +367,5 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 }
 .team-card-info { margin-left:auto!important;margin-right:7px!important;padding:5px 9px!important;border:1px solid color-mix(in srgb,var(--red) 55%,var(--line))!important;border-radius:8px!important;background:color-mix(in srgb,var(--red) 10%,var(--panel2))!important;color:var(--text)!important;font-weight:900 }
 .team-card-info+.team-save-build { margin-left:0!important }
+.team-grid { grid-template-columns:repeat(3,minmax(0,1fr)) }
+@media(max-width:900px){.team-grid{grid-template-columns:1fr}}
