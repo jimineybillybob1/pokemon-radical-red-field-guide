@@ -9,6 +9,18 @@ const types = byId(source.types);
 const abilities = byId(source.abilities);
 const items = byId(source.items);
 const moves = byId(source.moves);
+const spriteDir = "assets/pokemon-dex";
+fs.mkdirSync(spriteDir, { recursive: true });
+
+function spriteAsset(value, id) {
+  if (!value) return "";
+  const match = String(value).match(/^data:image\/(png|webp|jpeg);base64,(.+)$/s);
+  if (!match) return value;
+  const extension = match[1] === "jpeg" ? "jpg" : match[1];
+  const path = `${spriteDir}/${id}.${extension}`;
+  fs.writeFileSync(path, Buffer.from(match[2], "base64"));
+  return path;
+}
 
 function evolutionMethod(evo) {
   const [method, value, , extra] = evo;
@@ -47,7 +59,7 @@ function evolutionMethod(evo) {
 }
 
 const pokemon = values(source.species).map(entry => {
-  const sprite = source.sprites?.[entry.ID] || source.sprites?.[entry.ID - 1] || "";
+  const sprite = spriteAsset(source.sprites?.[entry.ID] || source.sprites?.[entry.ID - 1] || "", entry.ID);
   const abilityList = (entry.abilities || []).map(slot => {
     if (typeof slot === "string") return { name: slot, description: "" };
     const id = Array.isArray(slot) ? slot[0] : slot;
