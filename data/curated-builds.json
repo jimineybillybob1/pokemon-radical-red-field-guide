@@ -1,0 +1,6094 @@
+{
+  "meta": {
+    "source": "https://movesets.radicalred.net",
+    "fetchedAt": "2026-07-16T22:57:48.403Z",
+    "pageCount": 195,
+    "buildCount": 215
+  },
+  "builds": [
+    {
+      "id": "150-1",
+      "sourceId": 150,
+      "pokemon": "Aerodactyl-Mega",
+      "setName": "Dino Fury (Fuchsia Brendan)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Dual Wingbeat"
+        ],
+        [
+          "Fly"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "U-Turn",
+          "Iron Head"
+        ]
+      ],
+      "item": "Aerodactylite",
+      "ability": "Tough Claws",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/150/"
+    },
+    {
+      "id": "121-1",
+      "sourceId": 121,
+      "pokemon": "Alakazam",
+      "setName": "Tag Team Tablespoons (Silph Co. Archer & Ariana)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Shadow Ball"
+        ],
+        [
+          "HP Fighting"
+        ],
+        [
+          "Energy Ball"
+        ],
+        [
+          "Skill Swap"
+        ]
+      ],
+      "item": "Colbur Berry",
+      "ability": "Inner Focus",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/121/"
+    },
+    {
+      "id": "78-1",
+      "sourceId": 78,
+      "pokemon": "Alakazam-Mega",
+      "setName": "Mega Alakazam",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Psychic",
+          "Expanding Force"
+        ],
+        [
+          "Focus Blast"
+        ],
+        [
+          "Shadow Ball",
+          "Grass Knot",
+          "Psyshock"
+        ],
+        [
+          "Encore"
+        ]
+      ],
+      "item": "Alakazite",
+      "ability": "Magic Guard -> Synchronize",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/78/"
+    },
+    {
+      "id": "131-1",
+      "sourceId": 131,
+      "pokemon": "Altaria",
+      "setName": "Erika Eradicator (Erika)",
+      "author": "Lastar",
+      "moves": [
+        [
+          "Dragon Dance"
+        ],
+        [
+          "Dual Wingbeat"
+        ],
+        [
+          "Roost"
+        ],
+        [
+          "Cotton Guard"
+        ]
+      ],
+      "item": "Sitrus Berry / Cheri Berry",
+      "ability": "Natural Cure",
+      "nature": "Adamant / Jolly / Impish",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/131/"
+    },
+    {
+      "id": "139-1",
+      "sourceId": 139,
+      "pokemon": "Ambipom",
+      "setName": "Mr. Slappy",
+      "author": "Mr.Sheep",
+      "moves": [
+        [
+          "Fake Out"
+        ],
+        [
+          "Tail Slap",
+          "Double Hit"
+        ],
+        [
+          "Arm Thrust",
+          "Beat Up"
+        ],
+        [
+          "U-Turn"
+        ]
+      ],
+      "item": "Loaded Dice / Life Orb",
+      "ability": "Technician",
+      "nature": "Adamant / Jolly",
+      "evs": "4 HP / 252 Atk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/139/"
+    },
+    {
+      "id": "32-1",
+      "sourceId": 32,
+      "pokemon": "Ampharos-Mega",
+      "setName": "Bulky Sweeper",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Thunderbolt"
+        ],
+        [
+          "Dragon Pulse"
+        ],
+        [
+          "Tail Glow"
+        ],
+        [
+          "Agility"
+        ]
+      ],
+      "item": "Ampharosite",
+      "ability": "Thick Fat",
+      "nature": "Timid",
+      "evs": "252 HP / 32 SpDef / 224 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/32/"
+    },
+    {
+      "id": "32-2",
+      "sourceId": 32,
+      "pokemon": "Ampharos-Mega",
+      "setName": "Fabio",
+      "author": "",
+      "moves": [
+        [
+          "Tail Glow"
+        ],
+        [
+          "Thunderbolt"
+        ],
+        [
+          "Focus Blast",
+          "Hidden Power Ice"
+        ],
+        [
+          "Dragon Pulse"
+        ]
+      ],
+      "item": "Ampharosite",
+      "ability": "Thick Fat",
+      "nature": "Modest",
+      "evs": "252 HP / 252 SpAtk / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/32/"
+    },
+    {
+      "id": "151-1",
+      "sourceId": 151,
+      "pokemon": "Annihilape",
+      "setName": "Too Angry To Die",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Bulk Up"
+        ],
+        [
+          "Taunt",
+          "Substitute"
+        ],
+        [
+          "Drain Punch"
+        ],
+        [
+          "Rage Fist"
+        ]
+      ],
+      "item": "Leftovers / Mental Herb",
+      "ability": "Vital Spirit / Defiant",
+      "nature": "Impish / Careful",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/151/"
+    },
+    {
+      "id": "125-1",
+      "sourceId": 125,
+      "pokemon": "Applin",
+      "setName": "Bulky (Brock)",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Sucker Punch",
+          "Recycle"
+        ],
+        [
+          "Mega Drain"
+        ],
+        [
+          "Dragon Breath"
+        ],
+        [
+          "Astonish"
+        ]
+      ],
+      "item": "Oran Berry",
+      "ability": "Ripen",
+      "nature": "Relaxed",
+      "evs": "252 HP / 252 Def / 4 SpAtk",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/125/"
+    },
+    {
+      "id": "20-1",
+      "sourceId": 20,
+      "pokemon": "Arbok",
+      "setName": "Emotional Support Cobra",
+      "author": "Lipe",
+      "moves": [
+        [
+          "Gunk Shot"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Glare",
+          "Earthquake"
+        ],
+        [
+          "Shed Tail"
+        ]
+      ],
+      "item": "Sitrus Berry / Black Glasses / Air Balloon",
+      "ability": "Intimidate",
+      "nature": "Adamant / Impish",
+      "evs": "252 HP / 138 Atk / 120 Def",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/20/"
+    },
+    {
+      "id": "195-1",
+      "sourceId": 195,
+      "pokemon": "Arcanine-Hisui",
+      "setName": "Pyroclasmic Assault Beast",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Flare Blitz"
+        ],
+        [
+          "Accelerock"
+        ],
+        [
+          "Head Smash"
+        ],
+        [
+          "Headlong Rush"
+        ]
+      ],
+      "item": "Choice Scarf / Choice Band / Life Orb",
+      "ability": "Rock Head",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/195/"
+    },
+    {
+      "id": "155-1",
+      "sourceId": 155,
+      "pokemon": "Archaludon",
+      "setName": "Rainy Bridge",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Draco Meteor"
+        ],
+        [
+          "Flash Cannon"
+        ],
+        [
+          "Electro Shot"
+        ],
+        [
+          "Body Press"
+        ]
+      ],
+      "item": "Assault Vest",
+      "ability": "Bad Company / Stamina",
+      "nature": "Modest",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/155/"
+    },
+    {
+      "id": "155-2",
+      "sourceId": 155,
+      "pokemon": "Archaludon",
+      "setName": "Metal Dragon Juggernaut",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Flash Cannon"
+        ],
+        [
+          "Draco Meteor"
+        ],
+        [
+          "Metal Burst"
+        ],
+        [
+          "Body Press"
+        ]
+      ],
+      "item": "Heavy-Duty Boots / Sitrus Berry",
+      "ability": "Sturdy",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/155/"
+    },
+    {
+      "id": "36-1",
+      "sourceId": 36,
+      "pokemon": "Armaldo",
+      "setName": "Armaldo",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Pin Missile"
+        ],
+        [
+          "First Impression"
+        ],
+        [
+          "Rock Blast"
+        ],
+        [
+          "Earthquake",
+          "Knock Off"
+        ]
+      ],
+      "item": "Silver Powder / Choice Band / Assault Vest",
+      "ability": "Skill Link",
+      "nature": "Adamant",
+      "evs": "252 HP / 252 Atk / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/36/"
+    },
+    {
+      "id": "36-2",
+      "sourceId": 36,
+      "pokemon": "Armaldo",
+      "setName": "Arma",
+      "author": "",
+      "moves": [
+        [
+          "Pin Missile"
+        ],
+        [
+          "Rock Blast"
+        ],
+        [
+          "Rapid Spin"
+        ],
+        [
+          "Knock Off"
+        ]
+      ],
+      "item": "Assault Vest",
+      "ability": "Skill Link",
+      "nature": "Adamant / Impish",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/36/"
+    },
+    {
+      "id": "191-1",
+      "sourceId": 191,
+      "pokemon": "Articuno",
+      "setName": "Blizzard Bird",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Blizzard",
+          "Frost Breath"
+        ],
+        [
+          "Bleakwind Storm",
+          "Hurricane",
+          "Air Slash"
+        ],
+        [
+          "Freeze-Dry",
+          "U-Turn"
+        ],
+        [
+          "Ice Shard",
+          "Defog",
+          "Focus Blast"
+        ]
+      ],
+      "item": "Expert Belt / Choice Scarf / Sitrus Berry",
+      "ability": "Frozen Mist",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/191/"
+    },
+    {
+      "id": "5-1",
+      "sourceId": 5,
+      "pokemon": "Avalugg",
+      "setName": "The Wall",
+      "author": "bigbadporky",
+      "moves": [
+        [
+          "Iron Defense"
+        ],
+        [
+          "Recover",
+          "Rest"
+        ],
+        [
+          "Body Press"
+        ],
+        [
+          "Mountain Gale",
+          "Iron Head",
+          "Earthquake"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Filter",
+      "nature": "Impish",
+      "evs": "252 HP / 4 Atk / 252 Def",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/5/"
+    },
+    {
+      "id": "5-2",
+      "sourceId": 5,
+      "pokemon": "Avalugg",
+      "setName": "Curselugg",
+      "author": "",
+      "moves": [
+        [
+          "Ice Shard"
+        ],
+        [
+          "Curse"
+        ],
+        [
+          "Earthquake",
+          "Body Press"
+        ],
+        [
+          "Recover"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Filter",
+      "nature": "Careful",
+      "evs": "252 HP / 4 Def / 252 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/5/"
+    },
+    {
+      "id": "141-1",
+      "sourceId": 141,
+      "pokemon": "Azelf",
+      "setName": "Willpower (Clair)",
+      "author": "Not a Duck",
+      "moves": [
+        [
+          "Mystical Power"
+        ],
+        [
+          "Draining Kiss"
+        ],
+        [
+          "HP Ground",
+          "Fire Blast"
+        ],
+        [
+          "Reflect"
+        ]
+      ],
+      "item": "Salac Berry",
+      "ability": "Levitate",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/141/"
+    },
+    {
+      "id": "96-1",
+      "sourceId": 96,
+      "pokemon": "Barraskewda",
+      "setName": "Bascu-lite",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Liquidation"
+        ],
+        [
+          "Poison Jab"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Flip Turn"
+        ]
+      ],
+      "item": "Choice Band",
+      "ability": "Swift Swim",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/96/"
+    },
+    {
+      "id": "147-1",
+      "sourceId": 147,
+      "pokemon": "Baxcalibur",
+      "setName": "Sweeping Excalibur",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Scale Shot"
+        ],
+        [
+          "Icicle Spear"
+        ],
+        [
+          "Earthquake",
+          "Ice Shard"
+        ],
+        [
+          "Swords Dance"
+        ]
+      ],
+      "item": "Loaded Dice",
+      "ability": "Thermal Exchange",
+      "nature": "Jolly",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/147/"
+    },
+    {
+      "id": "98-1",
+      "sourceId": 98,
+      "pokemon": "Beedrill-Mega",
+      "setName": "Bee Scout",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Gunk Shot"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Drill Run"
+        ],
+        [
+          "Fell Stinger"
+        ]
+      ],
+      "item": "Beedrillite",
+      "ability": "Adaptability",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 Def / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/98/"
+    },
+    {
+      "id": "98-2",
+      "sourceId": 98,
+      "pokemon": "Beedrill-Mega",
+      "setName": "Archer Sweeper (Cerulean Cave Archer)",
+      "author": "GonnaGiveYouUp",
+      "moves": [
+        [
+          "Gunk Shot"
+        ],
+        [
+          "Pin Missile"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Reflect"
+        ]
+      ],
+      "item": "Beedrillite",
+      "ability": "Adaptability",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/98/"
+    },
+    {
+      "id": "23-1",
+      "sourceId": 23,
+      "pokemon": "Bewear",
+      "setName": "Bear",
+      "author": "L E G S",
+      "moves": [
+        [
+          "Bulk Up"
+        ],
+        [
+          "Protect"
+        ],
+        [
+          "Drain Punch"
+        ],
+        [
+          "Shadow Claw"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Fluffy",
+      "nature": "Impish",
+      "evs": "4 HP / 252 Atk / 252 Def",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/23/"
+    },
+    {
+      "id": "12-1",
+      "sourceId": 12,
+      "pokemon": "Blastoise-Mega",
+      "setName": "Sweepin' Turtle",
+      "author": "tetbr",
+      "moves": [
+        [
+          "Shell Smash"
+        ],
+        [
+          "Water Pulse",
+          "Scald"
+        ],
+        [
+          "Ice Beam"
+        ],
+        [
+          "Aura Sphere"
+        ]
+      ],
+      "item": "Blastoisinite",
+      "ability": "Mega Launcher",
+      "nature": "Modest",
+      "evs": "252 SpAtk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/12/"
+    },
+    {
+      "id": "110-1",
+      "sourceId": 110,
+      "pokemon": "Blaziken",
+      "setName": "I Am Speed",
+      "author": "Luck Mode",
+      "moves": [
+        [
+          "Triple Arrows",
+          "High Jump Kick",
+          "Close Combat"
+        ],
+        [
+          "Blaze Kick"
+        ],
+        [
+          "Protect"
+        ],
+        [
+          "Swords Dance",
+          "Bulk Up"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Speed Boost",
+      "nature": "Adamant",
+      "evs": "4 HP / 252 Atk / 252 Def",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/110/"
+    },
+    {
+      "id": "19-1",
+      "sourceId": 19,
+      "pokemon": "Blissey",
+      "setName": "WishPort",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Wish"
+        ],
+        [
+          "Teleport"
+        ],
+        [
+          "Seismic Toss"
+        ],
+        [
+          "Protect"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Natural Cure",
+      "nature": "Bold",
+      "evs": "252 HP / 252 Def / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/19/"
+    },
+    {
+      "id": "82-1",
+      "sourceId": 82,
+      "pokemon": "Boltund",
+      "setName": "Thunder Torrent (Misty)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Thunder Fang"
+        ],
+        [
+          "Psychic Fangs"
+        ],
+        [
+          "Nuzzle (If Needed)"
+        ],
+        []
+      ],
+      "item": "Sitrus Berry",
+      "ability": "Strong Jaw",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/82/"
+    },
+    {
+      "id": "50-1",
+      "sourceId": 50,
+      "pokemon": "Bouffalant",
+      "setName": "Jericho",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Raging Bull"
+        ],
+        [
+          "Headlong Rush"
+        ],
+        [
+          "Poison Jab"
+        ],
+        [
+          "Wild Charge",
+          "Superpower"
+        ]
+      ],
+      "item": "Choice Band / Life Orb",
+      "ability": "Bull Rush",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/50/"
+    },
+    {
+      "id": "72-1",
+      "sourceId": 72,
+      "pokemon": "Breloom",
+      "setName": "Swag",
+      "author": "zoeytastic",
+      "moves": [
+        [
+          "Mach Punch"
+        ],
+        [
+          "Rock Tomb"
+        ],
+        [
+          "Bullet Seed"
+        ],
+        [
+          "Force Palm",
+          "Bulldoze"
+        ]
+      ],
+      "item": "Choice Band / Choice Scarf",
+      "ability": "Technician",
+      "nature": "Adamant / Jolly",
+      "evs": "252 Atk / 252 Spe / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/72/"
+    },
+    {
+      "id": "72-2",
+      "sourceId": 72,
+      "pokemon": "Breloom",
+      "setName": "Spore Dance",
+      "author": "",
+      "moves": [
+        [
+          "Spore"
+        ],
+        [
+          "Swords Dance"
+        ],
+        [
+          "Bullet Seed",
+          "Rock Tomb"
+        ],
+        [
+          "Mach Punch"
+        ]
+      ],
+      "item": "Focus Sash / Life Orb",
+      "ability": "Technician",
+      "nature": "Adamant",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/72/"
+    },
+    {
+      "id": "183-1",
+      "sourceId": 183,
+      "pokemon": "Buzzwole",
+      "setName": "Jacked Alien Mosquito",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Close Combat",
+          "Drain Punch"
+        ],
+        [
+          "Leech Life"
+        ],
+        [
+          "Earthquake",
+          "Stone Edge"
+        ],
+        [
+          "Iron Head",
+          "Counter"
+        ]
+      ],
+      "item": "Choice Band / Focus Sash / Assault Vest",
+      "ability": "Unnerve",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/183/"
+    },
+    {
+      "id": "181-1",
+      "sourceId": 181,
+      "pokemon": "Calyrex-Shadow",
+      "setName": "Spectral Harbinger of Death",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Astral Barrage"
+        ],
+        [
+          "Psyshock",
+          "Psychic"
+        ],
+        [
+          "Draining Kiss"
+        ],
+        [
+          "Energy Ball",
+          "HP Fighting"
+        ]
+      ],
+      "item": "Life Orb / Choice Scarf",
+      "ability": "As One",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/181/"
+    },
+    {
+      "id": "73-1",
+      "sourceId": 73,
+      "pokemon": "Ceruledge",
+      "setName": "Sweeping Edge",
+      "author": "JudasThundersteel",
+      "moves": [
+        [
+          "Bitter Blade"
+        ],
+        [
+          "Shadow Claw"
+        ],
+        [
+          "Flame Charge"
+        ],
+        [
+          "Swords Dance"
+        ]
+      ],
+      "item": "Sitrus Berry / Liechi Berry / Leftovers / Salac Berry",
+      "ability": "Sharpness",
+      "nature": "Adamant / Jolly",
+      "evs": "252 Atk / 252 Spe / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/73/"
+    },
+    {
+      "id": "55-1",
+      "sourceId": 55,
+      "pokemon": "Chandelure",
+      "setName": "Candle",
+      "author": "Silva",
+      "moves": [
+        [
+          "Flamethrower"
+        ],
+        [
+          "Shadow Ball"
+        ],
+        [
+          "Substitute",
+          "Will-O-Wisp"
+        ],
+        [
+          "Calm Mind"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Shadow Tag",
+      "nature": "Modest",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/55/"
+    },
+    {
+      "id": "52-1",
+      "sourceId": 52,
+      "pokemon": "Charizard-MegaY",
+      "setName": "Dante",
+      "author": "Lipe",
+      "moves": [
+        [
+          "Heat Wave",
+          "Flamethrower",
+          "Fire Blast"
+        ],
+        [
+          "Roost"
+        ],
+        [
+          "Will-O-Wisp"
+        ],
+        [
+          "Tailwind",
+          "Solar Beam",
+          "Dragon Pulse"
+        ]
+      ],
+      "item": "Charizardite-Y",
+      "ability": "Drought",
+      "nature": "Timid",
+      "evs": "252 HP / 4 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/52/"
+    },
+    {
+      "id": "52-2",
+      "sourceId": 52,
+      "pokemon": "Charizard-MegaY",
+      "setName": "Sunset Boulevard",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Fire Blast"
+        ],
+        [
+          "Hurricane"
+        ],
+        [
+          "Focus Blast"
+        ],
+        [
+          "Air Slash",
+          "Flamethrower",
+          "Roost"
+        ]
+      ],
+      "item": "Charizardite-Y",
+      "ability": "Sheer Force",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/52/"
+    },
+    {
+      "id": "182-1",
+      "sourceId": 182,
+      "pokemon": "Chatot",
+      "setName": "Amplified Avian",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Boomburst"
+        ],
+        [
+          "Chatter"
+        ],
+        [
+          "Heat Wave"
+        ],
+        [
+          "U-Turn",
+          "Encore",
+          "Agility"
+        ]
+      ],
+      "item": "Choice Scarf / Throat Spray / Life Orb",
+      "ability": "Punk Rock",
+      "nature": "Timid",
+      "evs": "4 HP / 252 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/182/"
+    },
+    {
+      "id": "134-1",
+      "sourceId": 134,
+      "pokemon": "Chesnaught",
+      "setName": "Another Day at the Beach (Silph Co. Giovanni)",
+      "author": "Sensei Luke",
+      "moves": [
+        [
+          "Bulk Up"
+        ],
+        [
+          "Horn Leech"
+        ],
+        [
+          "Leech Seed"
+        ],
+        [
+          "Hammer Arm"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Iron Barbs",
+      "nature": "Impish / Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/134/"
+    },
+    {
+      "id": "149-1",
+      "sourceId": 149,
+      "pokemon": "Chi-Yu",
+      "setName": "Kill-Yu",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Overheat"
+        ],
+        [
+          "Heat Wave",
+          "Fire Blast"
+        ],
+        [
+          "Will-O-Wisp",
+          "Dark Pulse"
+        ],
+        [
+          "Psychic"
+        ]
+      ],
+      "item": "Choice Scarf / Choice Specs",
+      "ability": "Beads of Ruin",
+      "nature": "Timid / Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/149/"
+    },
+    {
+      "id": "10-1",
+      "sourceId": 10,
+      "pokemon": "Chien-Pao",
+      "setName": "Better Weavile",
+      "author": "JudasThundersteel",
+      "moves": [
+        [
+          "Icicle Crash"
+        ],
+        [
+          "Throat Chop"
+        ],
+        [
+          "Sacred Sword"
+        ],
+        [
+          "Ice Shard",
+          "Sucker Punch"
+        ]
+      ],
+      "item": "Choice Band / Life Orb",
+      "ability": "Sword of Ruin",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/10/"
+    },
+    {
+      "id": "152-1",
+      "sourceId": 152,
+      "pokemon": "Chillet",
+      "setName": "Delibird But Better",
+      "author": "Hades",
+      "moves": [
+        [
+          "Extreme Speed"
+        ],
+        [
+          "Dragon Claw"
+        ],
+        [
+          "Thunder Punch",
+          "Sucker Punch"
+        ],
+        [
+          "Return",
+          "Double Edge",
+          "Tail Slap"
+        ]
+      ],
+      "item": "Never-Melt Ice / Choice Band / Life Orb / Heavy Duty-Boots",
+      "ability": "Refrigerate",
+      "nature": "Adamant / Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/152/"
+    },
+    {
+      "id": "27-1",
+      "sourceId": 27,
+      "pokemon": "Cincinno",
+      "setName": "Mouse",
+      "author": "Silva",
+      "moves": [
+        [
+          "Tail Slap"
+        ],
+        [
+          "Bullet Seed"
+        ],
+        [
+          "Rock Blast"
+        ],
+        [
+          "Knock Off",
+          "Triple Axel",
+          "U-Turn",
+          "Encore"
+        ]
+      ],
+      "item": "Loaded Dice",
+      "ability": "Technician",
+      "nature": "Jolly",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/27/"
+    },
+    {
+      "id": "164-1",
+      "sourceId": 164,
+      "pokemon": "Cinderace",
+      "setName": "Chucky Cheese (Chuck)",
+      "author": "Raymond",
+      "moves": [
+        [
+          "Acrobatics"
+        ],
+        [
+          "Protect"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Pyro Ball",
+          "Fire Punch"
+        ]
+      ],
+      "item": "No Item",
+      "ability": "Libero",
+      "nature": "Jolly",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/164/"
+    },
+    {
+      "id": "146-1",
+      "sourceId": 146,
+      "pokemon": "Clefable",
+      "setName": "Magic Finger (Brock Rematch)",
+      "author": "Nox",
+      "moves": [
+        [
+          "Moonblast"
+        ],
+        [
+          "Stored Power"
+        ],
+        [
+          "Cosmic Power"
+        ],
+        [
+          "Soft Boiled"
+        ]
+      ],
+      "item": "Red Card",
+      "ability": "Magic Guard",
+      "nature": "Modest",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/146/"
+    },
+    {
+      "id": "66-1",
+      "sourceId": 66,
+      "pokemon": "Clodsire",
+      "setName": "King/Queen of the Derps",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Poison Jab"
+        ],
+        [
+          "Recover"
+        ],
+        [
+          "Counter"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Assault Vest / Black Sludge / Payapa Berry",
+      "ability": "Unaware",
+      "nature": "Adamant / Careful",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/66/"
+    },
+    {
+      "id": "168-1",
+      "sourceId": 168,
+      "pokemon": "Cofagrigus",
+      "setName": "Coffin Closer",
+      "author": "MrHoward",
+      "moves": [
+        [
+          "Will-O-Wisp"
+        ],
+        [
+          "Body Press"
+        ],
+        [
+          "Knock Off"
+        ],
+        [
+          "Hex"
+        ]
+      ],
+      "item": "Leftovers / Heavy-Duty Boots",
+      "ability": "Mummy / Shadow Shield",
+      "nature": "Bold",
+      "evs": "252 HP / 252 Def / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/168/"
+    },
+    {
+      "id": "13-1",
+      "sourceId": 13,
+      "pokemon": "Comfey",
+      "setName": "Draining Kiss",
+      "author": "Plasto",
+      "moves": [
+        [
+          "Draining Kiss"
+        ],
+        [
+          "Sparkly Swirl"
+        ],
+        [
+          "Giga Drain",
+          "Calm Mind"
+        ],
+        [
+          "Leech Seed",
+          "Synthesis"
+        ]
+      ],
+      "item": "Choice Specs / Pixie Plate",
+      "ability": "Triage",
+      "nature": "Modest",
+      "evs": "252 HP / 4 Def / 252 SpAtk",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/13/"
+    },
+    {
+      "id": "91-1",
+      "sourceId": 91,
+      "pokemon": "Darmanitan-GalarZ",
+      "setName": "A Jolly Happy Soul",
+      "author": "MrHoward",
+      "moves": [
+        [
+          "Ice Hammer"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Fire Punch",
+          "Flare Blitz"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Life Orb / Choice Band",
+      "ability": "Zen Mode",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 Def / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/91/"
+    },
+    {
+      "id": "126-1",
+      "sourceId": 126,
+      "pokemon": "Delibird",
+      "setName": "Fake Out",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Fake Out"
+        ],
+        [
+          "Extreme Speed"
+        ],
+        [
+          "Brave Bird",
+          "Drill Peck"
+        ],
+        [
+          "Drill Run",
+          "Destiny Bond"
+        ]
+      ],
+      "item": "Never-Melt Ice / Focus Sash",
+      "ability": "Refrigerate",
+      "nature": "Adamant",
+      "evs": "252 Atk / 4 Def / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/126/"
+    },
+    {
+      "id": "126-2",
+      "sourceId": 126,
+      "pokemon": "Delibird",
+      "setName": "Mega Glalie But Better",
+      "author": "GonnaGiveYouUp",
+      "moves": [
+        [
+          "Extreme Speed"
+        ],
+        [
+          "Fake Out"
+        ],
+        [
+          "Drill Run",
+          "Focus Punch",
+          "Seed Bomb"
+        ],
+        [
+          "Return",
+          "Brave Bird"
+        ]
+      ],
+      "item": "Never-Melt Ice / Expert Belt / Life Orb / Heavy Duty-Boots",
+      "ability": "Refrigerate",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/126/"
+    },
+    {
+      "id": "128-1",
+      "sourceId": 128,
+      "pokemon": "Delphox",
+      "setName": "No Burning Mercy (Pryce)",
+      "author": "LightningPro123",
+      "moves": [
+        [
+          "Flamethrower"
+        ],
+        [
+          "Psychic"
+        ],
+        [
+          "Calm Mind"
+        ],
+        [
+          "Grass Knot"
+        ]
+      ],
+      "item": "Life Orb",
+      "ability": "Magic Guard",
+      "nature": "Timid",
+      "evs": "4 HP / 252 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/128/"
+    },
+    {
+      "id": "89-1",
+      "sourceId": 89,
+      "pokemon": "Deoxys-Speed",
+      "setName": "Harasser",
+      "author": "MrHoward",
+      "moves": [
+        [
+          "Taunt"
+        ],
+        [
+          "Stealth Rock"
+        ],
+        [
+          "Thunder Wave"
+        ],
+        [
+          "Knock Off"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Pressure",
+      "nature": "Jolly",
+      "evs": "252 HP / 4 Def / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/89/"
+    },
+    {
+      "id": "129-1",
+      "sourceId": 129,
+      "pokemon": "Dewgong",
+      "setName": "Special Wall + Encore User",
+      "author": "TearingShadows",
+      "moves": [
+        [
+          "Ice Beam"
+        ],
+        [
+          "Encore"
+        ],
+        [
+          "Surf",
+          "Scald"
+        ],
+        [
+          "Disable",
+          "Rest",
+          "Flip Turn"
+        ]
+      ],
+      "item": "Sitrus Berry / Wacan Berry / Rindo Berry / Chople Berry",
+      "ability": "Ice Scales",
+      "nature": "Calm",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/129/"
+    },
+    {
+      "id": "194-1",
+      "sourceId": 194,
+      "pokemon": "Diancie-Mega",
+      "setName": "Radiant Gemstone Fairy",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Diamond Storm"
+        ],
+        [
+          "Moonblast"
+        ],
+        [
+          "Rock Tomb"
+        ],
+        [
+          "Earth Power"
+        ]
+      ],
+      "item": "Diancite",
+      "ability": "Clear Body -> Magic Guard",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/194/"
+    },
+    {
+      "id": "144-1",
+      "sourceId": 144,
+      "pokemon": "Ditto",
+      "setName": "This Is Not A Joke (Clair)",
+      "author": "GonnaGiveYouUp",
+      "moves": [
+        [
+          "Transform"
+        ],
+        [],
+        [],
+        []
+      ],
+      "item": "Focus Sash",
+      "ability": "Limber",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/144/"
+    },
+    {
+      "id": "59-1",
+      "sourceId": 59,
+      "pokemon": "Donphan",
+      "setName": "The Don",
+      "author": "Silva",
+      "moves": [
+        [
+          "Bonemerang"
+        ],
+        [
+          "Rock Tomb",
+          "Stone Edge",
+          "Head Smash"
+        ],
+        [
+          "Knock Off",
+          "Rapid Spin"
+        ],
+        [
+          "Ice Shard"
+        ]
+      ],
+      "item": "Expert Belt",
+      "ability": "Technician",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/59/"
+    },
+    {
+      "id": "160-1",
+      "sourceId": 160,
+      "pokemon": "Dragapult",
+      "setName": "Stealth Bomber",
+      "author": "Blue",
+      "moves": [
+        [
+          "Dragon Pulse",
+          "Draco Meteor"
+        ],
+        [
+          "Shadow Ball"
+        ],
+        [
+          "Flamethrower",
+          "Fire Blast"
+        ],
+        [
+          "U-Turn"
+        ]
+      ],
+      "item": "Choice Specs",
+      "ability": "Infiltrator",
+      "nature": "Timid / Modest",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/160/"
+    },
+    {
+      "id": "40-1",
+      "sourceId": 40,
+      "pokemon": "Dudunsparce",
+      "setName": "Status Spreader",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Body Slam"
+        ],
+        [
+          "Roost"
+        ],
+        [
+          "Poison Jab"
+        ],
+        [
+          "Body Press",
+          "Bite",
+          "Rock Smash"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Serene Grace",
+      "nature": "Impish / Careful",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/40/"
+    },
+    {
+      "id": "118-1",
+      "sourceId": 118,
+      "pokemon": "Dusknoir",
+      "setName": "Bulky Ghost",
+      "author": "Xacht",
+      "moves": [
+        [
+          "Shadow Punch"
+        ],
+        [
+          "Will-O-Wisp"
+        ],
+        [
+          "Pain Split"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Pressure",
+      "nature": "Impish",
+      "evs": "252 HP / 4 Atk / 252 Def",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/118/"
+    },
+    {
+      "id": "118-2",
+      "sourceId": 118,
+      "pokemon": "Dusknoir",
+      "setName": "Relentless Reaper",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Shadow Sneak"
+        ],
+        [
+          "Fire Punch",
+          "Ice Punch",
+          "Will-O-Wisp"
+        ],
+        [
+          "Dynamic Punch"
+        ],
+        [
+          "Shadow Punch",
+          "Shadow Claw",
+          "Poltergeist"
+        ]
+      ],
+      "item": "Reaper Cloth",
+      "ability": "Hustle",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/118/"
+    },
+    {
+      "id": "142-1",
+      "sourceId": 142,
+      "pokemon": "Eelektross",
+      "setName": "Hard Taskmaster (Lt. Surge Rematch)",
+      "author": "squidwood",
+      "moves": [
+        [
+          "Coil"
+        ],
+        [
+          "Drain Punch"
+        ],
+        [
+          "Protect"
+        ],
+        []
+      ],
+      "item": "Leftovers",
+      "ability": "Levitate",
+      "nature": "Adamant",
+      "evs": "No EVs",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/142/"
+    },
+    {
+      "id": "49-1",
+      "sourceId": 49,
+      "pokemon": "Electivire",
+      "setName": "What A Shock",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Plasma Fists"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Drain Punch",
+          "Volt Switch"
+        ]
+      ],
+      "item": "Punching Glove",
+      "ability": "Iron Fist",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/49/"
+    },
+    {
+      "id": "64-1",
+      "sourceId": 64,
+      "pokemon": "Empoleon",
+      "setName": "Offensive",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Make It Rain"
+        ],
+        [
+          "Scald"
+        ],
+        [
+          "Ice Beam"
+        ],
+        [
+          "Roost"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Competitive",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/64/"
+    },
+    {
+      "id": "21-1",
+      "sourceId": 21,
+      "pokemon": "Excadrill",
+      "setName": "Sand Rusher",
+      "author": "Rua",
+      "moves": [
+        [
+          "Swords Dance"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "Iron Head"
+        ],
+        [
+          "Rock Slide",
+          "Poison Jab",
+          "Rapid Spin"
+        ]
+      ],
+      "item": "Life Orb / Focus Sash",
+      "ability": "Sand Rush",
+      "nature": "Adamant",
+      "evs": "4 HP / 252 Atk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/21/"
+    },
+    {
+      "id": "99-1",
+      "sourceId": 99,
+      "pokemon": "Fearow",
+      "setName": "Technician",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Dual Wingbeat"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Drill Run",
+          "Assurance"
+        ],
+        [
+          "Quick Attack"
+        ]
+      ],
+      "item": "Choice Band",
+      "ability": "Technician",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 Def / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/99/"
+    },
+    {
+      "id": "2-1",
+      "sourceId": 2,
+      "pokemon": "Flutter Mane",
+      "setName": "Invest Mane",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Moonblast"
+        ],
+        [
+          "Shadow Ball"
+        ],
+        [
+          "Mystical Fire"
+        ],
+        [
+          "Thunder"
+        ]
+      ],
+      "item": "Assault Vest",
+      "ability": "Protosynthesis",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/2/"
+    },
+    {
+      "id": "169-1",
+      "sourceId": 169,
+      "pokemon": "Flygon",
+      "setName": "S.A.N.D. (Super Aerodynamic Napalm Destroyer)",
+      "author": "Blue",
+      "moves": [
+        [
+          "Sandsear Storm"
+        ],
+        [
+          "Dragon Pulse",
+          "Draco Meteor"
+        ],
+        [
+          "Flamethrower",
+          "Fire Blast"
+        ],
+        [
+          "U-Turn"
+        ]
+      ],
+      "item": "Expert Belt / Choice Specs",
+      "ability": "Tinted Lens",
+      "nature": "Timid",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/169/"
+    },
+    {
+      "id": "58-1",
+      "sourceId": 58,
+      "pokemon": "Furret",
+      "setName": "Speedy Long Boi",
+      "author": "Cyro",
+      "moves": [
+        [
+          "Double-Edge"
+        ],
+        [
+          "Knock Off"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Extreme Speed"
+        ]
+      ],
+      "item": "Choice Band",
+      "ability": "Adamant",
+      "nature": "Adamant",
+      "evs": "252 Atk / 4 Def / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/58/"
+    },
+    {
+      "id": "25-1",
+      "sourceId": 25,
+      "pokemon": "Gallade-Mega",
+      "setName": "Peerless Blademaster",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Leaf Blade",
+          "Shadow Claw"
+        ],
+        [
+          "Psycho Cut"
+        ],
+        [
+          "Sacred Sword"
+        ],
+        [
+          "Triple Axel",
+          "Cut"
+        ]
+      ],
+      "item": "Galladite",
+      "ability": "Sharpness",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/25/"
+    },
+    {
+      "id": "167-1",
+      "sourceId": 167,
+      "pokemon": "Garchomp",
+      "setName": "Earthen Dragon Destroyer",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Outrage",
+          "Dual Chop"
+        ],
+        [
+          "Shadow Claw",
+          "Iron Head"
+        ],
+        [
+          "Stone Edge"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Choice Scarf / Choice Band",
+      "ability": "Rough Skin",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/167/"
+    },
+    {
+      "id": "6-1",
+      "sourceId": 6,
+      "pokemon": "Gardevoir",
+      "setName": "Maid",
+      "author": "zoeytastic",
+      "moves": [
+        [
+          "Psychic",
+          "Stored Power"
+        ],
+        [
+          "Draining Kiss",
+          "Moonblast"
+        ],
+        [
+          "Calm Mind"
+        ],
+        [
+          "Recover"
+        ]
+      ],
+      "item": "Salac Berry",
+      "ability": "Trace",
+      "nature": "Timid",
+      "evs": "4 HP / 252 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/6/"
+    },
+    {
+      "id": "156-1",
+      "sourceId": 156,
+      "pokemon": "Gardevoir-Mega",
+      "setName": "Scream & Shout",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Hyper Voice"
+        ],
+        [
+          "Psychic",
+          "Psyshock"
+        ],
+        [
+          "Vacuum Wave"
+        ],
+        [
+          "Focus Blast",
+          "Aura Sphere",
+          "Mystical Fire"
+        ]
+      ],
+      "item": "Gardevoirite",
+      "ability": "Trace -> Pixiliate",
+      "nature": "Timid",
+      "evs": "252 SpA / 252 SpD / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/156/"
+    },
+    {
+      "id": "69-1",
+      "sourceId": 69,
+      "pokemon": "Gastrodon",
+      "setName": "The Slug",
+      "author": "zoeytastic",
+      "moves": [
+        [
+          "Scald"
+        ],
+        [
+          "Stockpile"
+        ],
+        [
+          "Recover"
+        ],
+        [
+          "Earth Power",
+          "Ice Beam",
+          "Clear Smog",
+          "Sludge Wave"
+        ]
+      ],
+      "item": "Leftovers / Rindo Berry",
+      "ability": "Storm Drain",
+      "nature": "Relaxed",
+      "evs": "252 HP / 252 Def / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/69/"
+    },
+    {
+      "id": "29-1",
+      "sourceId": 29,
+      "pokemon": "Gholdengo",
+      "setName": "Golden",
+      "author": "Silva",
+      "moves": [
+        [
+          "Make It Rain"
+        ],
+        [
+          "Shadow Ball"
+        ],
+        [
+          "Thunderbolt"
+        ],
+        [
+          "Dazzling Gleam",
+          "Psychic",
+          "Focus Blast"
+        ]
+      ],
+      "item": "Choice Specs / Choice Scarf",
+      "ability": "Good as Gold",
+      "nature": "Modest",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/29/"
+    },
+    {
+      "id": "34-1",
+      "sourceId": 34,
+      "pokemon": "Glaceon",
+      "setName": "Snow Offense",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Blizzard"
+        ],
+        [
+          "Freeze-Dry"
+        ],
+        [
+          "Earth Power"
+        ],
+        [
+          "Shadow Ball"
+        ]
+      ],
+      "item": "Life Orb / Choice Specs",
+      "ability": "Slush Rush",
+      "nature": "Modest",
+      "evs": "252 SpAtk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/34/"
+    },
+    {
+      "id": "94-1",
+      "sourceId": 94,
+      "pokemon": "Golduck",
+      "setName": "Duck is Duck",
+      "author": "Not a Duck",
+      "moves": [
+        [
+          "Encore"
+        ],
+        [
+          "Hydro Pump",
+          "Synchronoise"
+        ],
+        [
+          "Aqua Jet",
+          "Me First",
+          "Flip Turn"
+        ],
+        [
+          "Simple beam",
+          "Ice Beam",
+          "Psychic",
+          "Zen Headbutt",
+          "Expanding Force",
+          "Focus Blast"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Swift Swim / Cloud Nine",
+      "nature": "Hasty",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/94/"
+    },
+    {
+      "id": "178-1",
+      "sourceId": 178,
+      "pokemon": "Golem",
+      "setName": "Rock and Roll",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Headlong Rush"
+        ],
+        [
+          "Stone Edge",
+          "Head Smash"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Rapid Spin",
+          "Stealth Rock",
+          "Explosion",
+          "Superpower"
+        ]
+      ],
+      "item": "Liechi Berry / Muscle Band / Soft Sand / Life Orb",
+      "ability": "Sturdy / Rock Head",
+      "nature": "Adamant",
+      "evs": "252 HP / 252 Atk / 4 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/178/"
+    },
+    {
+      "id": "28-1",
+      "sourceId": 28,
+      "pokemon": "Golem-Alola",
+      "setName": "Dynamite (Gimmick)",
+      "author": "Silva",
+      "moves": [
+        [
+          "Explosion"
+        ],
+        [
+          "Double-Edge"
+        ],
+        [
+          "Superpower"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Choice Band",
+      "ability": "Galvanize",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/28/"
+    },
+    {
+      "id": "41-2",
+      "sourceId": 41,
+      "pokemon": "Golurk",
+      "setName": "Goliath",
+      "author": "",
+      "moves": [
+        [
+          "Rage Fist"
+        ],
+        [
+          "Headlong Rush"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Rock Polish"
+        ]
+      ],
+      "item": "Expert Belt",
+      "ability": "Iron Fist",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/41/"
+    },
+    {
+      "id": "62-1",
+      "sourceId": 62,
+      "pokemon": "Grafaiai",
+      "setName": "Bob Ross Who?",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Gunk Shot"
+        ],
+        [
+          "Double-Edge"
+        ],
+        [
+          "Low Kick"
+        ],
+        [
+          "V-Create",
+          "Draco Barrage",
+          "Fishous Rend",
+          "Triple Arrows"
+        ]
+      ],
+      "item": "White Herb / Choice Band",
+      "ability": "Unburden / Poison Touch",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/62/"
+    },
+    {
+      "id": "62-2",
+      "sourceId": 62,
+      "pokemon": "Grafaiai",
+      "setName": "E4 Sweeper",
+      "author": "gonnagiveyouup",
+      "moves": [
+        [
+          "Return"
+        ],
+        [
+          "Shadow Claw",
+          "Low Kick",
+          "Dig"
+        ],
+        [
+          "Swords Dance"
+        ],
+        [
+          "Encore"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Unburden",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/62/"
+    },
+    {
+      "id": "189-1",
+      "sourceId": 189,
+      "pokemon": "Great Tusk",
+      "setName": "Unstoppable Behemoth",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Headlong Rush"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Knock Off",
+          "Rapid Spin",
+          "Rock Tomb"
+        ],
+        [
+          "Play Rough",
+          "Ice Spinner",
+          "Head Smash"
+        ]
+      ],
+      "item": "Choice Band / Coba Berry / Heavy-Duty Boots",
+      "ability": "Protosynthesis",
+      "nature": "Jolly / Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/189/"
+    },
+    {
+      "id": "61-1",
+      "sourceId": 61,
+      "pokemon": "Greedent",
+      "setName": "Dearth Squirrel",
+      "author": "Maskninja",
+      "moves": [
+        [
+          "Body Press"
+        ],
+        [
+          "Recycle"
+        ],
+        [
+          "Stuff Cheeks"
+        ],
+        [
+          "Tail Slap",
+          "Earthquake",
+          "Counter"
+        ]
+      ],
+      "item": "Liechi Berry / Sitrus Berry / Chople Berry",
+      "ability": "Cheek Pouch",
+      "nature": "Impish / Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/61/"
+    },
+    {
+      "id": "163-1",
+      "sourceId": 163,
+      "pokemon": "Greninja",
+      "setName": "Bonded Battler",
+      "author": "Frazele",
+      "moves": [
+        [
+          "Dark Pulse"
+        ],
+        [
+          "Hydro Pump",
+          "Scald"
+        ],
+        [
+          "Water Shuriken"
+        ],
+        [
+          "Ice Beam",
+          "U-Turn",
+          "Gunk Shot"
+        ]
+      ],
+      "item": "Life Orb / Choice Specs",
+      "ability": "Battle Bond",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/163/"
+    },
+    {
+      "id": "135-1",
+      "sourceId": 135,
+      "pokemon": "Grimer-Alola",
+      "setName": "3 Birds, One Rock Tomb (Falkner)",
+      "author": "Morbick",
+      "moves": [
+        [
+          "Rock Tomb"
+        ],
+        [
+          "Bite"
+        ],
+        [],
+        []
+      ],
+      "item": "Hard Stone / Oran Berry",
+      "ability": "Poison Touch / Gluttony",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/135/"
+    },
+    {
+      "id": "137-1",
+      "sourceId": 137,
+      "pokemon": "Guzzlord",
+      "setName": "AAAAAAAAAAAAHHHHHHHHHH",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Knock Off"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Dragon Hammer",
+          "Stone Edge"
+        ],
+        [
+          "Gyro Ball",
+          "Earthquake"
+        ]
+      ],
+      "item": "Assault Vest",
+      "ability": "Dark Aura",
+      "nature": "Brave",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/137/"
+    },
+    {
+      "id": "132-1",
+      "sourceId": 132,
+      "pokemon": "Gyarados",
+      "setName": "Smack That Ass (Chuck)",
+      "author": "Raymond",
+      "moves": [
+        [
+          "Protect"
+        ],
+        [
+          "Return"
+        ],
+        [
+          "Roar"
+        ],
+        [
+          "Dragon Dance"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Intimidate",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/132/"
+    },
+    {
+      "id": "42-1",
+      "sourceId": 42,
+      "pokemon": "Haxorus",
+      "setName": "Salac Berry",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Glaive Rush"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "Poison Jab"
+        ],
+        [
+          "Endure"
+        ]
+      ],
+      "item": "Salac Berry",
+      "ability": "Mold Breaker",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/42/"
+    },
+    {
+      "id": "187-1",
+      "sourceId": 187,
+      "pokemon": "Heliolisk",
+      "setName": "Praise the Sun!",
+      "author": "Blue",
+      "moves": [
+        [
+          "Parabolic Charge"
+        ],
+        [
+          "Boomburst",
+          "Hyper Voice"
+        ],
+        [
+          "Grass Knot"
+        ],
+        [
+          "Volt Switch"
+        ]
+      ],
+      "item": "Life Orb",
+      "ability": "Solar Power",
+      "nature": "Timid",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/187/"
+    },
+    {
+      "id": "30-1",
+      "sourceId": 30,
+      "pokemon": "Heracross-Mega",
+      "setName": "Mega Heracross",
+      "author": "gonnagiveyouup",
+      "moves": [
+        [
+          "Pin Missile"
+        ],
+        [
+          "Arm Thrust"
+        ],
+        [
+          "Rock Blast"
+        ],
+        [
+          "Bullet Seed"
+        ]
+      ],
+      "item": "Heracronite",
+      "ability": "Skill Link",
+      "nature": "Adamant / Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/30/"
+    },
+    {
+      "id": "24-1",
+      "sourceId": 24,
+      "pokemon": "Hitmonlee",
+      "setName": "Reverse Sweeper",
+      "author": "gonnagiveyouup",
+      "moves": [
+        [
+          "Reversal"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "Knock Off",
+          "Rock Slide",
+          "Triple Axel"
+        ],
+        [
+          "Endure"
+        ]
+      ],
+      "item": "Liechi Berry / Salac Berry",
+      "ability": "Unburden",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/24/"
+    },
+    {
+      "id": "174-1",
+      "sourceId": 174,
+      "pokemon": "Hoopa-Unbound",
+      "setName": "Hyperspace Ring Genie",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Hyperspace Fury"
+        ],
+        [
+          "Grass Knot",
+          "Drain Punch",
+          "Focus Blast"
+        ],
+        [
+          "Gunk Shot",
+          "Expanding Force"
+        ],
+        [
+          "Ice Punch",
+          "Psychic"
+        ]
+      ],
+      "item": "Choice Scarf / Choice Band / Assault Vest / Life Orb",
+      "ability": "Magician",
+      "nature": "Hasty",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/174/"
+    },
+    {
+      "id": "186-1",
+      "sourceId": 186,
+      "pokemon": "Incineroar",
+      "setName": "Hellfire Tiger Wrestler",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Flare Blitz"
+        ],
+        [
+          "Fake Out",
+          "Will-O-Wisp"
+        ],
+        [
+          "Darkest Lariat",
+          "Knock Off"
+        ],
+        [
+          "Close Combat"
+        ]
+      ],
+      "item": "Assault Vest / Choice Band / Chilan Berry",
+      "ability": "Intimidate",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/186/"
+    },
+    {
+      "id": "7-1",
+      "sourceId": 7,
+      "pokemon": "Iron Bundle",
+      "setName": "Special Offense",
+      "author": "gonnagiveyouup",
+      "moves": [
+        [
+          "Hydro Pump"
+        ],
+        [
+          "Ice Beam"
+        ],
+        [
+          "Freeze Dry"
+        ],
+        [
+          "Flip Turn"
+        ]
+      ],
+      "item": "Never-Melt Ice / Expert Belt / Life Orb",
+      "ability": "Quark Drive",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/7/"
+    },
+    {
+      "id": "171-1",
+      "sourceId": 171,
+      "pokemon": "Iron Crown",
+      "setName": "Crowning Achievement",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Tachyon Cutter"
+        ],
+        [
+          "Secret Sword"
+        ],
+        [
+          "Psychic",
+          "Psyshock",
+          "Psychic Noise"
+        ],
+        [
+          "Vacuum Wave",
+          "Volt Switch"
+        ]
+      ],
+      "item": "Assault Vest",
+      "ability": "Sharpness",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/171/"
+    },
+    {
+      "id": "1-1",
+      "sourceId": 1,
+      "pokemon": "Iron Hands",
+      "setName": "Assault Vest",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Close Combat"
+        ],
+        [
+          "Plasma Fists"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "Ice Punch",
+          "Drain Punch"
+        ]
+      ],
+      "item": "Assault Vest",
+      "ability": "Quark Drive",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/1/"
+    },
+    {
+      "id": "158-1",
+      "sourceId": 158,
+      "pokemon": "Iron Moth",
+      "setName": "Venomous Pyromoth",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Fire Blast"
+        ],
+        [
+          "Energy Ball",
+          "Discharge"
+        ],
+        [
+          "Dazzling Gleam"
+        ],
+        [
+          "Sludge Wave"
+        ]
+      ],
+      "item": "Choice Scarf / Choice Specs",
+      "ability": "Quark Drive",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/158/"
+    },
+    {
+      "id": "95-1",
+      "sourceId": 95,
+      "pokemon": "Jellicent-Male",
+      "setName": "Defensive Roadblock",
+      "author": "MrHoward",
+      "moves": [
+        [
+          "Hex"
+        ],
+        [
+          "Will-O-Wisp"
+        ],
+        [
+          "Scald"
+        ],
+        [
+          "Recover"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Water Absorb",
+      "nature": "Bold",
+      "evs": "252 HP / 252 Def / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/95/"
+    },
+    {
+      "id": "83-1",
+      "sourceId": 83,
+      "pokemon": "Jynx",
+      "setName": "A Kiss of Perfection (Misty)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Psyshock"
+        ],
+        [
+          "Draining Kiss"
+        ],
+        [
+          "Lovely Kiss"
+        ],
+        [
+          "Fake Tears"
+        ]
+      ],
+      "item": "Wide Lens",
+      "ability": "Dry Skin",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/83/"
+    },
+    {
+      "id": "18-1",
+      "sourceId": 18,
+      "pokemon": "Kangaskhan-Mega",
+      "setName": "Genghis Mom",
+      "author": "Lipe",
+      "moves": [
+        [
+          "Body Slam"
+        ],
+        [
+          "Drain Punch",
+          "Earthquake"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Power-Up Punch"
+        ]
+      ],
+      "item": "Kangaskhanite",
+      "ability": "Parental Bond",
+      "nature": "Adamant",
+      "evs": "252 Atk / 252 Def / 4 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/18/"
+    },
+    {
+      "id": "166-1",
+      "sourceId": 166,
+      "pokemon": "Kecleon",
+      "setName": "The Strongest Shopkeeper",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Drain Punch"
+        ],
+        [
+          "Shadow Sneak",
+          "Sucker Punch"
+        ],
+        [
+          "Knock Off"
+        ],
+        [
+          "Fire Punch",
+          "Rock Slide",
+          "Cut",
+          "Recover"
+        ]
+      ],
+      "item": "Assault Vest / Leftovers",
+      "ability": "Protean",
+      "nature": "Careful",
+      "evs": "252 HP / 252 Atk / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/166/"
+    },
+    {
+      "id": "102-1",
+      "sourceId": 102,
+      "pokemon": "Kingambit",
+      "setName": "Checkmate",
+      "author": "HadesRFX",
+      "moves": [
+        [
+          "Knock Off"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Iron Head"
+        ],
+        [
+          "Swords Dance"
+        ]
+      ],
+      "item": "Black Glasses / Chople Berry / Leftovers / Life Orb",
+      "ability": "Supreme Overlord",
+      "nature": "Adamant",
+      "evs": "252 HP / 252 Atk / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/102/"
+    },
+    {
+      "id": "14-1",
+      "sourceId": 14,
+      "pokemon": "Kleavor",
+      "setName": "Hardcore Hazard",
+      "author": "JudasThundersteel",
+      "moves": [
+        [
+          "Rock Blast"
+        ],
+        [
+          "Accelerock",
+          "Pounce"
+        ],
+        [
+          "Defog",
+          "Bulldoze",
+          "Pounce"
+        ],
+        [
+          "Stone Axe"
+        ]
+      ],
+      "item": "Hard Stone / Life Orb / Focus Sash / White Herb",
+      "ability": "Technician",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/14/"
+    },
+    {
+      "id": "44-1",
+      "sourceId": 44,
+      "pokemon": "Klinklang",
+      "setName": "King Klang",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Gear Grind"
+        ],
+        [
+          "Shift Gear"
+        ],
+        [
+          "Volt Tackle"
+        ],
+        [
+          "Superpower"
+        ]
+      ],
+      "item": "Mental Herb",
+      "ability": "Steely Spirit",
+      "nature": "Adamant",
+      "evs": "100 HP / 252 Atk / 156 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/44/"
+    },
+    {
+      "id": "97-1",
+      "sourceId": 97,
+      "pokemon": "Kommo-o",
+      "setName": "Scaling to the Top",
+      "author": "HadesRFX",
+      "moves": [
+        [
+          "Drain Punch",
+          "Shadow Claw",
+          "Dual Chop",
+          "Low Kick",
+          "Earthquake"
+        ],
+        [
+          "Drain Punch",
+          "Shadow Claw",
+          "Dual Chop",
+          "Low Kick",
+          "Earthquake"
+        ],
+        [
+          "Belly Drum"
+        ],
+        [
+          "Autotomize"
+        ]
+      ],
+      "item": "Mental Herb",
+      "ability": "Soundproof",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "Normal / Easy only",
+      "url": "https://movesets.radicalred.net/97/"
+    },
+    {
+      "id": "76-1",
+      "sourceId": 76,
+      "pokemon": "Kricketune",
+      "setName": "When the Bird Gets Bugged (Falkner)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Rock Tomb"
+        ],
+        [
+          "Bug Bite"
+        ],
+        [
+          "Struggle Bug"
+        ],
+        [
+          "Mega Drain"
+        ]
+      ],
+      "item": "Hard Stone",
+      "ability": "Technician",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/76/"
+    },
+    {
+      "id": "76-2",
+      "sourceId": 76,
+      "pokemon": "Kricketune",
+      "setName": "Roach Rock Buster (Brock)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Rock Tomb"
+        ],
+        [
+          "Bug Bite"
+        ],
+        [
+          "Struggle Bug"
+        ],
+        [
+          "Mega Drain"
+        ]
+      ],
+      "item": "Silver Powder",
+      "ability": "Technician",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/76/"
+    },
+    {
+      "id": "63-1",
+      "sourceId": 63,
+      "pokemon": "Leavanny",
+      "setName": "Leadvanny",
+      "author": "Lipe",
+      "moves": [
+        [
+          "Pounce"
+        ],
+        [
+          "Shadow Claw",
+          "Leaf Blade"
+        ],
+        [
+          "Sacred Sword"
+        ],
+        [
+          "Sticky Web"
+        ]
+      ],
+      "item": "Focus Sash / Mental Herb / Sitrus Berry",
+      "ability": "Sharpness",
+      "nature": "Jolly",
+      "evs": "4 HP / 252 Atk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/63/"
+    },
+    {
+      "id": "180-1",
+      "sourceId": 180,
+      "pokemon": "Ledian",
+      "setName": "Great Piano Sound (Clair)",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Close Combat"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Power-Up Punch"
+        ],
+        [
+          "Victory Dance"
+        ]
+      ],
+      "item": "Mental Herb",
+      "ability": "Iron Fist",
+      "nature": "Adamant",
+      "evs": "252 Atk / 4 Def / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/180/"
+    },
+    {
+      "id": "90-1",
+      "sourceId": 90,
+      "pokemon": "Lickilicky",
+      "setName": "Mr. Boombastlick",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Explosion"
+        ],
+        [
+          "Power Whip",
+          "Surf"
+        ],
+        [
+          "Hammer Arm",
+          "Earthquake",
+          "Knock Off"
+        ],
+        [
+          "Gyro Ball",
+          "Return",
+          "Screech"
+        ]
+      ],
+      "item": "Normal Gem / Sitrus Berry / Life Orb",
+      "ability": "Cloud Nine",
+      "nature": "Brave",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/90/"
+    },
+    {
+      "id": "92-1",
+      "sourceId": 92,
+      "pokemon": "Liepard",
+      "setName": "Cat Got Your Tongue",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Encore"
+        ],
+        [
+          "Night Slash",
+          "Foul Play",
+          "Knock Off"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Sucker Punch",
+          "Toxic",
+          "Fake Out",
+          "Copycat"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Prankster",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/92/"
+    },
+    {
+      "id": "92-2",
+      "sourceId": 92,
+      "pokemon": "Liepard",
+      "setName": "(Dumass Kid Sweeper)",
+      "author": "GonnaGiveYouUp",
+      "moves": [
+        [
+          "Night Slash"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Copycat"
+        ],
+        [
+          "Encore"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Prankster",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/92/"
+    },
+    {
+      "id": "45-1",
+      "sourceId": 45,
+      "pokemon": "Lilligant-Hisui",
+      "setName": "Gambler",
+      "author": "Silva",
+      "moves": [
+        [
+          "Leaf Blade"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Ice Spinner",
+          "Knock Off"
+        ],
+        [
+          "Victory Dance"
+        ]
+      ],
+      "item": "Wide Lens",
+      "ability": "Hustle",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/45/"
+    },
+    {
+      "id": "45-2",
+      "sourceId": 45,
+      "pokemon": "Lilligant-Hisui",
+      "setName": "Lady of the Sun Dance",
+      "author": "Blue",
+      "moves": [
+        [
+          "Leaf Blade"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Stone Edge"
+        ],
+        [
+          "Victory Dance"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Chlorophyll",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/45/"
+    },
+    {
+      "id": "71-1",
+      "sourceId": 71,
+      "pokemon": "Lopunny-Mega",
+      "setName": "Lopunny Mega",
+      "author": "zoeytastic",
+      "moves": [
+        [
+          "Return"
+        ],
+        [
+          "High Jump Kick"
+        ],
+        [
+          "Fake Out"
+        ],
+        [
+          "Triple Axel",
+          "U-Turn",
+          "Play Rough"
+        ]
+      ],
+      "item": "Lopunnite",
+      "ability": "Scrappy",
+      "nature": "Adamant / Jolly",
+      "evs": "252 Atk / 252 Spe / 4 Def",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/71/"
+    },
+    {
+      "id": "77-1",
+      "sourceId": 77,
+      "pokemon": "Lucario-Mega",
+      "setName": "Metal Pipe",
+      "author": "Toastyy",
+      "moves": [
+        [
+          "Close Combat"
+        ],
+        [
+          "Drain Punch",
+          "Bullet Punch"
+        ],
+        [
+          "Meteor Mash"
+        ],
+        [
+          "Swords Dance",
+          "Aura Sphere"
+        ]
+      ],
+      "item": "Lucarionite",
+      "ability": "Adaptability",
+      "nature": "Jolly",
+      "evs": "252 Atk / 252 Spe / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/77/"
+    },
+    {
+      "id": "77-2",
+      "sourceId": 77,
+      "pokemon": "Lucario-Mega",
+      "setName": "Priority Is A Lie",
+      "author": "Kun",
+      "moves": [
+        [
+          "Endure"
+        ],
+        [
+          "Reversal"
+        ],
+        [
+          "Stone Edge"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Lucarionite",
+      "ability": "Adaptability",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/77/"
+    },
+    {
+      "id": "84-1",
+      "sourceId": 84,
+      "pokemon": "Lunala",
+      "setName": "Goddess of the Moon",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Moongeist Beam"
+        ],
+        [
+          "Psychic",
+          "Psyshock"
+        ],
+        [
+          "Roost"
+        ],
+        [
+          "Moonblast",
+          "Heat Wave",
+          "Thunderbolt",
+          "Ice Beam"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Shadow Shield",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/84/"
+    },
+    {
+      "id": "79-1",
+      "sourceId": 79,
+      "pokemon": "Luxio",
+      "setName": "Kovu (Falkner)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Spark"
+        ],
+        [
+          "Bite"
+        ],
+        [],
+        []
+      ],
+      "item": "Oran Berry",
+      "ability": "Intimidate",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/79/"
+    },
+    {
+      "id": "16-1",
+      "sourceId": 16,
+      "pokemon": "Lycanroc-Midnight",
+      "setName": "Hazards",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Stone Axe"
+        ],
+        [
+          "Precipice Blades"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Roar",
+          "Play Rough",
+          "Iron Tail"
+        ]
+      ],
+      "item": "Focus Sash / Choice Scarf",
+      "ability": "No Guard",
+      "nature": "Jolly / Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/16/"
+    },
+    {
+      "id": "127-1",
+      "sourceId": 127,
+      "pokemon": "Machamp-Mega",
+      "setName": "Icebreaker (Pryce)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Drain Punch"
+        ],
+        [
+          "Mach Punch"
+        ],
+        [
+          "Heavy Slam"
+        ],
+        [
+          "Knock Off"
+        ]
+      ],
+      "item": "Machampite",
+      "ability": "ORAORAORAORA",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/127/"
+    },
+    {
+      "id": "127-2",
+      "sourceId": 127,
+      "pokemon": "Machamp-Mega",
+      "setName": "Metal Masher (Jasmine)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Drain Punch"
+        ],
+        [
+          "Mach Punch"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Poison Jab"
+        ]
+      ],
+      "item": "Machampite",
+      "ability": "ORAORAORAORA",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/127/"
+    },
+    {
+      "id": "127-3",
+      "sourceId": 127,
+      "pokemon": "Machamp-Mega",
+      "setName": "Fighter (Clair)",
+      "author": "Nox",
+      "moves": [
+        [
+          "Ice Punch"
+        ],
+        [
+          "Drain Punch"
+        ],
+        [
+          "Mach Punch"
+        ],
+        [
+          "Bulk Up"
+        ]
+      ],
+      "item": "Machampite",
+      "ability": "ORAORAORAORA",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/127/"
+    },
+    {
+      "id": "127-4",
+      "sourceId": 127,
+      "pokemon": "Machamp-Mega",
+      "setName": "Bushwhacker (Erika Rematch)",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Drain Punch"
+        ],
+        [
+          "Mach Punch"
+        ],
+        [
+          "Fire Punch"
+        ],
+        [
+          "Ice Punch"
+        ]
+      ],
+      "item": "Machampite",
+      "ability": "ORAORAORAORA",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/127/"
+    },
+    {
+      "id": "65-1",
+      "sourceId": 65,
+      "pokemon": "Magcargo",
+      "setName": "Fire Snail",
+      "author": "chillllll_",
+      "moves": [
+        [
+          "Ancient Power"
+        ],
+        [
+          "Body Press"
+        ],
+        [
+          "Will-O-Wisp",
+          "Yawn",
+          "Recover"
+        ],
+        [
+          "Flamethrower",
+          "Iron Defense",
+          "Acid Armor",
+          "No Retreat"
+        ]
+      ],
+      "item": "Leftovers / Shuca Berry / Passho Berry",
+      "ability": "Simple",
+      "nature": "Bold / Calm",
+      "evs": "252 HP / 252 Def / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/65/"
+    },
+    {
+      "id": "185-1",
+      "sourceId": 185,
+      "pokemon": "Mamoswine",
+      "setName": "Glacial Rampager",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Ice Shard"
+        ],
+        [
+          "Stone Edge",
+          "Knock Off"
+        ],
+        [
+          "Icicle Crash"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Never-Melt Ice / Life Orb / Chople Berry",
+      "ability": "Thick Fat",
+      "nature": "Jolly / Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/185/"
+    },
+    {
+      "id": "188-1",
+      "sourceId": 188,
+      "pokemon": "Medicham-Mega",
+      "setName": "MT Enjoyer",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Close Combat",
+          "High Jump Kick"
+        ],
+        [
+          "Zen Headbutt",
+          "Fake Out"
+        ],
+        [
+          "Ice Punch",
+          "Thunder Punch"
+        ],
+        [
+          "Bullet Punch"
+        ]
+      ],
+      "item": "Medichamite",
+      "ability": "Pure Power",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 Def / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/188/"
+    },
+    {
+      "id": "60-1",
+      "sourceId": 60,
+      "pokemon": "Meganium",
+      "setName": "Gaia",
+      "author": "Silva",
+      "moves": [
+        [
+          "Giga Drain",
+          "Draining Kiss"
+        ],
+        [
+          "Earthquake",
+          "Toxic",
+          "Synthesis"
+        ],
+        [
+          "Light Screen"
+        ],
+        [
+          "Reflect"
+        ]
+      ],
+      "item": "Light Clay",
+      "ability": "Triage",
+      "nature": "Sassy",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/60/"
+    },
+    {
+      "id": "86-1",
+      "sourceId": 86,
+      "pokemon": "Melmetal",
+      "setName": "Iron Obliterator",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Double Iron Bash"
+        ],
+        [
+          "Thunder Punch"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Assault Vest / Choice Band",
+      "ability": "Iron Fist",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/86/"
+    },
+    {
+      "id": "75-1",
+      "sourceId": 75,
+      "pokemon": "Meloetta-Pirouette",
+      "setName": "A Dangerous Dance",
+      "author": "Plaininsane",
+      "moves": [
+        [
+          "Return"
+        ],
+        [
+          "Close Combat",
+          "Drain Punch"
+        ],
+        [
+          "Rock Slide",
+          "Zen Headbutt"
+        ],
+        [
+          "Knock Off",
+          "Ice Punch",
+          "U-Turn",
+          "Power-Up Punch"
+        ]
+      ],
+      "item": "Choice Band / Choice Scarf / Expert Belt / Life Orb / Assault Vest",
+      "ability": "Serene Grace",
+      "nature": "Jolly / Adamant",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/75/"
+    },
+    {
+      "id": "75-2",
+      "sourceId": 75,
+      "pokemon": "Meloetta-Pirouette",
+      "setName": "A Round of Applause",
+      "author": "Plaininsane",
+      "moves": [
+        [
+          "Body Slam"
+        ],
+        [
+          "Rock Slide",
+          "Zen Headbutt",
+          "Drain Punch"
+        ],
+        [
+          "Bulk Up"
+        ],
+        [
+          "Knock Off",
+          "Substitute",
+          "U-Turn",
+          "Protect"
+        ]
+      ],
+      "item": "Mental Herb / Leftovers",
+      "ability": "Serene Grace",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/75/"
+    },
+    {
+      "id": "67-1",
+      "sourceId": 67,
+      "pokemon": "Meowscarada",
+      "setName": "Classy Cat",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Flower Trick"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Play Rough"
+        ],
+        [
+          "Triple Axel"
+        ]
+      ],
+      "item": "Life Orb / Sitrus Berry / Assault Vest / Choice Scarf",
+      "ability": "Protean",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/67/"
+    },
+    {
+      "id": "80-1",
+      "sourceId": 80,
+      "pokemon": "Mightyena",
+      "setName": "Pebble Pooch (Brock)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Bite"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [],
+        []
+      ],
+      "item": "Black Glasses",
+      "ability": "Strong Jaw",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/80/"
+    },
+    {
+      "id": "136-1",
+      "sourceId": 136,
+      "pokemon": "Milotic-Sevii",
+      "setName": "Graceful Sand Serpent",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Earth Power",
+          "Scorching Sands"
+        ],
+        [
+          "Moonblast"
+        ],
+        [
+          "Mirror Coat"
+        ],
+        [
+          "Shore Up",
+          "Scald"
+        ]
+      ],
+      "item": "Leftovers / Life Orb",
+      "ability": "Serene Grace",
+      "nature": "Bold / Calm / Modest / Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/136/"
+    },
+    {
+      "id": "193-1",
+      "sourceId": 193,
+      "pokemon": "Miltank",
+      "setName": "Childhood Nightmare",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Return",
+          "Stomp"
+        ],
+        [
+          "Milk Drink"
+        ],
+        [
+          "Thunder Wave"
+        ],
+        [
+          "Ice Punch",
+          "Iron Head",
+          "Hammer Arm"
+        ]
+      ],
+      "item": "Sitrus Berry / Life Orb / Focus Sash",
+      "ability": "Thick Fat / Scrappy",
+      "nature": "Jolly / Careful",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/193/"
+    },
+    {
+      "id": "148-1",
+      "sourceId": 148,
+      "pokemon": "Mismagius",
+      "setName": "Black Mage",
+      "author": "Blue",
+      "moves": [
+        [
+          "Shadow Ball"
+        ],
+        [
+          "Moonblast"
+        ],
+        [
+          "Icy Wind"
+        ],
+        [
+          "Mystical Fire"
+        ]
+      ],
+      "item": "Life Orb",
+      "ability": "Levitate",
+      "nature": "Timid",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/148/"
+    },
+    {
+      "id": "143-1",
+      "sourceId": 143,
+      "pokemon": "Mr. Mime-Galar",
+      "setName": "MIME TIME (Lt. Surge)",
+      "author": "GonnaGiveYouUp",
+      "moves": [
+        [
+          "Psychic"
+        ],
+        [
+          "Encore"
+        ],
+        [
+          "Copycat"
+        ],
+        [
+          "Role Play"
+        ]
+      ],
+      "item": "None",
+      "ability": "Screen Cleaner / Vital Spirit / Ice Body",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/143/"
+    },
+    {
+      "id": "17-1",
+      "sourceId": 17,
+      "pokemon": "Naganadel",
+      "setName": "Alien Invader",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Sludge Bomb"
+        ],
+        [
+          "Draco Meteor"
+        ],
+        [
+          "Air Slash"
+        ],
+        [
+          "Flamethrower",
+          "Thunderbolt"
+        ]
+      ],
+      "item": "Life Orb / Focus Sash",
+      "ability": "Unnerve",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/17/"
+    },
+    {
+      "id": "108-1",
+      "sourceId": 108,
+      "pokemon": "Necrozma",
+      "setName": "Shoop Da Whoop",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Photon Geyser"
+        ],
+        [
+          "Heat Wave",
+          "Earth Power"
+        ],
+        [
+          "Dark Pulse",
+          "Moonlight"
+        ],
+        [
+          "Prismatic Laser"
+        ]
+      ],
+      "item": "Twisted Spoon / Life Orb / Sitrus Berry",
+      "ability": "Prism Armor",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/108/"
+    },
+    {
+      "id": "120-1",
+      "sourceId": 120,
+      "pokemon": "Nidoking",
+      "setName": "Long Live The King (Game Corner Giovanni )",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Earth Power"
+        ],
+        [
+          "Ice Beam"
+        ],
+        [
+          "Flamethrower"
+        ],
+        [
+          "Thunderbolt"
+        ]
+      ],
+      "item": "Wise Glasses / Expert Belt",
+      "ability": "Sheer Force",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/120/"
+    },
+    {
+      "id": "109-1",
+      "sourceId": 109,
+      "pokemon": "Ninetales-Alola",
+      "setName": "Melting Menace (Blaine)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Freeze-Dry"
+        ],
+        [
+          "Blizzard"
+        ],
+        [
+          "Icy Wind"
+        ],
+        [
+          "Frost Breath"
+        ]
+      ],
+      "item": "Never-Melt Ice",
+      "ability": "Serene Grace",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/109/"
+    },
+    {
+      "id": "130-1",
+      "sourceId": 130,
+      "pokemon": "Numel",
+      "setName": "Camel RNGesus",
+      "author": "TearingShadows",
+      "moves": [
+        [
+          "Ancient Power"
+        ],
+        [
+          "Magnitude"
+        ],
+        [
+          "Flame Burst",
+          "Lava Plume"
+        ],
+        [
+          "Earth Power"
+        ]
+      ],
+      "item": "Oran Berry / Passho Berry / Sitrus Berry",
+      "ability": "Simple",
+      "nature": "Modest / Naughty",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/130/"
+    },
+    {
+      "id": "117-1",
+      "sourceId": 117,
+      "pokemon": "Orthworm",
+      "setName": "Worm-Walling Worm (Brock Rematch)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Iron Head"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "Dragon Tail"
+        ],
+        [
+          "Rest",
+          "Tackle"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Earth Eater",
+      "nature": "Impish",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/117/"
+    },
+    {
+      "id": "172-1",
+      "sourceId": 172,
+      "pokemon": "Palafin",
+      "setName": "Dolphin of Tomorrow",
+      "author": "Blue",
+      "moves": [
+        [
+          "Jet Punch"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Flip Turn"
+        ]
+      ],
+      "item": "Choice Band",
+      "ability": "Zero to Hero",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/172/"
+    },
+    {
+      "id": "87-1",
+      "sourceId": 87,
+      "pokemon": "Pawmot",
+      "setName": "Shock Showdown (Lt. Surge)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Arm Thrust"
+        ],
+        [
+          "Quick Attack"
+        ],
+        [
+          "Dig"
+        ],
+        [
+          "Thunder Punch"
+        ]
+      ],
+      "item": "Soft Sand",
+      "ability": "Volt Absorb",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/87/"
+    },
+    {
+      "id": "154-1",
+      "sourceId": 154,
+      "pokemon": "Phione",
+      "setName": "Puddle Pal",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Hydro Pump",
+          "Scald"
+        ],
+        [
+          "Ice Beam",
+          "Moonblast"
+        ],
+        [
+          "Grass Knot"
+        ],
+        [
+          "Flip Turn",
+          "Knock Off",
+          "Icy Wind"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Hydration",
+      "nature": "Modest",
+      "evs": "252 HP / 252 SpA / 4 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/154/"
+    },
+    {
+      "id": "100-1",
+      "sourceId": 100,
+      "pokemon": "Pidgeot-Mega",
+      "setName": "Mega Pidgeot",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Hurricane"
+        ],
+        [
+          "Focus Blast"
+        ],
+        [
+          "Heat Wave",
+          "U-Turn"
+        ],
+        [
+          "Heat Wave",
+          "U-Turn"
+        ]
+      ],
+      "item": "Pidgeotite",
+      "ability": "No Guard",
+      "nature": "Timid",
+      "evs": "4 Def / 252 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/100/"
+    },
+    {
+      "id": "4-1",
+      "sourceId": 4,
+      "pokemon": "Poliwrath",
+      "setName": "Assault Vest",
+      "author": "plasto",
+      "moves": [
+        [
+          "Surging Strikes"
+        ],
+        [
+          "Drain Punch"
+        ],
+        [
+          "Jet Punch"
+        ],
+        [
+          "Ice Punch",
+          "Flip Turn",
+          "Close Combat"
+        ]
+      ],
+      "item": "Assault Vest",
+      "ability": "Water Absorb / Swift Swim",
+      "nature": "Adamant",
+      "evs": "252 HP / 252 Atk / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/4/"
+    },
+    {
+      "id": "170-1",
+      "sourceId": 170,
+      "pokemon": "Porygon-Z",
+      "setName": "Upgraded",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Tri Attack"
+        ],
+        [
+          "Dark Pulse"
+        ],
+        [
+          "Psychic",
+          "Ice Beam",
+          "Thunderbolt"
+        ],
+        [
+          "Hyper Beam",
+          "Nasty Plot"
+        ]
+      ],
+      "item": "Upgrade",
+      "ability": "Download",
+      "nature": "Timid",
+      "evs": "4 Def / 252 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/170/"
+    },
+    {
+      "id": "74-1",
+      "sourceId": 74,
+      "pokemon": "Primarina",
+      "setName": "Encore God",
+      "author": "JudasThundersteel",
+      "moves": [
+        [
+          "Hyper Voice"
+        ],
+        [
+          "Moonblast"
+        ],
+        [
+          "Encore"
+        ],
+        [
+          "Icy Wind",
+          "Draining Kiss",
+          "Energy Ball",
+          "Ice Beam"
+        ]
+      ],
+      "item": "Leftovers / Wacan Berry",
+      "ability": "Liquid Voice",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/74/"
+    },
+    {
+      "id": "74-2",
+      "sourceId": 74,
+      "pokemon": "Primarina",
+      "setName": "Cool, Calm, Collected",
+      "author": "Morbick",
+      "moves": [
+        [
+          "Calm Mind"
+        ],
+        [
+          "Hyper Voice",
+          "Sparkling Aria"
+        ],
+        [
+          "Draining Kiss"
+        ],
+        [
+          "Protect"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Liquid Voice",
+      "nature": "Modest",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/74/"
+    },
+    {
+      "id": "103-1",
+      "sourceId": 103,
+      "pokemon": "Pyroar-Male",
+      "setName": "Solar Flare",
+      "author": "HadesRFX",
+      "moves": [
+        [
+          "Torch Song"
+        ],
+        [
+          "Hyper Voice"
+        ],
+        [
+          "Hyper Beam",
+          "Flame Charge"
+        ],
+        [
+          "Overheat",
+          "Mystical Fire",
+          "Fire Blast"
+        ]
+      ],
+      "item": "Choice Scarf / Charcoal",
+      "ability": "Adaptability",
+      "nature": "Timid / Modest",
+      "evs": "252 SpA / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/103/"
+    },
+    {
+      "id": "192-1",
+      "sourceId": 192,
+      "pokemon": "Raging Bolt",
+      "setName": "Storm from a Different Time",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Thunderclap"
+        ],
+        [
+          "Draco Meteor"
+        ],
+        [
+          "Thunderbolt",
+          "Thunder"
+        ],
+        [
+          "Volt Switch",
+          "Weather Ball"
+        ]
+      ],
+      "item": "Assault Vest / Choice Scarf / Life Orb",
+      "ability": "Assault Vest / Choice Scarf / Life Orb",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/192/"
+    },
+    {
+      "id": "124-1",
+      "sourceId": 124,
+      "pokemon": "Rampardos",
+      "setName": "Numbskull",
+      "author": "Mike",
+      "moves": [
+        [
+          "Stone Edge"
+        ],
+        [
+          "Endeavor"
+        ],
+        [
+          "Accelerock"
+        ],
+        [
+          "Earthquake"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Mold Breaker",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/124/"
+    },
+    {
+      "id": "88-1",
+      "sourceId": 88,
+      "pokemon": "Rapidash-Galar",
+      "setName": "Inferno Pixie Clash (Lt. Surge)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Fire Lash"
+        ],
+        [
+          "Covet"
+        ],
+        [
+          "Will-O-Wisp"
+        ],
+        []
+      ],
+      "item": "Charcoal",
+      "ability": "Immunity",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/88/"
+    },
+    {
+      "id": "88-2",
+      "sourceId": 88,
+      "pokemon": "Rapidash-Galar",
+      "setName": "Horse (Erika Rematch)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Fire Lash"
+        ],
+        [
+          "Play Rough"
+        ],
+        [
+          "Flare Blitz"
+        ],
+        [
+          "Morning Sun",
+          "Stomp"
+        ]
+      ],
+      "item": "Expert Belt",
+      "ability": "Flash Fire",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/88/"
+    },
+    {
+      "id": "133-1",
+      "sourceId": 133,
+      "pokemon": "Regice",
+      "setName": "Reginald 2",
+      "author": "Mike",
+      "moves": [
+        [
+          "Freeze-Dry"
+        ],
+        [
+          "Flash Cannon"
+        ],
+        [
+          "Freezy Frost"
+        ],
+        [
+          "Thunderbolt",
+          "Focus Blast"
+        ]
+      ],
+      "item": "Assault Vest",
+      "ability": "Filter",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/133/"
+    },
+    {
+      "id": "111-1",
+      "sourceId": 111,
+      "pokemon": "Regieleki",
+      "setName": "Cerulean Cave Savior (Cerulean Cave Archer & Ariana)",
+      "author": "MrHoward",
+      "moves": [
+        [
+          "Thunderbolt"
+        ],
+        [
+          "Volt Switch"
+        ],
+        [
+          "Extreme Speed"
+        ],
+        [
+          "HP Water"
+        ]
+      ],
+      "item": "Magnet",
+      "ability": "Transistor",
+      "nature": "Modest",
+      "evs": "4 HP / 252 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/111/"
+    },
+    {
+      "id": "111-2",
+      "sourceId": 111,
+      "pokemon": "Regieleki",
+      "setName": "Thunderstorm (Route 22 Rival-Squirtle)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Thunder"
+        ],
+        [
+          "Volt Switch"
+        ],
+        [
+          "Explosion"
+        ],
+        [
+          "HP Fighting",
+          "Thunderbolt"
+        ]
+      ],
+      "item": "Expert Belt / Magnet",
+      "ability": "Transistor",
+      "nature": "Lonely / Mild",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/111/"
+    },
+    {
+      "id": "184-1",
+      "sourceId": 184,
+      "pokemon": "Regigigas",
+      "setName": "Awakened Titan",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Return",
+          "Body Slam"
+        ],
+        [
+          "Drain Punch"
+        ],
+        [
+          "Heavy Slam",
+          "Knock Off"
+        ],
+        [
+          "Ice Punch",
+          "Zen Headbutt"
+        ]
+      ],
+      "item": "Assault Vest / Life Orb",
+      "ability": "Comatose",
+      "nature": "Jolly / Careful",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/184/"
+    },
+    {
+      "id": "112-1",
+      "sourceId": 112,
+      "pokemon": "Registeel",
+      "setName": "Reginald",
+      "author": "Mike",
+      "moves": [
+        [
+          "Double Iron Bash"
+        ],
+        [
+          "Body Press"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Thunder Punch"
+        ]
+      ],
+      "item": "Metal Coat",
+      "ability": "Clear Body",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/112/"
+    },
+    {
+      "id": "56-1",
+      "sourceId": 56,
+      "pokemon": "Roserade",
+      "setName": "Rose",
+      "author": "Silva",
+      "moves": [
+        [
+          "Mega Drain"
+        ],
+        [
+          "Sludge Bomb"
+        ],
+        [
+          "Ominous Wind"
+        ],
+        [
+          "Substitute",
+          "Dazzling Gleam",
+          "Toxic Spikes",
+          "Spikes"
+        ]
+      ],
+      "item": "Life Orb",
+      "ability": "Technician",
+      "nature": "Modest",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/56/"
+    },
+    {
+      "id": "53-1",
+      "sourceId": 53,
+      "pokemon": "Runerigus",
+      "setName": "Defensive Rune",
+      "author": "Cyro",
+      "moves": [
+        [
+          "Earthquake"
+        ],
+        [
+          "Pain Split"
+        ],
+        [
+          "Shadow Sneak",
+          "Shadow Claw",
+          "Night Shade"
+        ],
+        [
+          "Will-O-Wisp"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Shadow Shield",
+      "nature": "Impish",
+      "evs": "252 HP / 4 Atk / 252 Def",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/53/"
+    },
+    {
+      "id": "46-1",
+      "sourceId": 46,
+      "pokemon": "Salamence",
+      "setName": "Bulkmence",
+      "author": "",
+      "moves": [
+        [
+          "Dual Wingbeat"
+        ],
+        [
+          "Roost"
+        ],
+        [
+          "Flamethrower"
+        ],
+        [
+          "Toxic"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Intimidate",
+      "nature": "Impish",
+      "evs": "252 HP / 160 Def / 96 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/46/"
+    },
+    {
+      "id": "3-1",
+      "sourceId": 3,
+      "pokemon": "Samurott-Hisui",
+      "setName": "Sammy Won A Grammy",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Ceaseless Edge"
+        ],
+        [
+          "Razor Shell"
+        ],
+        [
+          "Sacred Sword"
+        ],
+        [
+          "Sucker Punch",
+          "Aqua Jet",
+          "Dragon Tail"
+        ]
+      ],
+      "item": "Focus Sash / Choice Scarf",
+      "ability": "Sharpness",
+      "nature": "Jolly / Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/3/"
+    },
+    {
+      "id": "114-1",
+      "sourceId": 114,
+      "pokemon": "Sandy Shocks",
+      "setName": "Pivot",
+      "author": "mihneaalbani",
+      "moves": [
+        [
+          "Volt Switch"
+        ],
+        [
+          "Thunderbolt"
+        ],
+        [
+          "Electroweb",
+          "Mirror Coat"
+        ],
+        [
+          "Earth Power"
+        ]
+      ],
+      "item": "Expert Belt / Heavy-Duty Boots / Choice Scarf",
+      "ability": "Water Compaction",
+      "nature": "Modest / Timid",
+      "evs": "252 SpAtk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/114/"
+    },
+    {
+      "id": "114-2",
+      "sourceId": 114,
+      "pokemon": "Sandy Shocks",
+      "setName": "Sandy (Cerulean Cave Ariana)",
+      "author": "Not a Duck",
+      "moves": [
+        [
+          "Parabolic Charge"
+        ],
+        [
+          "Mirror Coat"
+        ],
+        [
+          "Earth Power"
+        ],
+        [
+          "HP Fire",
+          "HP Flying",
+          "Thunder Wave"
+        ]
+      ],
+      "item": "Magnet / Expert Belt",
+      "ability": "Water Compaction",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/114/"
+    },
+    {
+      "id": "26-1",
+      "sourceId": 26,
+      "pokemon": "Sceptile-Mega",
+      "setName": "Mega Sceptile",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Bullet Seed"
+        ],
+        [
+          "Dual Chop"
+        ],
+        [
+          "Rock Tomb"
+        ],
+        [
+          "Earthquake",
+          "Bulldoze"
+        ]
+      ],
+      "item": "Sceptilite",
+      "ability": "Technician",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/26/"
+    },
+    {
+      "id": "33-1",
+      "sourceId": 33,
+      "pokemon": "Scizor",
+      "setName": "Red Ranger",
+      "author": "Edras",
+      "moves": [
+        [
+          "Bullet Punch"
+        ],
+        [
+          "Swords Dance"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Knock Off",
+          "Roost"
+        ]
+      ],
+      "item": "Life Orb",
+      "ability": "Technician",
+      "nature": "Adamant",
+      "evs": "252 HP / 252 Atk / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/33/"
+    },
+    {
+      "id": "31-1",
+      "sourceId": 31,
+      "pokemon": "Scizor-Mega",
+      "setName": "Mega Scizor",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Bullet Punch"
+        ],
+        [
+          "Rock Smash",
+          "Close Combat"
+        ],
+        [
+          "Swords Dance",
+          "Curse"
+        ],
+        [
+          "Roost"
+        ]
+      ],
+      "item": "Scizorite",
+      "ability": "Technician",
+      "nature": "Careful",
+      "evs": "248 HP / 28 Def / 232 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/31/"
+    },
+    {
+      "id": "81-1",
+      "sourceId": 81,
+      "pokemon": "Simipour",
+      "setName": "Aqua Mian (Archer Mt. Moon)",
+      "author": "Darkster",
+      "moves": [
+        [
+          "Scald"
+        ],
+        [],
+        [],
+        []
+      ],
+      "item": "Mystic Water",
+      "ability": "Gluttony",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/81/"
+    },
+    {
+      "id": "176-1",
+      "sourceId": 176,
+      "pokemon": "Skeledirge",
+      "setName": "Burn it Down",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Will-O-Wisp"
+        ],
+        [
+          "Hex"
+        ],
+        [
+          "Slack Off"
+        ],
+        [
+          "Torch Song",
+          "Flamethrower"
+        ]
+      ],
+      "item": "Leftovers / Sitrus Berry",
+      "ability": "Unaware",
+      "nature": "Bold",
+      "evs": "252 HP / 252 Def / 4 SpAtk",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/176/"
+    },
+    {
+      "id": "22-1",
+      "sourceId": 22,
+      "pokemon": "Skuntank",
+      "setName": "Sucker Punch",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Poison Jab"
+        ],
+        [
+          "Fire Blast"
+        ],
+        [
+          "Defog"
+        ]
+      ],
+      "item": "Life Orb",
+      "ability": "Aftermath",
+      "nature": "Naughty",
+      "evs": "192 Atk / 64 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/22/"
+    },
+    {
+      "id": "138-1",
+      "sourceId": 138,
+      "pokemon": "Slowbro-Mega",
+      "setName": "Moab Assured Destroyer",
+      "author": "galaxystudios",
+      "moves": [
+        [
+          "Slack Off"
+        ],
+        [
+          "Iron Defense"
+        ],
+        [
+          "Calm Mind",
+          "Amnesia"
+        ],
+        [
+          "Scald",
+          "Ice Beam",
+          "Psychic",
+          "Body Press"
+        ]
+      ],
+      "item": "Slowbronite",
+      "ability": "Shell Armor",
+      "nature": "Bold / Calm",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/138/"
+    },
+    {
+      "id": "140-1",
+      "sourceId": 140,
+      "pokemon": "Slurpuff",
+      "setName": "Speedy Belly",
+      "author": "Mr.Sheep",
+      "moves": [
+        [
+          "Belly Drum"
+        ],
+        [
+          "Play Rough"
+        ],
+        [
+          "Drain Punch"
+        ],
+        [
+          "Thief"
+        ]
+      ],
+      "item": "Sitrus Berry",
+      "ability": "Unburden",
+      "nature": "Jolly / Adamant",
+      "evs": "4 HP / 252 Atk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/140/"
+    },
+    {
+      "id": "115-1",
+      "sourceId": 115,
+      "pokemon": "Sneasler",
+      "setName": "Terrain Heavy Hitter",
+      "author": "mihneaalbani",
+      "moves": [
+        [
+          "Swords Dance"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "Dire Claw"
+        ],
+        [
+          "Knock Off"
+        ]
+      ],
+      "item": "Grassy Seed / White Herb",
+      "ability": "Unburden",
+      "nature": "Adamant / Jolly",
+      "evs": "252 Atk / 4 Def/ 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/115/"
+    },
+    {
+      "id": "106-1",
+      "sourceId": 106,
+      "pokemon": "Snorlax",
+      "setName": "CurseLax",
+      "author": "Pizza D. Elivery",
+      "moves": [
+        [
+          "Body Slam"
+        ],
+        [
+          "Curse"
+        ],
+        [
+          "Rest"
+        ],
+        [
+          "Earthquake",
+          "Heat Crash"
+        ]
+      ],
+      "item": "Chesto Berry",
+      "ability": "Thick Fat",
+      "nature": "Careful",
+      "evs": "16 HP / 248 Def / 244 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/106/"
+    },
+    {
+      "id": "85-1",
+      "sourceId": 85,
+      "pokemon": "Solgaleo",
+      "setName": "Lord of the Sun",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Sunsteel Strike"
+        ],
+        [
+          "Zen Headbutt"
+        ],
+        [
+          "Flare Blitz",
+          "Metal Burst"
+        ],
+        [
+          "Earthquake",
+          "Close Combat",
+          "Thunder Wave"
+        ]
+      ],
+      "item": "Leftovers / Life Orb / Choice Scarf",
+      "ability": "Full Metal Body",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/85/"
+    },
+    {
+      "id": "48-1",
+      "sourceId": 48,
+      "pokemon": "Spidops",
+      "setName": "Hazard Setter",
+      "author": "",
+      "moves": [
+        [
+          "Sticky Web"
+        ],
+        [
+          "Silk Trap"
+        ],
+        [
+          "Spikes"
+        ],
+        [
+          "Memento",
+          "Circle Throw",
+          "Toxic Spikes"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Stakeout",
+      "nature": "Impish",
+      "evs": "252 HP / 252 Def / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/48/"
+    },
+    {
+      "id": "54-1",
+      "sourceId": 54,
+      "pokemon": "Staraptor",
+      "setName": "Birb",
+      "author": "zoeytastic",
+      "moves": [
+        [
+          "Brave Bird"
+        ],
+        [
+          "Double-Edge",
+          "Defog"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "U-Turn"
+        ]
+      ],
+      "item": "Choice Scarf / Heavy-Duty Boots",
+      "ability": "Reckless",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/54/"
+    },
+    {
+      "id": "113-1",
+      "sourceId": 113,
+      "pokemon": "Suicune",
+      "setName": "Rest Talk",
+      "author": "mihneaalbani",
+      "moves": [
+        [
+          "Rest"
+        ],
+        [
+          "Sleep Talk",
+          "Ice Beam"
+        ],
+        [
+          "Calm Mind"
+        ],
+        [
+          "Scald"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Pressure",
+      "nature": "Bold / Calm",
+      "evs": "252 HP / 108 Def / 148 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/113/"
+    },
+    {
+      "id": "101-1",
+      "sourceId": 101,
+      "pokemon": "Swampert-Mega",
+      "setName": "RAIN",
+      "author": "HadesRFX",
+      "moves": [
+        [
+          "Aqua Tail",
+          "Waterfall"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "Flip Turn",
+          "Bulk Up",
+          "Power-Up Punch",
+          "Stealth Rock"
+        ],
+        [
+          "Flip Turn",
+          "Bulk Up",
+          "Power-Up Punch",
+          "Stealth Rock"
+        ]
+      ],
+      "item": "Swampertite",
+      "ability": "Swift Swim",
+      "nature": "Jolly / Adamant",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/101/"
+    },
+    {
+      "id": "101-2",
+      "sourceId": 101,
+      "pokemon": "Swampert-Mega",
+      "setName": "Rain Squad",
+      "author": "galaxystudios",
+      "moves": [
+        [
+          "Liquidation"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Power-Up Punch"
+        ]
+      ],
+      "item": "Swampertite",
+      "ability": "Swift Swim",
+      "nature": "Adamant",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/101/"
+    },
+    {
+      "id": "101-3",
+      "sourceId": 101,
+      "pokemon": "Swampert-Mega",
+      "setName": "Speedy Demon (Koga)",
+      "author": "Dr. Dell",
+      "moves": [
+        [
+          "Earthquake"
+        ],
+        [
+          "Brick Break"
+        ],
+        [
+          "Rock Slide"
+        ],
+        [
+          "Iron Tail"
+        ]
+      ],
+      "item": "Swampertite",
+      "ability": "Swift Swim",
+      "nature": "Adamant",
+      "evs": "4 HP / 252 Atk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/101/"
+    },
+    {
+      "id": "105-1",
+      "sourceId": 105,
+      "pokemon": "Swoobat",
+      "setName": "Batman",
+      "author": "potato",
+      "moves": [
+        [
+          "Stored Power"
+        ],
+        [
+          "Calm Mind"
+        ],
+        [
+          "Taunt",
+          "Protect"
+        ],
+        [
+          "Air Slash",
+          "Signal Beam"
+        ]
+      ],
+      "item": "Leftovers / Life Orb / Wise Glasses",
+      "ability": "Simple",
+      "nature": "Timid",
+      "evs": "252 SpAtk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/105/"
+    },
+    {
+      "id": "157-1",
+      "sourceId": 157,
+      "pokemon": "Talonflame",
+      "setName": "Big Birdy (Chuck)",
+      "author": "Raymond",
+      "moves": [
+        [
+          "Work Up"
+        ],
+        [
+          "Protect"
+        ],
+        [
+          "Roost"
+        ],
+        [
+          "Dual Wingbeat"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Flame Body",
+      "nature": "Jolly",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/157/"
+    },
+    {
+      "id": "162-1",
+      "sourceId": 162,
+      "pokemon": "Terapagos",
+      "setName": "Shining Crystal Shell",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Boomburst"
+        ],
+        [
+          "Earth Power",
+          "Flash Cannon",
+          "Dazzling Gleam"
+        ],
+        [
+          "Calm Mind"
+        ],
+        [
+          "Rapid Spin",
+          "Rock Polish"
+        ]
+      ],
+      "item": "Leftovers / Mental Herb",
+      "ability": "Tera Shell",
+      "nature": "Timid",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/162/"
+    },
+    {
+      "id": "93-1",
+      "sourceId": 93,
+      "pokemon": "Terrakion",
+      "setName": "Stoney Boots",
+      "author": "Awesome E",
+      "moves": [
+        [
+          "Swords Dance",
+          "Stealth Rock"
+        ],
+        [
+          "Stone Edge"
+        ],
+        [
+          "Sacred Sword"
+        ],
+        [
+          "Earthquake",
+          "Bulldoze"
+        ]
+      ],
+      "item": "Leftovers / Focus Sash",
+      "ability": "Blademaster",
+      "nature": "Jolly if Swords Dance --- Adamant if Stealth Rocks",
+      "evs": "4 HP / 252 Atk / 252 Spe if Swords Dance --- 252 HP / 252 Atk / 4 SpDef if Stealth Rocks",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/93/"
+    },
+    {
+      "id": "57-1",
+      "sourceId": 57,
+      "pokemon": "Torterra",
+      "setName": "Shell Smash Sweeper",
+      "author": "Cyro",
+      "moves": [
+        [
+          "Earthquake",
+          "Headlong Rush"
+        ],
+        [
+          "Wood Hammer"
+        ],
+        [
+          "Head Smash"
+        ],
+        [
+          "Shell Smash"
+        ]
+      ],
+      "item": "White Herb",
+      "ability": "Rock Head",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 Def / 252 Spe",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/57/"
+    },
+    {
+      "id": "57-2",
+      "sourceId": 57,
+      "pokemon": "Torterra",
+      "setName": "Turbonator (Lt. Surge Rematch)",
+      "author": "Dr.Dell & Coochyena♪ [Furry Cutter]",
+      "moves": [
+        [
+          "Headlong Rush"
+        ],
+        [
+          "Seed Bomb"
+        ],
+        [
+          "Shell Smash"
+        ],
+        []
+      ],
+      "item": "Soft Sand",
+      "ability": "Self Sufficient",
+      "nature": "Adamant",
+      "evs": "36 HP / 252 Atk / 220 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/57/"
+    },
+    {
+      "id": "70-1",
+      "sourceId": 70,
+      "pokemon": "Toxapex",
+      "setName": "The Pex",
+      "author": "zoeytastic",
+      "moves": [
+        [
+          "Scald"
+        ],
+        [
+          "Recover"
+        ],
+        [
+          "Toxic",
+          "Toxic Spikes"
+        ],
+        [
+          "Knock Off",
+          "Haze",
+          "Baneful Bunker"
+        ]
+      ],
+      "item": "Black Sludge",
+      "ability": "Regenerator",
+      "nature": "Relaxed",
+      "evs": "252 HP / 252 Def / 4 SpDef",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/70/"
+    },
+    {
+      "id": "159-1",
+      "sourceId": 159,
+      "pokemon": "Toxicroak",
+      "setName": "ToxiFrog",
+      "author": "Frazele",
+      "moves": [
+        [
+          "Drain Punch",
+          "Close Combat"
+        ],
+        [
+          "Gunk Shot"
+        ],
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Knock Off",
+          "Earthquake"
+        ]
+      ],
+      "item": "Focus Sash",
+      "ability": "Dry Skin",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/159/"
+    },
+    {
+      "id": "123-1",
+      "sourceId": 123,
+      "pokemon": "Tropius",
+      "setName": "Tropical Cocktail (Blaine)",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Solar Beam"
+        ],
+        [
+          "Draco Barrage"
+        ],
+        [
+          "Weather Ball"
+        ],
+        [
+          "U-Turn",
+          "HP Rock"
+        ]
+      ],
+      "item": "Expert Belt / Life Orb",
+      "ability": "Chlorophyll",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/123/"
+    },
+    {
+      "id": "8-1",
+      "sourceId": 8,
+      "pokemon": "Turtonator",
+      "setName": "The Underrated Turt",
+      "author": "prof.essional",
+      "moves": [
+        [
+          "Body Press"
+        ],
+        [
+          "Will-O-Wisp"
+        ],
+        [
+          "Flamethrower",
+          "Overheat",
+          "Shell Trap"
+        ],
+        [
+          "Rest",
+          "Dragon Pulse"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Valiant Shield",
+      "nature": "Bold / Relaxed",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/8/"
+    },
+    {
+      "id": "47-1",
+      "sourceId": 47,
+      "pokemon": "Typhlosion",
+      "setName": "Tylenol",
+      "author": "Silva",
+      "moves": [
+        [
+          "Flamethrower",
+          "Fire Blast",
+          "Overheat"
+        ],
+        [
+          "Scorching Sands"
+        ],
+        [
+          "Focus Blast"
+        ],
+        [
+          "Hidden Power Grass"
+        ]
+      ],
+      "item": "Choice Specs",
+      "ability": "Flaming Soul",
+      "nature": "Modest",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/47/"
+    },
+    {
+      "id": "177-1",
+      "sourceId": 177,
+      "pokemon": "Tyranitar-Mega",
+      "setName": "Scare Squared",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Stone Edge"
+        ],
+        [
+          "Knock Off",
+          "Crunch"
+        ],
+        [
+          "Earthquake"
+        ],
+        [
+          "Pursuit",
+          "Superpower",
+          "Scorching Sands"
+        ]
+      ],
+      "item": "Tyranitarite",
+      "ability": "Intimidate",
+      "nature": "Impish / Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/177/"
+    },
+    {
+      "id": "153-1",
+      "sourceId": 153,
+      "pokemon": "Unfezant-Male",
+      "setName": "Who Needs Luck (Erika Rematch)",
+      "author": "Jagz",
+      "moves": [
+        [
+          "Drill Peck"
+        ],
+        [
+          "Return"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Quick Attack"
+        ]
+      ],
+      "item": "Scope Lens",
+      "ability": "Super Luck",
+      "nature": "Jolly",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/153/"
+    },
+    {
+      "id": "107-1",
+      "sourceId": 107,
+      "pokemon": "Ursaluna",
+      "setName": "Freddy Fivebear",
+      "author": "GonnaGiveYouUp",
+      "moves": [
+        [
+          "Facade"
+        ],
+        [
+          "High Horsepower",
+          "Headlong Rush"
+        ],
+        [
+          "Ice Punch"
+        ],
+        [
+          "Knock Off",
+          "Seed Bomb",
+          "Close Combat"
+        ]
+      ],
+      "item": "Flame Orb",
+      "ability": "Guts",
+      "nature": "Adamant",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/107/"
+    },
+    {
+      "id": "161-1",
+      "sourceId": 161,
+      "pokemon": "Ursaluna-Bloodmoon",
+      "setName": "Freddy Fazbear 2: Electric Boogaloo",
+      "author": "MT Enjoyer",
+      "moves": [
+        [
+          "Blood Moon"
+        ],
+        [
+          "Earth Power"
+        ],
+        [
+          "Hyper Voice"
+        ],
+        [
+          "Vacuum Wave",
+          "Moonblast"
+        ]
+      ],
+      "item": "Assault Vest / Life Orb / Normal Gem",
+      "ability": "Scrappy",
+      "nature": "Modest / Calm",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/161/"
+    },
+    {
+      "id": "68-1",
+      "sourceId": 68,
+      "pokemon": "Urshifu-Single",
+      "setName": "Kung-Fu Shifu",
+      "author": "Edras",
+      "moves": [
+        [
+          "Wicked Blow"
+        ],
+        [
+          "Close Combat"
+        ],
+        [
+          "U-Turn",
+          "Swords Dance"
+        ],
+        [
+          "Sucker Punch"
+        ]
+      ],
+      "item": "Choice Band / Choice Scarf / Life Orb",
+      "ability": "Unseen Fist",
+      "nature": "Jolly / Adamant",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/68/"
+    },
+    {
+      "id": "11-1",
+      "sourceId": 11,
+      "pokemon": "Veluza",
+      "setName": "It's Filletin' Time",
+      "author": "Coffee Guy",
+      "moves": [
+        [
+          "Psycho Cut"
+        ],
+        [
+          "Night Slash"
+        ],
+        [
+          "Aqua Cutter"
+        ],
+        [
+          "Fillet Away"
+        ]
+      ],
+      "item": "Sitrus Berry / Scope Lens",
+      "ability": "Sharpness",
+      "nature": "Jolly",
+      "evs": "252 Atk / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/11/"
+    },
+    {
+      "id": "51-1",
+      "sourceId": 51,
+      "pokemon": "Venusaur",
+      "setName": "Sun Sweeper",
+      "author": "Cyro",
+      "moves": [
+        [
+          "Solar Beam",
+          "Giga Drain"
+        ],
+        [
+          "Sludge Bomb"
+        ],
+        [
+          "Earth Power",
+          "Weather Ball"
+        ],
+        [
+          "Growth"
+        ]
+      ],
+      "item": "Life Orb / Focus Sash",
+      "ability": "Chlorophyll",
+      "nature": "Timid",
+      "evs": "252 SpA / 4 SpDef / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/51/"
+    },
+    {
+      "id": "119-1",
+      "sourceId": 119,
+      "pokemon": "Vikavolt",
+      "setName": "Buzz Lightyear (Erika)",
+      "author": "Fran",
+      "moves": [
+        [
+          "Bug Buzz"
+        ],
+        [
+          "Volt Switch"
+        ],
+        [
+          "Discharge"
+        ],
+        [
+          "Mud Shot"
+        ]
+      ],
+      "item": "Silver Powder / Sitrus Berry",
+      "ability": "Levitate",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/119/"
+    },
+    {
+      "id": "116-1",
+      "sourceId": 116,
+      "pokemon": "Volcarona",
+      "setName": "Special Sweeper",
+      "author": "Xacht",
+      "moves": [
+        [
+          "Quiver Dance"
+        ],
+        [
+          "Fiery Dance"
+        ],
+        [
+          "Bug Buzz"
+        ],
+        [
+          "Roost"
+        ]
+      ],
+      "item": "Leftovers / Focus Sash",
+      "ability": "Flame Body",
+      "nature": "Timid",
+      "evs": "4 HP / 252 SpAtk / 252 Spe",
+      "mode": "General / check mode",
+      "url": "https://movesets.radicalred.net/116/"
+    },
+    {
+      "id": "104-1",
+      "sourceId": 104,
+      "pokemon": "Walrein",
+      "setName": "Fur Coat Moment",
+      "author": "GonnaGiveYouUp",
+      "moves": [
+        [
+          "Scald"
+        ],
+        [
+          "Body Press",
+          "Ice Beam"
+        ],
+        [
+          "Encore"
+        ],
+        [
+          "Rest"
+        ]
+      ],
+      "item": "Leftovers",
+      "ability": "Fur Coat",
+      "nature": "Bold",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/104/"
+    },
+    {
+      "id": "179-1",
+      "sourceId": 179,
+      "pokemon": "Weavile",
+      "setName": "Blackfrost Shredder",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Ice Shard"
+        ],
+        [
+          "Beat Up"
+        ],
+        [
+          "Counter"
+        ],
+        [
+          "Triple Axel"
+        ]
+      ],
+      "item": "Focus Sash / Life Orb",
+      "ability": "Infiltrator",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/179/"
+    },
+    {
+      "id": "15-1",
+      "sourceId": 15,
+      "pokemon": "Wigglytuff",
+      "setName": "Offensive Wish",
+      "author": "gonnagiveyouup",
+      "moves": [
+        [
+          "Moonblast"
+        ],
+        [
+          "Tri Attack"
+        ],
+        [
+          "Ice Beam",
+          "Thunderbolt",
+          "Shadow Ball",
+          "Flamethrower",
+          "Focus Blast"
+        ],
+        [
+          "Wish"
+        ]
+      ],
+      "item": "Life Orb",
+      "ability": "Sheer Force",
+      "nature": "Modest",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/15/"
+    },
+    {
+      "id": "9-1",
+      "sourceId": 9,
+      "pokemon": "Wobbuffet",
+      "setName": "Wobb Gaming",
+      "author": "gonnagiveyouup",
+      "moves": [
+        [
+          "Counter"
+        ],
+        [
+          "Mirror Coat"
+        ],
+        [
+          "Safeguard"
+        ],
+        [
+          "Encore"
+        ]
+      ],
+      "item": "Sitrus Berry",
+      "ability": "Shadow Tag",
+      "nature": "Calm / Bold",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/9/"
+    },
+    {
+      "id": "173-1",
+      "sourceId": 173,
+      "pokemon": "Yveltal",
+      "setName": "Dark Phoenix of Destruction",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Sucker Punch"
+        ],
+        [
+          "Oblivion Wing"
+        ],
+        [
+          "Heat Wave",
+          "Aura Sphere"
+        ],
+        [
+          "Dark Hole"
+        ]
+      ],
+      "item": "Assault Vest / Life Orb",
+      "ability": "Dark Aura",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/173/"
+    },
+    {
+      "id": "175-1",
+      "sourceId": 175,
+      "pokemon": "Zacian-Crowned",
+      "setName": "Intrepid Sword Queen",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Behemoth Blade (Iron Head)"
+        ],
+        [
+          "Wild Charge"
+        ],
+        [
+          "Play Rough"
+        ],
+        [
+          "Close Combat"
+        ]
+      ],
+      "item": "Rusted Sword",
+      "ability": "Intrepid Sword",
+      "nature": "Jolly",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/175/"
+    },
+    {
+      "id": "190-1",
+      "sourceId": 190,
+      "pokemon": "Zapdos",
+      "setName": "Thunderbird",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Thunder",
+          "Thunderbolt"
+        ],
+        [
+          "Hurricane"
+        ],
+        [
+          "Volt Switch",
+          "U-Turn"
+        ],
+        [
+          "Roost",
+          "Defog",
+          "Heat Wave",
+          "Bolt Beak"
+        ]
+      ],
+      "item": "Expert Belt / Heavy-Duty Boots",
+      "ability": "Static",
+      "nature": "Timid / Naive",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/190/"
+    },
+    {
+      "id": "145-1",
+      "sourceId": 145,
+      "pokemon": "Zapdos-Galar",
+      "setName": "Meep Meep!",
+      "author": "Blue",
+      "moves": [
+        [
+          "Thunderous Kick"
+        ],
+        [
+          "Brave Bird"
+        ],
+        [
+          "U-Turn"
+        ],
+        [
+          "Close Combat"
+        ]
+      ],
+      "item": "Choice Band",
+      "ability": "Defiant",
+      "nature": "Jolly",
+      "evs": "MGM",
+      "mode": "Minimal Grinding",
+      "url": "https://movesets.radicalred.net/145/"
+    },
+    {
+      "id": "122-1",
+      "sourceId": 122,
+      "pokemon": "Zeraora",
+      "setName": "Kung Fu Fighting (Cerulean Cave Archer)",
+      "author": "Elbein",
+      "moves": [
+        [
+          "Close Combat"
+        ],
+        [
+          "Blaze Kick"
+        ],
+        [
+          "HP Ice"
+        ],
+        [
+          "Volt Switch"
+        ]
+      ],
+      "item": "Life Orb",
+      "ability": "Volt Absorb",
+      "nature": "Mild",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/122/"
+    },
+    {
+      "id": "165-1",
+      "sourceId": 165,
+      "pokemon": "Zoroark-Hisui",
+      "setName": "White Specter of Death",
+      "author": "Lord Tenebros",
+      "moves": [
+        [
+          "Hyper Voice"
+        ],
+        [
+          "Shadow Ball",
+          "Bitter Malice"
+        ],
+        [
+          "Counter"
+        ],
+        [
+          "Flamethrower",
+          "Focus Blast",
+          "Thunder Wave"
+        ]
+      ],
+      "item": "Focus Sash / Life Orb",
+      "ability": "Illusion",
+      "nature": "Timid",
+      "evs": "Hardcore",
+      "mode": "Hardcore",
+      "url": "https://movesets.radicalred.net/165/"
+    }
+  ]
+}
