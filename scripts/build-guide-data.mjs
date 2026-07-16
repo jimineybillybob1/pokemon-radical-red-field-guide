@@ -63,8 +63,9 @@ const pokemon = values(source.species).map(entry => {
   const abilityList = (entry.abilities || []).map(slot => {
     if (typeof slot === "string") return { name: slot, description: "" };
     const id = Array.isArray(slot) ? slot[0] : slot;
+    const nameIndex = Array.isArray(slot) ? slot[1] || 0 : 0;
     const ability = abilities.get(id);
-    return ability ? { name: ability.names?.[0] || `Ability ${id}`, description: ability.description || "" } : null;
+    return ability ? { name: ability.names?.[nameIndex] || ability.names?.[0] || `Ability ${id}`, description: ability.description || "" } : null;
   }).filter(Boolean);
   return {
     id: entry.ID,
