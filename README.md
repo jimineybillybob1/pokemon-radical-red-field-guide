@@ -25,6 +25,9 @@ node scripts\build-guide-data.mjs
 
 - https://dex.radicalred.net/
 - https://radicalred.miraheze.org/wiki/Main_Page
+- Normal and shiny Pokémon sprites: https://github.com/PokeAPI/sprites
+
+Shiny sprites are stored locally for offline use. Run `node scripts/fetch-shiny-sprites.mjs` to refresh the sprite manifest and assets; the build script then attaches verified form-specific paths to the guide data. Radical Red-only forms without a trustworthy published shiny sprite remain explicitly unavailable instead of falling back to an incorrect form.
 
 ## Encrypted Save & Sync
 

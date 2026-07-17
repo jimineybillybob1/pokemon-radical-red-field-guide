@@ -9,6 +9,7 @@ const types = byId(source.types);
 const abilities = byId(source.abilities);
 const items = byId(source.items);
 const moves = byId(source.moves);
+const shinyManifest = fs.existsSync('data/shiny-sprites.json') ? JSON.parse(fs.readFileSync('data/shiny-sprites.json', 'utf8')) : { sprites: {} };
 const spriteDir = "assets/pokemon-dex";
 fs.mkdirSync(spriteDir, { recursive: true });
 
@@ -84,6 +85,7 @@ const pokemon = values(source.species).map(entry => {
     },
     evolutions: (entry.evolutions || []).map(evo => ({ targetId: evo[2], method: evolutionMethod(evo) })),
     sprite,
+    shinySprite: shinyManifest.sprites?.[entry.ID]?.path || "",
   };
 });
 
