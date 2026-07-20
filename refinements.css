@@ -239,6 +239,7 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .detail-form-row button { width: 28px; height: 28px; padding: 0; border: 0; border-radius: 7px; background: transparent; cursor: pointer; }
 .detail-form-row button:hover { background: var(--panel); }
 .detail-form-row span { overflow: hidden; font-size: 9px; font-weight: 850; text-overflow: ellipsis; text-transform: uppercase; white-space: nowrap; }
+.pokemon-form-change{display:grid;grid-template-columns:58px minmax(0,1fr) auto;align-items:center;gap:12px;margin:18px 0 2px;padding:12px;border:1px solid color-mix(in srgb,#62a13d 50%,var(--line));border-radius:14px;background:linear-gradient(110deg,color-mix(in srgb,#62a13d 11%,var(--panel2)),var(--panel2))}.pokemon-form-change>img{width:52px;height:52px;object-fit:contain}.pokemon-form-change h3{margin:3px 0 2px;font-size:14px}.pokemon-form-change p{margin:0;color:var(--muted);font-size:8px;line-height:1.5}.pokemon-form-change>button{min-height:38px;padding:7px 11px;border:1px solid #62a13d;border-radius:9px;background:color-mix(in srgb,#62a13d 14%,var(--panel));color:var(--text);font-size:8px;font-weight:900;white-space:nowrap;cursor:pointer}.pokemon-form-change>button:hover{background:#62a13d;color:#fff}@media(max-width:620px){.pokemon-form-change{grid-template-columns:46px 1fr}.pokemon-form-change>img{width:42px;height:42px}.pokemon-form-change>button{grid-column:1/-1;width:100%}}
 .evolutions { margin-top: 24px; }
 .evolutions > h3 { margin-bottom: 10px; }
 .evolution-group { padding-top: 12px; border-top: 1px solid var(--line); }
