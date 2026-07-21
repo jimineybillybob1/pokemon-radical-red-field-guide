@@ -72,10 +72,11 @@ dialog.map-dialog #dialogContent { height:100%;padding:0 }
 .celebration-layer { position:fixed;inset:0;z-index:9998;overflow:hidden;border-radius:inherit;pointer-events:none }
 @keyframes celebrateBurst { 55% { transform:translate(calc(var(--x) + var(--dx)),calc(var(--y) + var(--dy))) rotate(var(--r));opacity:1 } 100% { transform:translate(calc(var(--x) + var(--dx)),calc(var(--y) + 170px)) rotate(var(--r));opacity:0 } }
 .legendary-controls { margin-bottom:18px;padding:13px;border:1px solid var(--line);border-radius:18px;background:var(--panel);box-shadow:0 0 0 1px rgba(255,48,78,.25),0 0 14px rgba(255,34,68,.16) }
-.legendary-controls>div { display:grid;grid-template-columns:1fr auto;gap:9px }
+.legendary-controls>div { display:grid;grid-template-columns:minmax(0,1fr) auto auto;gap:9px }
 .legendary-controls input,.legendary-controls>div button { height:42px;border:1px solid var(--line);border-radius:10px;background:var(--panel2);color:var(--text) }
 .legendary-controls input { padding:0 12px;outline:none }.legendary-controls input:focus { border-color:var(--red) }
 .legendary-controls>div button { padding:0 15px;font-weight:850;cursor:pointer }
+.legendary-controls .location-hide-caught{height:42px;background:var(--panel2);font-size:9px;font-weight:850}.legendary-controls .location-hide-caught input{width:16px;height:16px;padding:0;border:0;background:transparent}
 .legendary-controls nav { display:flex;flex-wrap:wrap;gap:5px;margin-top:10px }
 .legendary-controls nav button { padding:5px 8px;border:1px solid var(--line);border-radius:99px;background:transparent;color:var(--muted);font-size:8px;cursor:pointer }
 .legendary-controls nav button.active { border-color:var(--red);background:var(--red);color:#fff }
